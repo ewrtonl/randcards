@@ -1,0 +1,60 @@
+.gameModeContainer {
+    width: 80vw;
+    max-width: 300px;
+}
+
+.gameMode {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+}
+
+.link {
+    width: 100%;
+}
+
+.gameMode button {
+    padding: 18px;
+    border: none;
+    border-radius: 20px;
+    color: #252525;
+    font-size: 1.3rem;
+    font-weight: 700;
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+
+    width: 100%;
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    justify-content: center;
+
+    transition: .3s;
+}
+
+.gameMode button:hover {
+    transform: scale(1.05);
+}
+
+.gameMode button:nth-child(1) {
+    background-color: #9EFF63;
+}
+
+.gameMode button:nth-child(2) {
+    background-color: #41d1c5;
+}
+
+.gameMode button:nth-child(3) {
+    background-color: #ffaf38;
+}
+
+.gameMode button:nth-child(4) {
+    background-color: #FF5050;
+}
+
+.gameMode button:nth-child(5) {
+    background-color: #db9cff;
+    cursor: not-allowed;
+}

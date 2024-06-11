@@ -26,16 +26,18 @@
   border: none;
   border-radius: 20px;
   background-color: #FFDD63;
-  color: #404040;
+  color: #252525;
   font-size: 1.3rem;
   font-weight: 700;
   cursor: pointer;
+  width: 100%;
 
   transition: .3s;
 }
 
 .buttons-main button:hover {
   transform: scale(1.05);
+  background-color: #ffd437;
 }
 
 .footer {
@@ -50,7 +52,7 @@
 }
 
 .footer a img:hover{
-  transform: scale(1.1);
+  transform: scale(1.2);
 }
 
 .lang {

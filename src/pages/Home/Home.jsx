@@ -1,6 +1,8 @@
 import './Home.css'
 import logo from '../../assets/logo.svg'
 import github from '../../assets/github-mark-white.svg'
+import { Link } from 'react-router-dom'
+import { Globe } from '@phosphor-icons/react'
 
 export default function Home() {
 
@@ -10,7 +12,11 @@ export default function Home() {
       <img className='logo' src={logo} alt="" />
 
       <div className='buttons-main'>
+
+        <Link to={"/gamemode"}>
         <button>iniciar</button>
+        </Link>
+        
         <button>como jogar</button>
       </div>
 
@@ -21,8 +27,8 @@ export default function Home() {
         </a>
 
         <div className='lang'>
-            <p>🌎</p>
-            <p>Portuguese</p>
+          <Globe size={22} />
+          <p>Portuguese</p>
         </div>
       </div>
       
