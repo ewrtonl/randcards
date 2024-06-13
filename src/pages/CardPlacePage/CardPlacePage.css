@@ -1,0 +1,42 @@
+.cardPlaceContainer {
+    width: 80vw;
+    max-width: 450px;
+    background-color: rgba(255, 255, 255, .6);
+    padding: 20px;
+    border-radius: 15px;
+    color: #252525;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+
+    max-height: 80vh;
+}
+
+.cardPlaceContainer h2 {
+    background-color: #ffaf38;
+    border-radius: 10px;
+    padding: 15px;
+    width: 100%;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 4px, rgba(0, 0, 0, 0.1) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+
+.even-tip-person {
+    background-color: rgba(255, 175, 56, .2);            
+    padding: 10px;
+    border-radius: 10px;
+    margin: 7px 0;
+    font-weight: 500;
+}
+  
+.odd-tip-person {
+    background-color: rgba(255, 160, 19, 0.4);
+    padding: 10px;
+    border-radius: 10px;
+    margin: 7px 0;
+    font-weight: 500;
+}

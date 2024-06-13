@@ -1,11 +1,14 @@
 import './CardPersonPage.css'
 import dataPerson from '../../cards/Person'
+import { CaretLeft } from '@phosphor-icons/react'
+import { Link } from 'react-router-dom';
 
 export default function CardPersonPage() {
 
   const randomNumber = Math.floor(Math.random() * dataPerson.length);
   
   console.log(randomNumber)
+  console.log("tamanho: " + dataPerson.length)
   console.log(dataPerson[randomNumber].answer)
 
   const TipsList = ({ tips }) => {
@@ -22,6 +25,13 @@ export default function CardPersonPage() {
 
   return (
     <div>
+
+      <Link to={"/gamemode"}>
+        <button className='backButton'>
+          <CaretLeft size={18} />
+          <p>voltar</p>
+        </button>
+      </Link>
 
       <div className='cardPersonContainer'>
         <h4>diga aos jogadores que sou uma PESSOA</h4>
