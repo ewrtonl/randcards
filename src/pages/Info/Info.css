@@ -86,23 +86,6 @@
   display: flex;
 }
 
-.infoContainer img {
-  margin-top: -15px;
-  align-self: center;
-  
-  width: 80vw;
-  max-width: 120px;
-  filter: opacity(0.8);
-
-  transition: .3s;
-  cursor: pointer;
-}
-
-.infoContainer img:hover {
-  filter: opacity(1);
-  transform:rotate(360deg);
-}
-
 .infoContentTwo p:nth-child(1) {
   font-weight: 400;
 }

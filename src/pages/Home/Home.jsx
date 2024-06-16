@@ -1,5 +1,5 @@
 import "./Home.css";
-import logo from "../../assets/logo.svg";
+import logo from "../../assets/rclogo.svg";
 import { Link } from "react-router-dom";
 import { Globe, GithubLogo } from "@phosphor-icons/react";
 

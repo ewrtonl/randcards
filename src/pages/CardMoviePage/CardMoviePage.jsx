@@ -1,20 +1,23 @@
-import './CardMoviePage.css'
-import dataPerson from '../../cards/Person'
-import { CaretLeft } from '@phosphor-icons/react'
-import { Link } from 'react-router-dom';
+import "./CardMoviePage.css";
+import dataMovie from "../../cards/Movie";
+import { CaretLeft, CrownSimple } from "@phosphor-icons/react";
+import { Link } from "react-router-dom";
 
 export default function CardMoviePage() {
+  const randomNumber = Math.floor(Math.random() * dataMovie.length);
 
-  const randomNumber = Math.floor(Math.random() * dataPerson.length);
-  
-  console.log(randomNumber)
-  console.log(dataPerson[randomNumber].answer)
+  console.log(randomNumber);
+  console.log("tamanho: " + dataMovie.length)
+  console.log(dataMovie[randomNumber].answer);
 
   const TipsList = ({ tips }) => {
     return (
       <ul>
         {tips.map((tip, index) => (
-          <li key={index} className={index % 2 === 0 ? 'even-tip-movie' : 'odd-tip-movie'}>
+          <li
+            key={index}
+            className={index % 2 === 0 ? "even-tip-movie" : "odd-tip-movie"}
+          >
             <span className="tip-index">{index + 1} </span> {tip}
           </li>
         ))}
@@ -24,24 +27,42 @@ export default function CardMoviePage() {
 
   return (
     <div>
-
       <Link to={"/gamemode"}>
-        <button className='backButton'>
+        <button className="backButton">
           <CaretLeft size={18} />
           <p>voltar</p>
         </button>
       </Link>
 
-      <div className='cardMovieContainer'>
-        <h4>diga aos jogadores que sou estou relacionado a FILMES ou TV</h4>
+      <div className="cardMovieContainer">
+        {dataMovie[randomNumber].answer && (
+          <>
+            <h4>FILME & TV</h4>
+            <h2>
+              {dataMovie[randomNumber].answer}{" "}
+              <span className="suportAnswer">
+                {dataMovie[randomNumber].suport}
+              </span>
+            </h2>
 
-        <h2>{dataPerson[randomNumber].answer}</h2>
+            <div className="tipsBox">
+              <TipsList tips={dataMovie[randomNumber].tips} />
+            </div>
+          </>
+        )}
 
-        <div className='tipsBox'>
-        <TipsList tips={dataPerson[randomNumber].tips} />
-        </div>
+        {dataMovie[randomNumber].power && (
+          <div className="cardPower">
+            <div>
+              <CrownSimple size={32} />
+              <h4>CARD ESPECIAL</h4>
+            </div>
+
+            <h3>{dataMovie[randomNumber].power}</h3>
+            <p>{dataMovie[randomNumber].powerInfo}</p>
+          </div>
+        )}
       </div>
-
     </div>
-  )
+  );
 }

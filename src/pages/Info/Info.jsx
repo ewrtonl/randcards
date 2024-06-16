@@ -27,6 +27,39 @@ export default function Info() {
             menor número possível de dicas. Quanto menos dicas você precisar
             para acertar, mais pontos você ganhará.
           </p>
+
+          <p>
+            <span>4.</span> Os jogadores decidem entre si quem será o primeiro
+            mediador. A escolha pode ser feita por sorteio, votação ou qualquer
+            outro método acordado.
+          </p>
+
+          <p>
+            <span>5.</span> O jogador sentado à esquerda do mediador escolhe um
+            número de 1 a 15 e o mediador lê em voz alta a dica correspondente ao
+            número escolhido pelo jogador.
+          </p>
+
+          <p>
+            <span>6.</span> Após a leitura da dica, o jogador que a escolheu tem
+            a oportunidade de adivinhar a identidade do card, dizendo quem ou o
+            que ele acredita estar representado nele. Se o jogador preferir não
+            dar um palpite, ele pode passar a vez para o jogador à sua esquerda.
+          </p>
+
+          <p>
+            <span>7.</span> Se o jogador acertar, uma nova carta é sorteada e o
+            jogador à esquerda se torna o novo mediador. Se o jogador errar, a
+            vez passa para o próximo jogador à esquerda, que seguirá o mesmo
+            processo.
+          </p>
+
+          <p>
+            <span>8.</span> Cada card vale 15 pontos. Esses pontos são divididos
+            entre o mediador e o jogador que acertar o palpite. O mediador
+            recebe um ponto para cada dica revelada. O jogador que acertar
+            recebe pontos equivalentes ao número de dicas não reveladas.
+          </p>
         </div>
 
         <div className="infoContentTwo">
@@ -67,8 +100,6 @@ export default function Info() {
           para garantir uma experiência de jogo justa e divertida para todos.
           Aproveite o jogo!
         </p>
-
-        <img src={logobw} alt="" />
       </div>
     </div>
   );
