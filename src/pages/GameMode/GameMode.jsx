@@ -1,3 +1,4 @@
+import { useNavigate } from "react-router-dom";
 import "./GameMode.css";
 import { Link } from "react-router-dom";
 import {
@@ -10,9 +11,23 @@ import {
 } from "@phosphor-icons/react";
 
 export default function GameMode() {
+  const navigate = useNavigate();
+
+  function handleShuffle() {
+    const random = Math.floor(Math.random() * 4) + 1;
+    if (random === 1) {
+      navigate("/personcard");
+    } else if (random === 2) {
+      navigate("/thingcard");
+    } else if (random === 3) {
+      navigate("/placecard");
+    } else if (random === 4) {
+      navigate("/moviecard");
+    }
+  }
+
   return (
     <div className="gameModeContainer">
-
       <Link to={"/"} className="homeBtn">
         <HouseLine size={32} />
       </Link>
@@ -42,7 +57,7 @@ export default function GameMode() {
           </button>
         </Link>
 
-        <button className="btnFive">
+        <button className="btnFive" onClick={handleShuffle}>
           aleatório ​<Shuffle size={30} />
           ​​​️​
         </button>

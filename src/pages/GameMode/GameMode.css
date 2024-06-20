@@ -81,6 +81,5 @@
 }
 
 .gameMode button:nth-child(5) {
-  background-color: #db9cff;
-  cursor: not-allowed;
+  background-color: #dba1fc;
 }
