@@ -3179,6 +3179,46 @@ const dataPerson = [
     ],
   },
   {
+    answer: "Narrador",
+    tips: [
+      "Conta histórias para audiências variadas.",
+      "Pode trabalhar em rádio, TV e audiolivros.",
+      "A voz é sua principal ferramenta.",
+      "Necessita de dicção clara e expressiva.",
+      "Muitas vezes acompanha a narrativa de eventos.",
+      "Pode atuar em documentários e filmes.",
+      "Suas palavras trazem vida a personagens fictícios.",
+      "O ritmo e entonação são cruciais.",
+      "Às vezes, a profissão é solitária.",
+      "Pode também ler livros ao vivo.",
+      "Requer habilidades de interpretação.",
+      "Muitas vezes trabalha em estúdios de gravação.",
+      "Deve entender bem o conteúdo que narra.",
+      "Pode ser contratado para eventos ao vivo.",
+      "Seu trabalho é ouvido por muitos, mas raramente visto.",
+    ],
+  },
+  {
+    answer: "Miss Universo",
+    tips: [
+      "Envolve viagens internacionais frequentes.",
+      "A vencedora representa uma organização global.",
+      "Requer habilidades excepcionais de comunicação.",
+      "Envolve comparecimento a eventos beneficentes e de caridade.",
+      "A titular deve manter uma imagem pública impecável.",
+      "Trabalha em estreita colaboração com marcas e patrocinadores.",
+      "Precisa gerenciar sua própria plataforma de mídia social.",
+      "Envolve treinamento em passarela e etiqueta.",
+      "Participa de campanhas de conscientização.",
+      "Precisa ter habilidades de oratória para entrevistas e discursos.",
+      "A preparação inclui cuidados com a saúde e bem-estar.",
+      "Participa de sessões fotográficas e gravações comerciais.",
+      "O contrato dura um ano, com atividades intensas.",
+      "Requer a capacidade de inspirar e liderar.",
+      "A titular deve ter um forte senso de responsabilidade social.",
+    ],
+  },
+  {
     answer: "Nelson Mandela",
     tips: [
       "Foi um líder revolucionário anti-apartheid e o primeiro presidente negro da África do Sul.",
@@ -3457,6 +3497,11 @@ const dataPerson = [
       "Sua personalidade e ideias foram objeto de análise e debate entre historiadores e psicólogos.",
       "Sua ascensão ao poder e suas políticas representam um lembrete sombrio do perigo do extremismo e da intolerância.",
     ],
+  },
+  {
+    power: "dedos apontados",
+    powerInfo:
+      "Escolha um jogador. Este jogador, por sua vez, deve indicar outro jogador para sofrer uma perda de 15 pontos de sua pontuação total ou voltar 15 casas. Em seguida, gere uma nova carta e continue a rodada.",
   },
   {
     answer: "Karl Marx",
@@ -4627,6 +4672,11 @@ const dataPerson = [
       "Participa de cânticos e liturgias.",
       "Sua vocação é servir ao divino.",
     ],
+  },
+  {
+    power: "dedos apontados",
+    powerInfo:
+      "Escolha um jogador. Este jogador, por sua vez, deve indicar outro jogador para sofrer uma perda de 15 pontos de sua pontuação total ou voltar 15 casas. Em seguida, gere uma nova carta e continue a rodada.",
   },
 ];
 

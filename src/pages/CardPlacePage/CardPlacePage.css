@@ -35,18 +35,22 @@
   font-style: italic;
 }
 
-.even-tip-person {
+.even-tip-place {
   background-color: rgba(255, 175, 56, 0.2);
   padding: 10px;
   border-radius: 10px;
   margin: 7px 0;
   font-weight: 500;
+
+  cursor: pointer;
 }
 
-.odd-tip-person {
+.odd-tip-place {
   background-color: rgba(255, 160, 19, 0.4);
   padding: 10px;
   border-radius: 10px;
   margin: 7px 0;
   font-weight: 500;
+
+  cursor: pointer;
 }

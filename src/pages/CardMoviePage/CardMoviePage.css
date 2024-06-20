@@ -33,6 +33,8 @@
     border-radius: 10px;
     margin: 7px 0;
     font-weight: 500;
+
+    cursor: pointer;
 }
   
 .odd-tip-movie {
@@ -41,4 +43,6 @@
     border-radius: 10px;
     margin: 7px 0;
     font-weight: 500;
+
+    cursor: pointer;
 }

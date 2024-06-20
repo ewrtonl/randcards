@@ -1,7 +1,6 @@
 import "./Info.css";
 import { Link } from "react-router-dom";
 import { WarningCircle, X } from "@phosphor-icons/react";
-import logobw from "../../assets/logobw.svg";
 
 export default function Info() {
   return (
@@ -13,38 +12,41 @@ export default function Info() {
         <div className="infoContentOne">
           <p>
             <span>1.</span> Em cada rodada, uma carta representando um perfil
-            secreto é selecionada aleatoriamente.
+            secreto é selecionada aleatoriamente. Os jogadores, em sua vez,
+            recebem pistas sobre o perfil secreto. Essas dicas podem revelar
+            características ou informações relacionadas ao perfil em questão.
           </p>
 
           <p>
-            <span>2.</span> Os jogadores, em sua vez, recebem pistas sobre o
-            perfil secreto. Essas dicas podem revelar características ou
-            informações relacionadas ao perfil em questão.
-          </p>
-
-          <p>
-            <span>3.</span> O objetivo é identificar o perfil secreto usando o
+            <span>2.</span> O objetivo é identificar o perfil secreto usando o
             menor número possível de dicas. Quanto menos dicas você precisar
             para acertar, mais pontos você ganhará.
           </p>
 
           <p>
-            <span>4.</span> Os jogadores decidem entre si quem será o primeiro
+            <span>3.</span> Os jogadores decidem entre si quem será o primeiro
             mediador. A escolha pode ser feita por sorteio, votação ou qualquer
             outro método acordado.
           </p>
 
           <p>
-            <span>5.</span> O jogador sentado à esquerda do mediador escolhe um
-            número de 1 a 15 e o mediador lê em voz alta a dica correspondente ao
-            número escolhido pelo jogador.
+            <span>4.</span> O jogador sentado à esquerda do mediador escolhe um
+            número de 1 a 15 e o mediador lê em voz alta a dica correspondente
+            ao número escolhido pelo jogador.
           </p>
 
           <p>
-            <span>6.</span> Após a leitura da dica, o jogador que a escolheu tem
+            <span>5.</span> Após a leitura da dica, o jogador que a escolheu tem
             a oportunidade de adivinhar a identidade do card, dizendo quem ou o
             que ele acredita estar representado nele. Se o jogador preferir não
             dar um palpite, ele pode passar a vez para o jogador à sua esquerda.
+          </p>
+
+          <p>
+            <span>6.</span> Após ler a dica, o mediador pode clicar sobre ela
+            para descartá-la. Isso ajuda a prevenir confusões na contagem de
+            pontos e assegura que todos os participantes saibam que a dica já
+            foi utilizada.
           </p>
 
           <p>
@@ -63,12 +65,11 @@ export default function Info() {
         </div>
 
         <div className="infoContentTwo">
-          <p>Os perfis podem pertencer a uma das seguintes categorias:</p>
+          <p>Os <span>1300 cards</span> estão distribuídos e podem pertencer às seguintes categorias:</p>
 
           <p className="infoThemeOne">
             <span>Pessoa</span>
-            inclui qualquer ser humano, vivo ou morto, bem como diversas
-            profissões.
+            inclui qualquer ser humano, vivo ou morto, bem como profissões.
           </p>
 
           <p className="infoThemeTwo">
@@ -86,6 +87,45 @@ export default function Info() {
           <p className="infoThemeFour">
             <span>Filme e TV</span>
             engloba filmes, séries, programas de televisão e personagens destes.
+          </p>
+        </div>
+
+        <div className="infoSpecialCards">
+          <p>Cards Especiais</p>
+
+          <p>
+            Durante o sorteio de cartas, o jogador pode ocasionalmente receber
+            uma carta especial em vez de uma carta normal. As cartas especiais
+            são:
+          </p>
+
+          <p>
+            <span>Dedos apontados</span>
+            Escolha um jogador. Este jogador, por sua vez, deve indicar outro
+            jogador para sofrer uma perda de 15 pontos de sua pontuação total ou
+            voltar 15 casas. Em seguida, gere uma nova carta e continue a
+            rodada.
+          </p>
+
+          <p>
+            <span>Azar do destino</span>
+            Escolha um jogador para ser vítima do infortúnio. Este jogador terá
+            que subtrair 15 pontos de sua pontuação total ou voltar 15 casas. Em
+            seguida, gere uma nova carta e continue a rodada.
+          </p>
+
+          <p>
+            <span>Pausa para reflexão</span>
+            Escolha um jogador para fazer uma pausa, excluindo-o da rodada
+            atual. Em seguida, gere uma nova carta e continue a rodada.
+          </p>
+
+          <p>
+            <span>Tempo de espera</span>
+            Escolha um jogador para fazer uma pausa e refletir, impedindo-o de
+            dar palpites ou tomar ações durante três de suas próximas
+            oportunidades de jogar, independentemente de novas rodadas terem
+            sido iniciadas. Em seguida, gere uma nova carta e continue a rodada.
           </p>
         </div>
 

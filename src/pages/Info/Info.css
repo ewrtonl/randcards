@@ -49,6 +49,7 @@
   font-size: 25px;
   font-weight: 900;
   font-style: italic;
+  margin-right: 1px;
 }
 
 .infoContentTwo {
@@ -81,6 +82,33 @@
   background-color: #ff5050;
 }
 
+.infoSpecialCards {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+
+  background-color: rgba(255, 175, 56, .4);
+  border-radius: 10px;
+  padding: 15px;
+}
+
+.infoSpecialCards span {
+  padding: 2px 5px;
+  margin-right: 3px;
+
+  font-weight: 600;
+  font-size: 17px;
+
+  background-color: rgba(37, 37, 37, .9);
+  color: #fff;
+}
+
+.infoSpecialCards p:nth-child(1){
+  text-align: center;
+  font-weight: 700;
+}
+
+
 .infoContentThree {
   font-weight: 400;
   display: flex;
@@ -99,10 +127,10 @@
 }
 
 .infoContent::-webkit-scrollbar-thumb {
-  background: rgba(136, 136, 136, 0.5);
+  background: rgba(230, 130, 0, 0.5);
   border-radius: 20px;
 }
 
 .infoContent::-webkit-scrollbar-thumb:hover {
-  background: #999999;
+  background: #e29300;
 }

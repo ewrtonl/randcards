@@ -2,13 +2,11 @@ import "./GameMode.css";
 import { Link } from "react-router-dom";
 import {
   FlyingSaucer,
-  Person,
-  GlobeHemisphereWest,
   Television,
   Shuffle,
   HouseLine,
-  Smiley,
   Island,
+  Person,
 } from "@phosphor-icons/react";
 
 export default function GameMode() {
@@ -22,7 +20,7 @@ export default function GameMode() {
       <div className="gameMode">
         <Link to={"/personcard"} className="link">
           <button className="btnOne">
-            pessoa <Smiley size={30} />
+            pessoa <Person size={28} />
           </button>
         </Link>
 
@@ -40,7 +38,7 @@ export default function GameMode() {
 
         <Link to={"/moviecard"} className="link">
           <button className="btnFour">
-            filme e tv <Television size={30} />
+            filme & tv <Television size={30} />
           </button>
         </Link>
 

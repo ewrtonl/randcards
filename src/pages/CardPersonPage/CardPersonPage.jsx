@@ -1,20 +1,40 @@
+import { useState, useEffect } from "react";
 import "./CardPersonPage.css";
 import dataPerson from "../../cards/Person";
-import { CaretLeft, CrownSimple } from "@phosphor-icons/react";
+import { CaretLeft, CrownSimple, ArrowUpLeft } from "@phosphor-icons/react";
 import { Link } from "react-router-dom";
 
 export default function CardPersonPage() {
-  const randomNumber = Math.floor(Math.random() * dataPerson.length);
+  const [clickedTipIndices, setClickedTipIndices] = useState([]);
+  const [randomNumber, setRandomNumber] = useState(null);
 
-  console.log(randomNumber);
-  console.log("tamanho: " + dataPerson.length);
-  console.log(dataPerson[randomNumber].answer);
+  useEffect(() => {
+    setRandomNumber(Math.floor(Math.random() * dataPerson.length));
+  }, []);
+
+  if (randomNumber === null) {
+    return null;
+  }
+
+  const handleTipClick = (index) => {
+    setClickedTipIndices((prevIndices) =>
+      prevIndices.includes(index)
+        ? prevIndices.filter((i) => i !== index)
+        : [...prevIndices, index]
+    );
+  };
 
   const TipsList = ({ tips }) => {
     return (
       <ul>
         {tips.map((tip, index) => (
-          <li key={index} className={index % 2 === 0 ? "even-tip" : "odd-tip"}>
+          <li
+            key={index}
+            className={`${index % 2 === 0 ? "even-tip" : "odd-tip"} ${
+              clickedTipIndices.includes(index) ? "clicked-tip" : ""
+            }`}
+            onClick={() => handleTipClick(index)}
+          >
             <span className="tip-index">{index + 1} </span> {tip}
           </li>
         ))}
@@ -26,13 +46,11 @@ export default function CardPersonPage() {
     <div>
       <Link to={"/gamemode"}>
         <button className="backButton">
-          <CaretLeft size={18} />
-          <p>voltar</p>
+          <ArrowUpLeft size={26} />
         </button>
       </Link>
 
       <div className="cardPersonContainer">
-
         {dataPerson[randomNumber].answer && (
           <>
             <h4>PESSOA</h4>

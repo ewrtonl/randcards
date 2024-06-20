@@ -37,10 +37,12 @@ h4 {
   background-color: rgba(255, 255, 255, 0.6);
   border: none;
   font-size: 17px;
-  border-radius: 20px;
+  border-radius: 15px;
   padding: 10px 15px;
   font-weight: 500;
   margin-bottom: 10px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 4px,
+    rgba(0, 0, 0, 0.1) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -2px 0px inset;
 
   display: flex;
   align-items: center;
@@ -57,6 +59,7 @@ h4 {
 
 .tipsBox {
   overflow-y: auto;
+  width: 100%;
 }
 
 .tip-index {
@@ -71,6 +74,8 @@ h4 {
   border-radius: 10px;
   margin: 7px 0;
   font-weight: 500;
+
+  cursor: pointer;
 }
 
 .odd-tip {
@@ -79,6 +84,13 @@ h4 {
   border-radius: 10px;
   margin: 7px 0;
   font-weight: 500;
+
+  cursor: pointer;
+}
+
+.clicked-tip {
+  background-color: rgba(204, 204, 204, 0.1);
+  color: rgba(153, 153, 153, 0.3);
 }
 
 .tipsBox::-webkit-scrollbar {
