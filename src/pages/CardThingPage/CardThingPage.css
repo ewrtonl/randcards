@@ -1,5 +1,5 @@
 .cardThingContainer {
-    width: 80vw;
+    width: 90vw;
     max-width: 450px;
     background-color: rgba(255, 255, 255, .6);
     padding: 20px;
@@ -27,7 +27,7 @@
 }
 
 .even-tip-thing {
-    background-color: rgba(65, 209, 197, .2);            
+    background-color: rgba(65, 209, 197, .15);            
     padding: 10px;
     border-radius: 10px;
     margin: 7px 0;
@@ -37,7 +37,7 @@
 }
   
 .odd-tip-thing {
-    background-color: rgba(42, 197, 184, 0.4);
+    background-color: rgba(42, 197, 184, 0.27);
     padding: 10px;
     border-radius: 10px;
     margin: 7px 0;

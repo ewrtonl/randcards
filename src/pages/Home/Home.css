@@ -2,7 +2,7 @@
   padding: 20px;
 
   display: grid;
-  grid-template-rows: 1fr 1fr 20%;
+  grid-template-rows: 2fr 1fr 20%;
   justify-items: center;
   align-items: center;
   height: 100vh;
@@ -54,7 +54,11 @@
 }
 
 .footer a:hover{
-  transform: scale(1.2);
+  transform: scale(1.1);
+}
+
+.footer img {
+  width: 35px;
 }
 
 .lang {

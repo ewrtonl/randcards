@@ -1,6 +1,6 @@
 import "./Info.css";
 import { Link } from "react-router-dom";
-import { WarningCircle, X } from "@phosphor-icons/react";
+import { X } from "@phosphor-icons/react";
 
 export default function Info() {
   return (
@@ -11,7 +11,7 @@ export default function Info() {
       <div className="infoContent">
         <div className="infoContentOne">
           <p>
-            <span>1.</span> Em cada rodada, uma carta representando um perfil
+            <span>1.</span> Em cada rodada, um card representando um perfil
             secreto é selecionada aleatoriamente. Os jogadores, em sua vez,
             recebem pistas sobre o perfil secreto. Essas dicas podem revelar
             características ou informações relacionadas ao perfil em questão.
@@ -74,7 +74,7 @@ export default function Info() {
 
           <p className="infoThemeTwo">
             <span>Lugar</span>
-            abrange qualquer formação natural, construção humana ou lugares
+            abrange cidades, estados, países, qualquer formação natural, construção humana ou lugares
             fictícios.
           </p>
 
@@ -130,7 +130,6 @@ export default function Info() {
         </div>
 
         <p className="infoContentThree">
-          <WarningCircle size={20} />
           Por favor, note que essa plataforma é responsável apenas por gerar as
           cartas de perfil. A contagem de pontos é uma parte essencial do jogo,
           mas é deixada inteiramente a critério dos jogadores. Você pode optar

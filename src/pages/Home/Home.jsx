@@ -2,6 +2,7 @@ import "./Home.css";
 import logo from "../../assets/rclogo.svg";
 import { Link } from "react-router-dom";
 import { Globe, GithubLogo } from "@phosphor-icons/react";
+import githubwhite from "../../assets/githubwhite.svg";
 
 export default function Home() {
   return (
@@ -20,7 +21,7 @@ export default function Home() {
 
       <div className="footer">
         <a href="https://github.com/ewrtonl" target="_blank">
-          <GithubLogo size={35} />
+          <img src={githubwhite} alt="" />
         </a>
 
         <div className="lang">
