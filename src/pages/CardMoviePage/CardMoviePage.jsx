@@ -8,19 +8,8 @@ export default function CardMoviePage() {
   const [clickedTipIndices, setClickedTipIndices] = useState([]);
   const [randomNumber, setRandomNumber] = useState(null);
 
-  const getRandomNumber = (min, max) => {
-    const range = max - min + 1;
-    const bytes = Math.ceil(Math.log2(range) / 8);
-    const maxValid = 256 ** bytes - (256 ** bytes) % range;
-    let random;
-    do {
-      random = parseInt(Array.from(crypto.getRandomValues(new Uint8Array(bytes))).map(byte => byte.toString(16).padStart(2, '0')).join(''), 16);
-    } while (random >= maxValid);
-    return min + (random % range);
-  };
-
   useEffect(() => {
-    setRandomNumber(getRandomNumber(0, dataMovie.length - 1));
+    setRandomNumber(Math.floor(Math.random() * dataMovie.length));
   }, []);
 
   if (randomNumber === null) {

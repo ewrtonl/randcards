@@ -5398,6 +5398,7 @@ const dataThing = [
       "Pode ser monitorada e prevista com tecnologia moderna.",
     ],
   },
+
   {
     answer: "Aurora Boreal",
     tips: [
@@ -5496,6 +5497,26 @@ const dataThing = [
       "A recuperação das áreas afetadas pode levar anos.",
       "É um fenômeno natural, mas pode ser exacerbado por fatores humanos.",
       "Pode ser causado por erupções vulcânicas subaquáticas.",
+    ],
+  },
+  {
+    answer: "Bomba Nuclear",
+    tips: [
+      "Provoca uma explosão de enorme magnitude.",
+      "Desenvolvida durante a Segunda Guerra Mundial.",
+      "Utiliza fissão nuclear para liberar energia.",
+      "Pode ter efeitos devastadores a longo prazo.",
+      "A primeira usada em combate foi em 1945.",
+      "Gera uma onda de choque intensa.",
+      "Produz radiação ionizante.",
+      "Uma única detonação pode alterar o clima local.",
+      "Foi tema de corrida armamentista durante a Guerra Fria.",
+      "O tipo mais comum utiliza plutônio ou urânio.",
+      "Pode ser detonada no ar, na superfície ou subterraneamente.",
+      "Gerou movimentos globais contra seu uso.",
+      "Causa um flash de luz extremamente brilhante.",
+      "Resulta em uma nuvem em forma de cogumelo.",
+      "Seu uso é regulamentado por tratados internacionais.",
     ],
   },
   {
