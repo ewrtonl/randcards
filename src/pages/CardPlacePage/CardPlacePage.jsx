@@ -8,8 +8,19 @@ export default function CardPlacePage() {
   const [clickedTipIndices, setClickedTipIndices] = useState([]);
   const [randomNumber, setRandomNumber] = useState(null);
 
+  const getRandomNumber = (min, max) => {
+    const range = max - min + 1;
+    const bytes = Math.ceil(Math.log2(range) / 8);
+    const maxValid = 256 ** bytes - (256 ** bytes) % range;
+    let random;
+    do {
+      random = parseInt(Array.from(crypto.getRandomValues(new Uint8Array(bytes))).map(byte => byte.toString(16).padStart(2, '0')).join(''), 16);
+    } while (random >= maxValid);
+    return min + (random % range);
+  };
+
   useEffect(() => {
-    setRandomNumber(Math.floor(Math.random() * dataPlace.length));
+    setRandomNumber(getRandomNumber(0, dataPlace.length - 1));
   }, []);
 
   if (randomNumber === null) {
