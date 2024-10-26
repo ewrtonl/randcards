@@ -1731,6 +1731,7 @@ const dataPlace = [
   },
   {
     answer: "Cabo Canaveral",
+    suport: ["Flórida"],
     tips: [
       "É um local na costa atlântica dos Estados Unidos conhecido por lançamentos espaciais.",
       "O centro espacial é administrado por uma agência governamental.",
@@ -1951,6 +1952,7 @@ const dataPlace = [
   },
   {
     answer: "Copacabana",
+    suport: ['Rio de Janeiro', 'Brasil'],
     tips: [
       "É um famoso bairro localizado em uma cidade costeira sul-americana.",
       "Conhecido por sua extensa praia em formato de meia-lua.",
@@ -1971,6 +1973,7 @@ const dataPlace = [
   },
   {
     answer: "Américas",
+    suport: ['Continente'],
     tips: [
       "É um vasto território que se estende de um polo ao outro.",
       "O maior sistema de rios do mundo está localizado aqui.",
@@ -1991,6 +1994,7 @@ const dataPlace = [
   },
   {
     answer: "Europa",
+    suport: ['Continente'],
     tips: [
       "É um território com uma história longa e complexa de impérios e nações.",
       "A Revolução Industrial começou aqui.",
@@ -2011,6 +2015,7 @@ const dataPlace = [
   },
   {
     answer: "Oceania",
+    suport: ['Continente'],
     tips: [
       "É composto por milhares de ilhas espalhadas por um vasto oceano.",
       "A Grande Barreira de Corais é uma das maravilhas naturais mais conhecidas daqui.",
@@ -2031,6 +2036,7 @@ const dataPlace = [
   },
   {
     answer: "África",
+    suport: ['Continente'],
     tips: [
       "É o segundo maior território em termos de área e população.",
       "Abriga o deserto mais extenso do mundo.",
@@ -2051,6 +2057,7 @@ const dataPlace = [
   },
   {
     answer: "Ásia",
+    suport: ['Continente'],
     tips: [
       "É o território mais populoso do mundo, abrigando mais da metade da população global.",
       "A maior montanha do mundo está localizada aqui.",
@@ -2071,6 +2078,7 @@ const dataPlace = [
   },
   {
     answer: "Antártida",
+    suport: ['Continente'],
     tips: [
       "É o território mais frio e ventoso do planeta.",
       "Não tem uma população permanente, apenas bases de pesquisa temporárias.",
@@ -2096,7 +2104,7 @@ const dataPlace = [
   },
   {
     answer: "Hogwarts",
-    suport: "(Harry Potter)",
+    suport: ["Lugar Fictício", "Harry Potter"],
     tips: [
       "Fundada há mais de mil anos por quatro indivíduos.",
       "Localizada em um país europeu famoso pela realeza.",
@@ -2117,7 +2125,7 @@ const dataPlace = [
   },
   {
     answer: "Gotham City",
-    suport: "(Batman)",
+    suport: ["Lugar Fictício", "Batman"],
     tips: [
       "Cidade famosa por sua alta taxa de criminalidade.",
       "Tem uma figura mascarada como seu guardião.",
@@ -2138,7 +2146,7 @@ const dataPlace = [
   },
   {
     answer: "Springfield",
-    suport: "(Os Simpsons)",
+    suport: ["Lugar Fictício", "Os Simpsons"],
     tips: [
       "Uma cidade pequena, mas bem conhecida.",
       "Sua planta nuclear é um ponto de referência.",
@@ -2159,7 +2167,7 @@ const dataPlace = [
   },
   {
     answer: "Westeros",
-    suport: "(Game of Thrones)",
+    suport: ["Lugar Fictício", "Game of Thrones"],
     tips: [
       "Um continente com sete regiões principais.",
       "Possui uma cadeira de poder feita de espadas.",
@@ -2180,7 +2188,7 @@ const dataPlace = [
   },
   {
     answer: "Tatooine",
-    suport: "(Star Wars)",
+    suport: ["Lugar Fictício", "Star Wars"],
     tips: [
       "Um planeta desértico com dois sóis.",
       "As dunas de areia são uma característica marcante.",
@@ -2201,7 +2209,7 @@ const dataPlace = [
   },
   {
     answer: "Hyrule",
-    suport: "(The Legend of Zelda)",
+    suport: ["Lugar Fictício", "Zelda"],
     tips: [
       "Um reino vasto e mágico.",
       "Guardado por uma princesa com poderes especiais.",
@@ -2222,7 +2230,7 @@ const dataPlace = [
   },
   {
     answer: "Nárnia",
-    suport: "(As Crônicas de Nárnia)",
+    suport: ["Lugar Fictício", "As Crônicas de Nárnia"],
     tips: [
       "Um reino acessado através de um portal inusitado.",
       "Governado por criaturas falantes e seres mágicos.",
@@ -2243,7 +2251,7 @@ const dataPlace = [
   },
   {
     answer: "Metrópolis",
-    suport: "(Superman)",
+    suport: ["Lugar Fictício", "Superman"],
     tips: [
       "Uma cidade próspera e avançada.",
       "Um arranha-céu famoso é a sede de um grande jornal.",
@@ -2264,7 +2272,7 @@ const dataPlace = [
   },
   {
     answer: "Pandora",
-    suport: "(Avatar)",
+    suport: ["Lugar Fictício", "Avatar"],
     tips: [
       "Um lugar exuberante com bioluminescência única.",
       "A fauna local inclui criaturas voadoras gigantes.",
@@ -2285,7 +2293,7 @@ const dataPlace = [
   },
   {
     answer: "Fenda do Biquíni",
-    suport: "(Bob Esponja)",
+    suport: ["Lugar Fictício", "Bob Esponja"],
     tips: [
       "Uma comunidade subaquática muito peculiar.",
       "Um restaurante de fast-food é um ponto central.",
@@ -2306,7 +2314,7 @@ const dataPlace = [
   },
   {
     answer: "Reino do Cogumelo",
-    suport: "(Super Mario)",
+    suport: ["Lugar Fictício", "Super Mario"],
     tips: [
       "Governado por uma monarca com um acessório peculiar.",
       "Canos verdes são uma forma de transporte comum.",
@@ -2327,7 +2335,7 @@ const dataPlace = [
   },
   {
     answer: "Terra Média",
-    suport: "(O Senhor dos Anéis)",
+    suport: ["Lugar Fictício", "O Senhor dos Anéis"],
     tips: [
       "Uma terra antiga repleta de magia e mistério.",
       "Habitantes incluem elfos, anões, e outras raças míticas.",
@@ -2348,7 +2356,7 @@ const dataPlace = [
   },
   {
     answer: "Raccoon City",
-    suport: "(Resident Evil)",
+    suport: ["Lugar Fictício", "Resident Evil"],
     tips: [
       "Uma cidade marcada por um desastre biológico.",
       "A corporação local tem um emblema com um guarda-chuva.",
@@ -2369,7 +2377,7 @@ const dataPlace = [
   },
   {
     answer: "Cidade das Esmeraldas",
-    suport: "(O Mágico de Oz)",
+    suport: ["Lugar Fictício", "O Mágico de Oz"],
     tips: [
       "Uma cidade brilhante no final de um caminho dourado.",
       "Governada por um misterioso e poderoso ser.",
@@ -2390,7 +2398,7 @@ const dataPlace = [
   },
   {
     answer: "Asgard",
-    suport: "(Thor)",
+    suport: ["Lugar Fictício", "Thor"],
     tips: [
       "Um reino celestial protegido por deuses guerreiros.",
       "A ponte para este lugar é um arco-íris.",
@@ -2411,7 +2419,7 @@ const dataPlace = [
   },
   {
     answer: "Wakanda",
-    suport: "(Pantera Negra)",
+    suport: ["Lugar Fictício", "Pantera Negra"],
     tips: [
       "Um reino avançado escondido da vista do mundo.",
       "Governado por um monarca que é também um herói.",
@@ -2432,7 +2440,7 @@ const dataPlace = [
   },
   {
     answer: "Hill Valley",
-    suport: "(De Volta para o Futuro)",
+    suport: ["Lugar Fictício", "De Volta para o Futuro"],
     tips: [
       "Uma cidade que vive uma grande aventura temporal.",
       "Um relógio icônico marca um evento importante.",
@@ -2653,7 +2661,7 @@ const dataPlace = [
   },
   {
     answer: "Silent Hill",
-    suport: "(Silent Hill)",
+    suport: ["Lugar Fictício", "Silent Hill"],
     tips: [
       "Uma cidade envolta em névoa constante.",
       "O som de uma sirene prenuncia eventos terríveis.",
@@ -2674,7 +2682,7 @@ const dataPlace = [
   },
   {
     answer: "Barbielândia",
-    suport: "(Barbie)",
+    suport: ["Lugar Fictício", "Barbie"],
     tips: [
       "Um lugar onde a perfeição e a diversão são a norma.",
       "As atividades incluem passeios de conversível rosa.",
@@ -2695,7 +2703,7 @@ const dataPlace = [
   },
   {
     answer: "Casa dos Sonhos da Barbie",
-    suport: "(Barbie)",
+    suport: ["Lugar Fictício", "Barbie"],
     tips: [
       "Um lar que define o luxo e a imaginação.",
       "Elevadores internos conectam os andares.",
@@ -2716,7 +2724,7 @@ const dataPlace = [
   },
   {
     answer: "Patópolis",
-    suport: "(DuckTales)",
+    suport: ["Lugar Fictício", "DuckTales"],
     tips: [
       "Uma cidade repleta de aventuras e mistérios.",
       "Um magnata excêntrico é o residente mais famoso.",
@@ -2737,7 +2745,7 @@ const dataPlace = [
   },
   {
     answer: "Asilo Arkham",
-    suport: "(Batman)",
+    suport: ["Lugar Fictício", "Batman"],
     tips: [
       "Um local sombrio e assustador, abrigando mentes perturbadas.",
       "Situa-se em uma cidade famosa por seus crimes.",
@@ -2758,7 +2766,7 @@ const dataPlace = [
   },
   {
     answer: "Cidade de Derry",
-    suport: "(It, A Coisa)",
+    suport: ["Lugar Fictício", "It, A Coisa"],
     tips: [
       "Uma cidade pequena e aparentemente tranquila.",
       "Eventos sinistros ocorrem em ciclos regulares.",
@@ -2779,7 +2787,7 @@ const dataPlace = [
   },
   {
     answer: "Jurassic Park",
-    suport: "(Jurassic Park)",
+    suport: ["Lugar Fictício", "Jurassic Park"],
     tips: [
       "Um parque que revive o passado distante.",
       "Dinossauros são as principais atrações.",
@@ -2800,7 +2808,7 @@ const dataPlace = [
   },
   {
     answer: "Bedrock",
-    suport: "(Os Flintstones)",
+    suport: ["Lugar Fictício", "Os Flintstones"],
     tips: [
       "Uma cidade pré-histórica com toques modernos.",
       "Seus habitantes usam dinossauros como ferramentas e veículos.",
@@ -2821,7 +2829,7 @@ const dataPlace = [
   },
   {
     answer: "Winterfell",
-    suport: "(Game of Thrones)",
+    suport: ["Lugar Fictício", "Game of Thrones"],
     tips: [
       "Um castelo ancestral situado em um lugar frio e severo.",
       "Governado por uma família cujo símbolo é um lobo.",
@@ -2842,7 +2850,7 @@ const dataPlace = [
   },
   {
     answer: "Porto Real",
-    suport: "(Game of Thrones)",
+    suport: ["Lugar Fictício", "Game of Thrones"],
     tips: [
       "Uma cidade capital com uma história sangrenta.",
       "Governada por uma monarquia disputada.",
@@ -2863,7 +2871,7 @@ const dataPlace = [
   },
   {
     answer: "Haddonfield",
-    suport: "(Halloween)",
+    suport: ["Lugar Fictício", "Halloween"],
     tips: [
       "Uma cidade aparentemente pacata no Meio-Oeste.",
       "Conhecida por uma noite de terror que se repete.",
@@ -2884,7 +2892,7 @@ const dataPlace = [
   },
   {
     answer: "Wisteria Lane",
-    suport: "(Desperate Housewives)",
+    suport: ["Lugar Fictício", "Desperate Housewives"],
     tips: [
       "Uma rua suburbana com casas perfeitas e segredos obscuros.",
       "As residentes formam um grupo unido, mas com desconfianças.",
@@ -2905,7 +2913,7 @@ const dataPlace = [
   },
   {
     answer: "Torre Stark",
-    suport: "(Homem de Ferro)",
+    suport: ["Lugar Fictício", "Homem de Ferro"],
     tips: [
       "Um arranha-céu que serve como base para heróis.",
       "Construído por um bilionário com uma armadura de alta tecnologia.",
@@ -2926,7 +2934,7 @@ const dataPlace = [
   },
   {
     answer: "Quemlândia",
-    suport: "(O Grinch)",
+    suport: ["Lugar Fictício", "O Grinch"],
     tips: [
       "Uma vila pitoresca com casas excêntricas.",
       "Moradores locais têm formas únicas e estranhas.",
@@ -2947,7 +2955,7 @@ const dataPlace = [
   },
   {
     answer: "Radiator Springs",
-    suport: "(Carros)",
+    suport: ["Lugar Fictício", "Carros"],
     tips: [
       "Uma cidade na Rota 66.",
       "Conhecida por seus habitantes automotivos.",
@@ -2968,6 +2976,7 @@ const dataPlace = [
   },
   {
     answer: "Inferno",
+    suport: ["Lugar Fictício", "Literatura"],
     tips: [
       "Um lugar de sofrimento eterno.",
       "Dividido em várias regiões, cada uma com suas próprias punições.",
@@ -2988,6 +2997,7 @@ const dataPlace = [
   },
   {
     answer: "Jardim do Éden",
+    suport: ["Lugar Fictício", "Literatura"],
     tips: [
       "Um paraíso primordial e intocado.",
       "Habitat de duas figuras humanas iniciais.",
@@ -3008,7 +3018,7 @@ const dataPlace = [
   },
   {
     answer: "Distrito 12",
-    suport: "(Jogos Vorazes)",
+    suport: ["Lugar Fictício", "Jogos Vorazes"],
     tips: [
       "Um lugar de mineração e pobreza.",
       "Os habitantes lutam diariamente pela sobrevivência.",
@@ -3049,7 +3059,7 @@ const dataPlace = [
   },
   {
     answer: "Camelot",
-    suport: "(Rei Arthur)",
+    suport: ["Lugar Fictício", "Rei Arthur"],
     tips: [
       "Um castelo lendário associado a um rei famoso.",
       "A Távola Redonda é o centro de suas decisões.",
@@ -3070,7 +3080,7 @@ const dataPlace = [
   },
   {
     answer: "Vice City",
-    suport: "(Grand Theft Auto)",
+    suport: ["Lugar Fictício", "GTA"],
     tips: [
       "Uma cidade inspirada em Miami dos anos 80.",
       "Palco de aventuras no submundo do crime.",
@@ -3091,7 +3101,7 @@ const dataPlace = [
   },
   {
     answer: "Hotel Overlook",
-    suport: "(O Iluminado)",
+    suport: ["Lugar Fictício", "O Iluminado"],
     tips: [
       "Um hotel isolado nas montanhas.",
       "Famoso por sua história de violência e loucura.",
@@ -3112,7 +3122,7 @@ const dataPlace = [
   },
   {
     answer: "Sodor",
-    suport: "(Thomas e Seus Amigos)",
+    suport: ["Lugar Fictício", "Thomas e Seus Amigos"],
     tips: [
       "Uma ilha onde locomotivas são personagens.",
       "Cada trem tem uma personalidade distinta.",
@@ -3133,7 +3143,7 @@ const dataPlace = [
   },
   {
     answer: "Cidade do Halloween",
-    suport: "(O Estranho Mundo de Jack)",
+    suport: ["Lugar Fictício", "O Estranho Mundo de Jack"],
     tips: [
       "Um lugar onde é sempre outono e sempre assustador.",
       "Seus habitantes incluem monstros, fantasmas e seres esqueléticos.",
@@ -3154,7 +3164,7 @@ const dataPlace = [
   },
   {
     answer: "Los Santos",
-    suport: "(Grand Theft Auto)",
+    suport: ["Lugar Fictício","GTA"],
     tips: [
       "Uma metrópole inspirada em uma famosa cidade da costa oeste.",
       "Conhecida por seu sol, praias e cultura de celebridades.",
@@ -3175,7 +3185,7 @@ const dataPlace = [
   },
   {
     answer: "Hawkins",
-    suport: "(Stranger Things)",
+    suport: ["Lugar Fictício", "Stranger Things"],
     tips: [
       "Uma pequena cidade com eventos sobrenaturais.",
       "Crianças curiosas enfrentam perigos além da imaginação.",
@@ -3196,7 +3206,7 @@ const dataPlace = [
   },
   {
     answer: "Themyscira",
-    suport: "(Mulher-Maravilha)",
+    suport: ["Lugar Fictício", "Mulher Maravilha"],
     tips: [
       "Uma ilha oculta do mundo dos homens.",
       "Habitadas por guerreiras treinadas desde a infância.",
@@ -3217,7 +3227,7 @@ const dataPlace = [
   },
   {
     answer: "A Capital",
-    suport: "(Jogos Vorazes)",
+    suport: ["Lugar Fictício", "Jogos Vorazes"],
     tips: [
       "O centro de poder de uma nação distópica.",
       "Conhecida por sua opulência e excesso.",
@@ -3238,7 +3248,7 @@ const dataPlace = [
   },
   {
     answer: "Hogsmeade",
-    suport: "(Harry Potter)",
+    suport: ["Lugar Fictício", "Harry Potter"],
     tips: [
       "Uma aldeia mágica acessível por uma escola famosa.",
       "Conhecida por suas lojas e pubs encantadores.",
@@ -3259,7 +3269,7 @@ const dataPlace = [
   },
   {
     answer: "Vila Sésamo",
-    suport: "(Sesame Street)",
+    suport: ["Lugar Fictício", "Sesame Street"],
     tips: [
       "Um lugar onde aprendizado e diversão se encontram.",
       "Seus habitantes são criaturas peludas e coloridas.",
@@ -3280,7 +3290,7 @@ const dataPlace = [
   },
   {
     answer: "Arrakis",
-    suport: "(Duna)",
+    suport: ["Lugar Fictício", "Duna"],
     tips: [
       "Um planeta desértico e árido.",
       "Famoso por sua especiaria valiosa.",
@@ -3301,7 +3311,7 @@ const dataPlace = [
   },
   {
     answer: "País das Maravilhas",
-    suport: "(Alice no País das Maravilhas)",
+    suport: ["Lugar Fictício", "Alice no País das Maravilhas"],
     tips: [
       "Um lugar onde a lógica e a realidade são distorcidas.",
       "Visitantes entram por uma passagem inusitada.",
@@ -3322,7 +3332,7 @@ const dataPlace = [
   },
   {
     answer: "Estação King’s Cross",
-    suport: "(Harry Potter)",
+    suport: ["Lugar Fictício", "Harry Potter"],
     tips: [
       "Um local movimentado na capital do Reino Unido.",
       "Conecta viajantes a destinos por toda a nação.",
@@ -3343,7 +3353,7 @@ const dataPlace = [
   },
   {
     answer: "Cidade das Nuvens",
-    suport: "(Star Wars)",
+    suport: ["Lugar Fictício", "Star Wars"],
     tips: [
       "Uma metrópole flutuante em um planeta distante.",
       "Famosa por suas instalações de mineração.",
@@ -3364,7 +3374,7 @@ const dataPlace = [
   },
   {
     answer: "Terra do Gelo",
-    suport: "(Hora de Aventura)",
+    suport: ["Lugar Fictício", "Hora de Aventura"],
     tips: [
       "Uma região dominada pelo frio e neve eternos.",
       "Governada por um monarca excêntrico e poderoso.",
@@ -3385,7 +3395,7 @@ const dataPlace = [
   },
   {
     answer: "Monstrópolis",
-    suport: "(Monstros S.A.)",
+    suport: ["Lugar Fictício", "Monstros S.A."],
     tips: [
       "Uma cidade onde as criaturas assustadoras vivem.",
       "A energia é gerada a partir de gritos.",
@@ -3406,7 +3416,7 @@ const dataPlace = [
   },
   {
     answer: "Terra do Nunca",
-    suport: "(Peter Pan)",
+    suport: ["Lugar Fictício", "Peter Pan"],
     tips: [
       "Um lugar onde o tempo parece não passar.",
       "Crianças nunca crescem e vivem aventuras intermináveis.",
@@ -3427,7 +3437,7 @@ const dataPlace = [
   },
   {
     answer: "Nova Nova York",
-    suport: "(Futurama)",
+    suport: ["Lugar Fictício", "Futurama"],
     tips: [
       "Uma metrópole futurista no século XXXI.",
       "Naves espaciais cruzam seus céus diariamente.",
@@ -3448,7 +3458,7 @@ const dataPlace = [
   },
   {
     answer: "Elmore",
-    suport: "(O Incrível Mundo de Gumball)",
+    suport: ["Lugar Fictício", "O Incrível Mundo de Gumball"],
     tips: [
       "Uma cidade onde o surreal e o cotidiano se encontram.",
       "Habitantes incluem animais, objetos e criaturas fantásticas.",
@@ -3469,7 +3479,7 @@ const dataPlace = [
   },
   {
     answer: "Floresta dos Cogumelos",
-    suport: "(Super Mario)",
+    suport: ["Lugar Fictício", "Super Mario"],
     tips: [
       "Um lugar repleto de criaturas e plantas mágicas.",
       "Governada por uma princesa amada por todos.",
@@ -3490,7 +3500,7 @@ const dataPlace = [
   },
   {
     answer: "Cidade de Pallet",
-    suport: "(Pokémon)",
+    suport: ["Lugar Fictício", "Pokémon"],
     tips: [
       "Uma pequena cidade que é o ponto de partida de muitas aventuras.",
       "Jovens aspirantes a mestres saem para explorar o mundo.",
@@ -3511,7 +3521,7 @@ const dataPlace = [
   },
   {
     answer: "Sin City",
-    suport: "(Sin City, A Cidade do Pecado)",
+    suport: ["Lugar Fictício", "Sin City, A Cidade do Pecado"],
     tips: [
       "Uma cidade envolta em escuridão e moralidade dúbia.",
       "Histórias de crime e vingança são comuns.",
@@ -3532,7 +3542,7 @@ const dataPlace = [
   },
   {
     answer: "Usina Nuclear de Springfield",
-    suport: "(Os Simpsons)",
+    suport: ["Lugar Fictício", "Os Simpsons"],
     tips: [
       "Um local onde a segurança nem sempre é prioridade.",
       "Administrada por um chefe avarento e desprezível.",
@@ -3553,7 +3563,7 @@ const dataPlace = [
   },
   {
     answer: "Fábrica de Chocolates de Willy Wonka",
-    suport: "(A Fantástica Fábrica de Chocolate)",
+    suport: ["Lugar Fictício", "A Fantástica Fábrica de Chocolate"],
     tips: [
       "Um lugar mágico e cheio de surpresas doces.",
       "Operada por um excêntrico mestre confeiteiro.",
@@ -3573,8 +3583,8 @@ const dataPlace = [
     ],
   },
   {
-    answer: "Crystal Lake",
-    suport: "(Sexta-Feira 13)",
+    answer: "Acampamento Crystal Lake",
+    suport: ["Lugar Fictício", "Sexta-Feira 13"],
     tips: [
       "Um lugar aparentemente tranquilo, mas com um passado sombrio.",
       "Cercado por florestas densas e isoladas.",
@@ -3595,7 +3605,7 @@ const dataPlace = [
   },
   {
     answer: "Estação Hogsmeade",
-    suport: "(Harry Potter)",
+    suport: ["Lugar Fictício", "Harry Potter"],
     tips: [
       "Um ponto de chegada para estudantes de uma escola notável.",
       "Localizada próxima a uma vila cheia de encantos.",
@@ -3616,7 +3626,7 @@ const dataPlace = [
   },
   {
     answer: "Escola para Jovens Superdotados do Professor Xavier",
-    suport: "(X-Men)",
+    suport: ["Lugar Fictício", "X-Men"],
     tips: [
       "Um instituto dedicado ao desenvolvimento de talentos especiais.",
       "A liderança é um mentor telepático e visionário.",
@@ -3637,7 +3647,7 @@ const dataPlace = [
   },
   {
     answer: "Rua Elm",
-    suport: "(A Hora do Pesadelo)",
+    suport: ["Lugar Fictício", "A Hora do Pesadelo"],
     tips: [
       "Um subúrbio aparentemente tranquilo.",
       "Pesadelos se tornam realidade aqui.",
@@ -3663,6 +3673,7 @@ const dataPlace = [
   },
   {
     answer: "Torre Eiffel",
+    suport: ["Ponto Turístico", "Paris"],
     tips: [
       "É uma estrutura icônica.",
       "Foi inaugurada no século XIX.",
@@ -3683,6 +3694,7 @@ const dataPlace = [
   },
   {
     answer: "Disneylândia",
+    suport: ["Ponto Turístico", "Parque Temático"],
     tips: [
       "É conhecida como 'o lugar mais feliz do mundo'.",
       "Foi inaugurada na década de 1950.",
@@ -3703,6 +3715,7 @@ const dataPlace = [
   },
   {
     answer: "Muralha da China",
+    suport: ["Ponto Turístico", "China"],
     tips: [
       "É uma das sete maravilhas do mundo.",
       "Foi construída ao longo de várias dinastias.",
@@ -3723,6 +3736,7 @@ const dataPlace = [
   },
   {
     answer: "Big Ben",
+    suport: ["Ponto Turístico", "Londres"],
     tips: [
       "Não é o nome oficial da estrutura inteira.",
       "Está localizado na capital de um país europeu.",
@@ -3763,6 +3777,7 @@ const dataPlace = [
   },
   {
     answer: "Coliseu de Roma",
+    suport: ["Ponto Turístico", "Itália"],
     tips: [
       "É uma das maiores obras de engenharia romana.",
       "Foi inaugurado no século I d.C.",
@@ -3783,6 +3798,7 @@ const dataPlace = [
   },
   {
     answer: "Estátua da Liberdade",
+    suport: ["Ponto Turístico", "Nova York"],
     tips: [
       "É um presente de um país europeu.",
       "Foi inaugurada no final do século XIX.",
@@ -3803,6 +3819,7 @@ const dataPlace = [
   },
   {
     answer: "Taj Mahal",
+    suport: ["Ponto Turístico", "Índia"],
     tips: [
       "É uma das sete maravilhas do mundo.",
       "Foi construído no século XVII.",
@@ -3823,6 +3840,7 @@ const dataPlace = [
   },
   {
     answer: "Pirâmides de Gizé",
+    suport: ["Ponto Turístico", "Egito"],
     tips: [
       "São estruturas antigas e monumentais.",
       "Foram construídas há mais de 4.000 anos.",
@@ -3843,6 +3861,7 @@ const dataPlace = [
   },
   {
     answer: "Cristo Redentor",
+    suport: ["Ponto Turístico", "Brasil"],
     tips: [
       "É uma estátua monumental.",
       "Está situada em uma cidade famosa por seu carnaval.",
@@ -3863,6 +3882,7 @@ const dataPlace = [
   },
   {
     answer: "Torre de Pisa",
+    suport: ["Ponto Turístico", "Itália"],
     tips: [
       "É famosa por sua inclinação.",
       "Foi construída no século XII.",
@@ -3883,6 +3903,7 @@ const dataPlace = [
   },
   {
     answer: "Castelo de Neuschwanstein",
+    suport: ["Ponto Turístico", "Alemanha"],
     tips: [
       "Parece ter saído de um conto de fadas.",
       "Está situado na região da Baviera.",
@@ -3903,6 +3924,7 @@ const dataPlace = [
   },
   {
     answer: "Machu Picchu",
+    suport: ["Ponto Turístico", "Peru"],
     tips: [
       "É uma antiga cidade em ruínas.",
       "Foi redescoberta no início do século XX.",
@@ -3923,6 +3945,7 @@ const dataPlace = [
   },
   {
     answer: "Ópera de Sydney",
+    suport: ["Ponto Turístico", "Austrália"],
     tips: [
       "É uma estrutura arquitetônica icônica.",
       "Foi inaugurada na década de 1970.",
@@ -3943,6 +3966,7 @@ const dataPlace = [
   },
   {
     answer: "Palácio de Buckingham",
+    suport: ["Ponto Turístico", "Reino Unido"],
     tips: [
       "É a residência oficial de uma monarquia.",
       "Está localizado em uma capital europeia.",
@@ -3963,6 +3987,7 @@ const dataPlace = [
   },
   {
     answer: "Louvre",
+    suport: ["Ponto Turístico", "Paris"],
     tips: [
       "É um dos maiores museus do mundo.",
       "Está localizado em uma capital europeia.",
@@ -3983,6 +4008,7 @@ const dataPlace = [
   },
   {
     answer: "Times Square",
+    suport: ["Ponto Turístico", "Nova York"],
     tips: [
       "É um cruzamento famoso por suas luzes e anúncios.",
       "Localiza-se em uma das maiores cidades dos EUA.",
@@ -4003,6 +4029,7 @@ const dataPlace = [
   },
   {
     answer: "Catedral de Notre-Dame",
+    suport: ["Ponto Turístico", "Paris"],
     tips: [
       "É um exemplo de arquitetura gótica.",
       "Localiza-se em uma ilha no meio de um rio.",
@@ -4023,6 +4050,7 @@ const dataPlace = [
   },
   {
     answer: "Canais de Veneza",
+    suport: ["Ponto Turístico", "Itália"],
     tips: [
       "São uma rede de vias aquáticas.",
       "Fazem parte de uma cidade conhecida por suas gôndolas.",
@@ -4043,6 +4071,7 @@ const dataPlace = [
   },
   {
     answer: "Central Park",
+    suport: ["Ponto Turístico", "Nova York"],
     tips: [
       "É um vasto espaço verde em uma cidade densamente povoada.",
       "Foi inaugurado na década de 1850.",
@@ -4063,6 +4092,7 @@ const dataPlace = [
   },
   {
     answer: "Alhambra",
+    suport: ["Ponto Turístico", "Espanha"],
     tips: [
       "É uma fortaleza e palácio na Andaluzia.",
       "Foi construída pelos mouros no século XIII.",
@@ -4083,6 +4113,7 @@ const dataPlace = [
   },
   {
     answer: "Kremlin",
+    suport: ["Ponto Turístico", "Rússia"],
     tips: [
       "É uma fortaleza situada no coração de uma capital.",
       "Abriga escritórios do governo e catedrais históricas.",
@@ -4103,6 +4134,7 @@ const dataPlace = [
   },
   {
     answer: "Basílica de São Pedro",
+    suport: ["Ponto Turístico", "Vaticano"],
     tips: [
       "É um dos maiores templos cristãos do mundo.",
       "Localiza-se em uma cidade-estado.",
@@ -4123,6 +4155,7 @@ const dataPlace = [
   },
   {
     answer: "Letreiro de Hollywood",
+    suport: ["Ponto Turístico", "Los Angeles"],
     tips: [
       "É um famoso marco situado em uma colina.",
       "Foi originalmente criado como propaganda imobiliária.",
@@ -4143,6 +4176,7 @@ const dataPlace = [
   },
   {
     answer: "Empire State Building",
+    suport: ["Ponto Turístico", "Nova York"],
     tips: [
       "Foi o edifício mais alto do mundo por décadas.",
       "Tem uma antena no topo que contribui para sua altura.",
@@ -4163,6 +4197,7 @@ const dataPlace = [
   },
   {
     answer: "Acrópole de Atenas",
+    suport: ["Ponto Turístico", "Grécia"],
     tips: [
       "É um antigo complexo de templos e estruturas.",
       "Fica em uma colina sobre uma famosa cidade europeia.",
@@ -4183,6 +4218,7 @@ const dataPlace = [
   },
   {
     answer: "25 de Março",
+    suport: ["São Paulo", "Brasil"],
     tips: [
       "É um famoso centro de comércio popular.",
       "Está localizado em uma das maiores cidades da América do Sul.",
@@ -4203,6 +4239,7 @@ const dataPlace = [
   },
   {
     answer: "Ilha de Páscoa",
+    suport: ["Chile"],
     tips: [
       "É uma ilha remota no Oceano Pacífico.",
       "Pertence a um país sul-americano.",
@@ -4223,6 +4260,7 @@ const dataPlace = [
   },
   {
     answer: "Broadway",
+    suport: ["Ponto Turístico", "Nova York"],
     tips: [
       "É uma avenida famosa por seus teatros.",
       "Localiza-se em uma das maiores cidades dos EUA.",
@@ -4243,6 +4281,7 @@ const dataPlace = [
   },
   {
     answer: "Teatro Chinês de Grauman",
+    suport: ["Ponto Turístico", "Los Angeles"],
     tips: [
       "É um famoso cinema localizado na Califórnia.",
       "Foi inaugurado na década de 1920.",
@@ -4263,6 +4302,7 @@ const dataPlace = [
   },
   {
     answer: "Torre de Londres",
+    suport: ["Ponto Turístico", "Reino Unido"],
     tips: [
       "É um castelo histórico na margem de um rio famoso.",
       "Foi usada como prisão e palácio real.",
@@ -4283,6 +4323,7 @@ const dataPlace = [
   },
   {
     answer: "Calçada da Fama",
+    suport: ["Ponto Turístico", "Los Angeles"],
     tips: [
       "É uma calçada dedicada à indústria do entretenimento.",
       "Está localizada em uma cidade conhecida por seu cinema.",
@@ -4303,6 +4344,7 @@ const dataPlace = [
   },
   {
     answer: "Castelo de Windsor",
+    suport: ["Ponto Turístico", "Reino Unido"],
     tips: [
       "É uma das residências oficiais de um monarca europeu.",
       "Foi fundado no século XI.",
@@ -4323,6 +4365,7 @@ const dataPlace = [
   },
   {
     answer: "Triângulo das Bermudas",
+    suport: ["Atlântico"],
     tips: [
       "É uma área geograficamente definida no Atlântico Norte.",
       "Famoso por relatos de desaparecimentos misteriosos de navios e aviões.",
@@ -4343,6 +4386,7 @@ const dataPlace = [
   },
   {
     answer: "Cracolândia",
+    suport: ["São Paulo", "Brasil"],
     tips: [
       "É uma área urbana notória em uma grande cidade brasileira.",
       "Conhecida pelo consumo e tráfico de substâncias ilícitas.",
@@ -4363,6 +4407,7 @@ const dataPlace = [
   },
   {
     answer: "Estádio de Wembley",
+    suport: ["Ponto Turístico", "Londres"],
     tips: [
       "É um dos estádios de futebol mais icônicos do mundo.",
       "Localiza-se na capital de um país europeu.",
@@ -4383,6 +4428,7 @@ const dataPlace = [
   },
   {
     answer: "Ilhas Galápagos",
+    suport: ["Equador"],
     tips: [
       "São um arquipélago famoso no Oceano Pacífico.",
       "Pertencem a um país sul-americano.",
@@ -4403,6 +4449,7 @@ const dataPlace = [
   },
   {
     answer: "Memorial Lincoln",
+    suport: ["Ponto Turístico", "Washington"],
     tips: [
       "É um monumento em homenagem a um presidente dos EUA.",
       "Localiza-se na capital do país.",
@@ -4423,6 +4470,7 @@ const dataPlace = [
   },
   {
     answer: "Palácio de Schönbrunn",
+    suport: ["Ponto Turístico", "Viena"],
     tips: [
       "É um antigo palácio imperial na Europa.",
       "Localiza-se na capital da Áustria.",
@@ -4443,6 +4491,7 @@ const dataPlace = [
   },
   {
     answer: "Stonehenge",
+    suport: ["Ponto Turístico", "Reino Unido"],
     tips: [
       "É um monumento pré-histórico localizado no Reino Unido.",
       "Consiste em um anel de pedras erguidas.",
@@ -4463,6 +4512,7 @@ const dataPlace = [
   },
   {
     answer: "Memorial de Hiroshima",
+    suport: ["Ponto Turístico", "Japão"],
     tips: [
       "É um símbolo da paz e memória.",
       "Está localizado em uma cidade japonesa.",
@@ -4483,6 +4533,7 @@ const dataPlace = [
   },
   {
     answer: "Cúpula de Genebra",
+    suport: ["Ponto Turístico", "Suíça"],
     tips: [
       "É um edifício localizado em uma cidade suíça.",
       "Sedia encontros internacionais de grande importância.",
@@ -4503,6 +4554,7 @@ const dataPlace = [
   },
   {
     answer: "Estádio Maracanã",
+    suport: ["Ponto Turístico", "Rio de Janeiro"],
     tips: [
       "É um dos estádios de futebol mais famosos do mundo.",
       "Está localizado em uma cidade brasileira.",
@@ -4523,6 +4575,7 @@ const dataPlace = [
   },
   {
     answer: "Casa Branca",
+    suport: ["Ponto Turístico", "Washington"],
     tips: [
       "É a residência oficial de um chefe de estado norte-americano.",
       "Está localizada em uma capital federal.",
@@ -4543,6 +4596,7 @@ const dataPlace = [
   },
   {
     answer: "Lincoln Center",
+    suport: ["Ponto Turístico", "Nova York"],
     tips: [
       "É um complexo cultural na cidade de Nova York.",
       "Abriga diversas instituições de arte performática.",
@@ -4563,6 +4617,7 @@ const dataPlace = [
   },
   {
     answer: "Palácio Real de Bruxelas",
+    suport: ["Ponto Turístico", "Bélgica"],
     tips: [
       "É uma residência oficial na capital belga.",
       "Serve como sede administrativa da monarquia.",
@@ -4583,6 +4638,7 @@ const dataPlace = [
   },
   {
     answer: "Palácio de Westminster",
+    suport: ["Ponto Turístico", "Reino Unido"],
     tips: [
       "É um edifício icônico situado em uma capital europeia.",
       "Abriga duas casas de um importante parlamento.",
@@ -4603,6 +4659,7 @@ const dataPlace = [
   },
   {
     answer: "Arco do Triunfo",
+    suport: ["Ponto Turístico", "Paris"],
     tips: [
       "É um monumento comemorativo em uma capital europeia.",
       "Foi encomendado por um famoso líder militar e político.",
@@ -4623,6 +4680,7 @@ const dataPlace = [
   },
   {
     answer: "Castelo de Edimburgo",
+    suport: ["Ponto Turístico", "Escócia"],
     tips: [
       "É uma fortaleza histórica localizada na capital da Escócia.",
       "Está situado no topo de uma colina vulcânica.",
@@ -4643,6 +4701,7 @@ const dataPlace = [
   },
   {
     answer: "Estádio Olímpico de Pequim",
+    suport: ["Ponto Turístico", "China"],
     tips: [
       "Foi o principal estádio dos Jogos Olímpicos de 2008.",
       "É conhecido por seu design futurista e inovador.",
@@ -4663,6 +4722,7 @@ const dataPlace = [
   },
   {
     answer: "London Eye",
+    suport: ["Ponto Turístico", "Londres"],
     tips: [
       "É uma das rodas-gigantes mais altas do mundo.",
       "Está localizada às margens de um famoso rio europeu.",
@@ -4683,6 +4743,7 @@ const dataPlace = [
   },
   {
     answer: "Palácio de Versalhes",
+    suport: ["Ponto Turístico", "França"],
     tips: [
       "É um símbolo da monarquia francesa do século XVII.",
       "Foi ampliado por um rei conhecido por seu amor ao luxo.",
@@ -4703,6 +4764,7 @@ const dataPlace = [
   },
   {
     answer: "Biblioteca de Alexandria",
+    suport: ["Ponto Turístico", "Egito"],
     tips: [
       "É uma instituição cultural localizada no Egito.",
       "Foi uma das maiores e mais importantes bibliotecas do mundo antigo.",
@@ -4723,6 +4785,7 @@ const dataPlace = [
   },
   {
     answer: "Castelo de Praga",
+    suport: ["Ponto Turístico", "República Tcheca"],
     tips: [
       "É um complexo de castelos na capital da República Tcheca.",
       "É o maior castelo antigo do mundo.",
@@ -4743,6 +4806,7 @@ const dataPlace = [
   },
   {
     answer: "Ilha de Alcatraz",
+    suport: ["São Francisco", "Estados Unidos"],
     tips: [
       "É uma pequena ilha localizada na baía de uma cidade dos EUA.",
       "Foi usada como fortificação militar antes de se tornar uma prisão.",
@@ -4762,7 +4826,8 @@ const dataPlace = [
     ],
   },
   {
-    answer: "Palácio de Belas Artes",
+    answer: "Palácio de Bellas Artes",
+    suport: ["Ponto Turístico", "Cidade do México"],
     tips: [
       "É um edifício cultural localizado na América do Norte.",
       "Foi construído para uma exposição mundial no início do século XX.",
@@ -4783,6 +4848,7 @@ const dataPlace = [
   },
   {
     answer: "Torre de Seul",
+    suport: ["Ponto Turístico", "Coreia do Sul"],
     tips: [
       "É uma estrutura icônica em uma capital asiática.",
       "Foi originalmente construída como uma torre de comunicação.",
@@ -4803,6 +4869,7 @@ const dataPlace = [
   },
   {
     answer: "Parque Nacional de Yellowstone",
+    suport: ["Ponto Turístico", "Estados Unidos"],
     tips: [
       "É um dos parques nacionais mais antigos do mundo.",
       "Abrange três estados dos Estados Unidos.",
@@ -4823,6 +4890,7 @@ const dataPlace = [
   },
   {
     answer: "Usina Nuclear de Chernobyl",
+    suport: ["Ucrânia"],
     tips: [
       "Foi o local de um desastre nuclear em 1986.",
       "Está situada na Ucrânia.",
@@ -4843,6 +4911,7 @@ const dataPlace = [
   },
   {
     answer: "Monte Everest",
+    suport: ["Nepal", "China"],
     tips: [
       "É a montanha mais alta do mundo.",
       "Está localizada na fronteira entre dois países asiáticos.",
@@ -4863,6 +4932,7 @@ const dataPlace = [
   },
   {
     answer: "Grand Canyon",
+    suport: ["Estados Unidos"],
     tips: [
       "É uma das sete maravilhas naturais do mundo.",
       "Está localizado no estado do Arizona, EUA.",
@@ -4883,6 +4953,7 @@ const dataPlace = [
   },
   {
     answer: "Cataratas do Niágara",
+    suport: ["Estados Unidos", "Canadá"],
     tips: [
       "São um conjunto de quedas d'água na fronteira entre dois países.",
       "Dividem o estado de Nova York e a província de Ontário.",
@@ -4903,6 +4974,7 @@ const dataPlace = [
   },
   {
     answer: "Museu de Arte de São Paulo",
+    suport: ["Ponto Turístico","São Paulo"],
     tips: [
       "É um dos museus mais importantes da América Latina.",
       "Está localizado em uma das maiores cidades brasileiras.",
@@ -4923,6 +4995,7 @@ const dataPlace = [
   },
   {
     answer: "Monte Fuji",
+    suport: ["Japão"],
     tips: [
       "É a montanha mais alta de seu país.",
       "É um vulcão ativo, embora sua última erupção tenha sido há séculos.",
@@ -4943,6 +5016,7 @@ const dataPlace = [
   },
   {
     answer: "Cataratas do Iguaçu",
+    suport: ["Brasil", "Argentina"],
     tips: [
       "São uma das maiores quedas d'água do mundo.",
       "Estão localizadas na fronteira entre dois países da América do Sul.",
@@ -4963,6 +5037,7 @@ const dataPlace = [
   },
   {
     answer: "Torre CN",
+    suport: ["Ponto Turístico", "Toronto"],
     tips: [
       "Foi a estrutura mais alta do mundo por vários anos.",
       "Está localizada em uma grande cidade canadense.",
@@ -4983,6 +5058,7 @@ const dataPlace = [
   },
   {
     answer: "Avenida Paulista",
+    suport: ["Ponto Turístico", "São Paulo"],
     tips: [
       "É uma das vias mais famosas de uma grande cidade sul-americana.",
       "É conhecida por seus arranha-céus e centros financeiros.",
@@ -5003,6 +5079,7 @@ const dataPlace = [
   },
   {
     answer: "Pão de Açúcar",
+    suport: ["Ponto Turístico", "Rio de Janeiro"],
     tips: [
       "É um pico de granito famoso em uma cidade costeira sul-americana.",
       "Oferece vistas espetaculares de uma das maiores baías do mundo.",
@@ -5040,46 +5117,6 @@ const dataPlace = [
     power: "azar do destino",
     powerInfo:
       "Escolha um jogador para ser vítima do infortúnio. Este jogador terá que subtrair 15 pontos de sua pontuação total ou voltar 15 casas. Em seguida, gere uma nova carta e continue a rodada.",
-  },
-  {
-    answer: "Paris 6",
-    tips: [
-      "É um famoso restaurante em uma metrópole brasileira.",
-      "Tem um menu extenso, com nomes inspirados em celebridades.",
-      "É conhecido por seu ambiente boêmio e decoração vintage.",
-      "Funciona 24 horas por dia, todos os dias da semana.",
-      "Oferece pratos clássicos da culinária francesa e internacional.",
-      "Suas sobremesas são altamente elogiadas.",
-      "Atrai um público diverso, incluindo artistas e celebridades.",
-      "Tem várias unidades espalhadas por várias cidades.",
-      "A decoração inclui fotos autografadas e memorabilia.",
-      "Frequentemente hospeda eventos culturais e lançamentos.",
-      "É um local popular para encontros noturnos e jantares tardios.",
-      "Tem um ambiente que lembra bistrôs parisienses.",
-      "Oferece música ao vivo em algumas noites.",
-      "Suas paredes são cobertas de posters e quadros antigos.",
-      "O nome faz referência a um famoso bairro europeu.",
-    ],
-  },
-  {
-    answer: "Outback",
-    tips: [
-      "É uma cadeia de restaurantes inspirada em um país da Oceania.",
-      "É conhecida por suas costelas e carnes grelhadas.",
-      "A decoração remete ao estilo rústico e desértico.",
-      "Tem uma famosa cebola empanada como aperitivo.",
-      "O nome e o tema remetem à vida no interior do país de origem.",
-      "É popular por seu atendimento amigável e informal.",
-      "Oferece uma variedade de pratos com sabores intensos.",
-      "Tem um cardápio que inclui frutos do mar e massas.",
-      "O ambiente é familiar e acolhedor, ideal para grupos.",
-      "Frequentemente tem promoções e menus especiais.",
-      "As bebidas incluem coquetéis inspirados no tema australiano.",
-      "A música ambiente e a iluminação criam um clima descontraído.",
-      "Tem filiais em várias cidades ao redor do mundo.",
-      "Seus pratos são servidos em porções generosas.",
-      "É um local popular para comemorações e encontros casuais.",
-    ],
   },
   {
     answer: "Igreja",

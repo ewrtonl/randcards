@@ -6806,7 +6806,6 @@ const dataThing = [
   },
   {
     answer: "GTA",
-    suport: " (Grand Theft Auto)",
     tips: [
       "É uma série de jogos de ação-aventura em mundo aberto.",
       "Frequentemente ambientado em cidades fictícias baseadas em locais reais.",
@@ -6847,7 +6846,7 @@ const dataThing = [
   },
   {
     answer: "Mona Lisa",
-    suport: "(Pintura de Leonardo da Vinci)",
+    suport: ["Pintura de Leonardo da Vinci"],
     tips: [
       "É uma obra-prima do Renascimento.",
       "O retrato de uma mulher com um sorriso enigmático.",
@@ -6868,7 +6867,7 @@ const dataThing = [
   },
   {
     answer: "A Noite Estrelada",
-    suport: "(Pintura de Vincent Van Gogh)",
+    suport: ["Pintura de Vincent Van Gogh"],
     tips: [
       "Famosa por seu uso vibrante de cores e movimento.",
       "Retrata uma vista noturna de uma vila sob um céu turbilhonante.",
@@ -6889,7 +6888,7 @@ const dataThing = [
   },
   {
     answer: "O Nascimento de Vênus",
-    suport: "(Pintura de Sandro Botticelli)",
+    suport: ["Pintura de Sandro Botticelli"],
     tips: [
       "É uma celebração da mitologia clássica.",
       "Mostra uma deusa emergindo de uma concha.",
@@ -6910,7 +6909,7 @@ const dataThing = [
   },
   {
     answer: "A Última Ceia",
-    suport: "(Pintura de Leonardo da Vinci)",
+    suport: ["Pintura de Leonardo da Vinci"],
     tips: [
       "Representa um evento bíblico significativo.",
       "Mostra treze figuras sentadas à mesa.",
@@ -6931,7 +6930,7 @@ const dataThing = [
   },
   {
     answer: "A Criação de Adão",
-    suport: "(Pintura de Michelangelo)",
+    suport: ["Pintura de Michelangelo"],
     tips: [
       "Faz parte de uma grande obra em uma capela famosa.",
       "Retrata um momento significativo da narrativa bíblica.",

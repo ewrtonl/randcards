@@ -24,6 +24,16 @@ export default function CardPersonPage() {
     );
   };
 
+  const Suport = ({ suport }) => {
+    return (
+      <div className="suportAnswer">
+        {suport.map((suport, index) => (
+          <span key={index}>{suport}</span>
+        ))}
+      </div>
+    )
+  }
+
   const TipsList = ({ tips }) => {
     return (
       <ul>
@@ -56,9 +66,8 @@ export default function CardPersonPage() {
             <h4>PESSOA</h4>
             <h2>
               {dataPerson[randomNumber].answer}{" "}
-              <span className="suportAnswer">
-                {dataPerson[randomNumber].suport}
-              </span>
+
+              {dataPerson[randomNumber].suport && <Suport suport={dataPerson[randomNumber].suport} />}
             </h2>
 
             <div className="tipsBox">

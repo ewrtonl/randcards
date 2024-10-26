@@ -24,6 +24,16 @@ export default function CardThingPage() {
     );
   };
 
+  const Suport = ({ suport }) => {
+    return (
+      <div className="suportAnswer">
+        {suport.map((suport, index) => (
+          <span key={index}>{suport}</span>
+        ))}
+      </div>
+    )
+  }
+
   const TipsList = ({ tips }) => {
     return (
       <ul>
@@ -56,9 +66,8 @@ export default function CardThingPage() {
             <h4>COISA</h4>
             <h2>
               {dataThing[randomNumber].answer}{" "}
-              <span className="suportAnswer">
-                {dataThing[randomNumber].suport}
-              </span>
+
+              {dataThing[randomNumber].suport && <Suport suport={dataThing[randomNumber].suport} />}
             </h2>
 
             <div className="tipsBox">

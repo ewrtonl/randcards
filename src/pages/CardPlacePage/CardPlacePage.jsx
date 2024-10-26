@@ -24,6 +24,16 @@ export default function CardPlacePage() {
     );
   };
 
+  const Suport = ({ suport }) => {
+    return (
+      <div className="suportAnswer">
+        {suport.map((suport, index) => (
+          <span key={index}>{suport}</span>
+        ))}
+      </div>
+    )
+  }
+
   const TipsList = ({ tips }) => {
     return (
       <ul>
@@ -56,9 +66,8 @@ export default function CardPlacePage() {
             <h4>LUGAR</h4>
             <h2>
               {dataPlace[randomNumber].answer}{" "}
-              <span className="suportAnswer">
-                {dataPlace[randomNumber].suport}
-              </span>
+
+              {dataPlace[randomNumber].suport && <Suport suport={dataPlace[randomNumber].suport} />}
             </h2>
 
             <div className="tipsBox">

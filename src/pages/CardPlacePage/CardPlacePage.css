@@ -31,7 +31,21 @@
 }
 
 .suportAnswer {
-  font-size: 13px;
+  display: flex;
+  gap: 5px;
+  justify-content: center;
+  flex-wrap: wrap;
+
+  margin-top: 10px;
+}
+
+.suportAnswer span {
+  background-color: rgba(240, 248, 255, 0.15);
+  color: rgba(37, 37, 37, 0.5);
+  padding: 4px 8px;
+  border-radius: 6px;
+
+  font-size: 12px;
   font-weight: 500;
   font-style: italic;
 }

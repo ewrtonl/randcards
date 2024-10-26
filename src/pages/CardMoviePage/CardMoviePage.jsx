@@ -24,6 +24,16 @@ export default function CardMoviePage() {
     );
   };
 
+  const Suport = ({ suport }) => {
+    return (
+      <div className="suportAnswer">
+        {suport.map((suport, index) => (
+          <span key={index}>{suport}</span>
+        ))}
+      </div>
+    )
+  }
+
   const TipsList = ({ tips }) => {
     return (
       <ul>
@@ -56,9 +66,8 @@ export default function CardMoviePage() {
             <h4>FILME & TV</h4>
             <h2>
               {dataMovie[randomNumber].answer}{" "}
-              <span className="suportAnswer">
-                {dataMovie[randomNumber].suport}
-              </span>
+
+              {dataMovie[randomNumber].suport && <Suport suport={dataMovie[randomNumber].suport} />}
             </h2>
 
             <div className="tipsBox">
