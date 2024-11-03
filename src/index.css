@@ -9,7 +9,8 @@
 }
 
 body {
-    background-color: #8B89FF;
+    /*background-color: #8B89FF;*/
+    background-color: #404040;
 
     display: grid;
     place-items: center;

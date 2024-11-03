@@ -606,7 +606,7 @@ const dataMovie = [
   },
   {
     answer: "Batman",
-    suport: ['Personagem', 'DC'],
+    suport: ["Personagem", "DC"],
     tips: [
       "Habita uma cidade notoriamente sombria.",
       "Sua origem está marcada por uma tragédia familiar.",
@@ -627,7 +627,7 @@ const dataMovie = [
   },
   {
     answer: "Luke Skywalker",
-    suport: ['Personagem', 'Star Wars'],
+    suport: ["Personagem", "Star Wars"],
     tips: [
       "Cresceu em um ambiente rural e desértico.",
       "Descobre seu destino ao receber uma mensagem oculta.",
@@ -648,7 +648,7 @@ const dataMovie = [
   },
   {
     answer: "Princesa Leia",
-    suport: ['Personagem', 'Star Wars'],
+    suport: ["Personagem", "Star Wars"],
     tips: [
       "É um ícone de resistência.",
       "Seu estilo de cabelo se tornou uma marca registrada.",
@@ -669,7 +669,7 @@ const dataMovie = [
   },
   {
     answer: "Eleven",
-    suport: ['Personagem', 'Stranger Things'],
+    suport: ["Personagem", "Stranger Things"],
     tips: [
       "Tem habilidades telecinéticas.",
       "Foi criada em um ambiente altamente controlado.",
@@ -690,7 +690,7 @@ const dataMovie = [
   },
   {
     answer: "Deadpool",
-    suport: ['Personagem', 'Marvel'],
+    suport: ["Personagem", "Marvel"],
     tips: [
       "É conhecido por seu humor irreverente.",
       "Tem habilidades de cura regenerativa.",
@@ -711,7 +711,7 @@ const dataMovie = [
   },
   {
     answer: "Miranda Priestly",
-    suport: ['Personagem', 'O Diabo Veste Prada'],
+    suport: ["Personagem", "O Diabo Veste Prada"],
     tips: [
       "É a editora-chefe de uma revista de moda.",
       "Seu estilo é inconfundível e impecável.",
@@ -732,7 +732,7 @@ const dataMovie = [
   },
   {
     answer: "Phoebe Buffay",
-    suport: ['Personagem', 'Friends'],
+    suport: ["Personagem", "Friends"],
     tips: [
       "Tem um estilo de vida boêmio.",
       "Toca violão e canta músicas excêntricas.",
@@ -753,7 +753,7 @@ const dataMovie = [
   },
   {
     answer: "Frodo",
-    suport: ['Personagem', 'O Senhor Dos Anéis'],
+    suport: ["Personagem", "O Senhor Dos Anéis"],
     tips: [
       "Vive em um local conhecido por sua tranquilidade e beleza natural.",
       "Recebe uma missão de grande importância e perigo.",
@@ -774,7 +774,7 @@ const dataMovie = [
   },
   {
     answer: "Katniss Everdeen",
-    suport: ['Personagem', 'Jogos Vorazes'],
+    suport: ["Personagem", "Jogos Vorazes"],
     tips: [
       "É uma habilidosa arqueira.",
       "Vive em uma sociedade dividida em distritos.",
@@ -795,7 +795,7 @@ const dataMovie = [
   },
   {
     answer: "Hannibal Lecter",
-    suport: ['Personagem', 'O Silencio dos Inocentes'],
+    suport: ["Personagem", "O Silencio dos Inocentes"],
     tips: [
       "Tem uma mente brilhante e perversa.",
       "É um gênio da culinária, mas com gostos macabros.",
@@ -816,7 +816,7 @@ const dataMovie = [
   },
   {
     answer: "Peter Parker",
-    suport: ['Personagem', 'Marvel', 'Homem-Aranha'],
+    suport: ["Personagem", "Marvel", "Homem-Aranha"],
     tips: [
       "É um jovem que vive em uma grande cidade.",
       "Tem habilidades acrobáticas extraordinárias.",
@@ -837,7 +837,7 @@ const dataMovie = [
   },
   {
     answer: "Arlequina",
-    suport: ['Personagem', 'DC'],
+    suport: ["Personagem", "DC"],
     tips: [
       "Começou sua carreira como profissional da saúde mental.",
       "Se apaixona por um vilão notório e insano.",
@@ -858,7 +858,7 @@ const dataMovie = [
   },
   {
     answer: "Mulher Gato",
-    suport: ['Personagem', 'DC'],
+    suport: ["Personagem", "DC"],
     tips: [
       "É uma ladra habilidosa e notória.",
       "Tem uma ligação complexa com um vigilante mascarado.",
@@ -879,7 +879,7 @@ const dataMovie = [
   },
   {
     answer: "Hulk",
-    suport: ['Personagem', 'Marvel'],
+    suport: ["Personagem", "Marvel"],
     tips: [
       "Sua transformação é desencadeada por emoções fortes.",
       "É o resultado de um experimento científico que deu errado.",
@@ -900,7 +900,7 @@ const dataMovie = [
   },
   {
     answer: "Daenerys Targaryen",
-    suport: ['Personagem', 'Game of Thrones'],
+    suport: ["Personagem", "Game of Thrones"],
     tips: [
       "Nasce em uma casa exilada.",
       "Tem uma forte ligação com criaturas aladas.",
@@ -921,7 +921,7 @@ const dataMovie = [
   },
   {
     answer: "Bruxa Má do Oeste",
-    suport: ['Personagem', 'O Mágico de Oz'],
+    suport: ["Personagem", "O Mágico de Oz"],
     tips: [
       "É uma figura temida em um mundo mágico.",
       "Tem um exército de seres voadores ao seu comando.",
@@ -942,7 +942,7 @@ const dataMovie = [
   },
   {
     answer: "Dorothy",
-    suport: ['Personagem', 'O Mágico de Oz'],
+    suport: ["Personagem", "O Mágico de Oz"],
     tips: [
       "Vive em uma fazenda com sua família.",
       "É transportada para um mundo mágico por um fenômeno natural.",
@@ -963,7 +963,7 @@ const dataMovie = [
   },
   {
     answer: "Matilda",
-    suport: ['Personagem', 'Matilda'],
+    suport: ["Personagem", "Matilda"],
     tips: [
       "É uma jovem com inteligência fora do comum.",
       "Vive com uma família que não valoriza sua habilidade.",
@@ -1329,7 +1329,7 @@ const dataMovie = [
   },
   {
     answer: "Os Fantasmas Se Divertem",
-    suport: ['Beetlejuice'],
+    suport: ["Beetlejuice"],
     tips: [
       "Uma casa velha e peculiar é central na trama.",
       "Dois mundos diferentes colidem de maneira cômica.",
@@ -1550,7 +1550,7 @@ const dataMovie = [
   },
   {
     answer: "Minions",
-    suport: ['Personagem', 'Meu Malvado Favorito'],
+    suport: ["Personagem", "Meu Malvado Favorito"],
     tips: [
       "São conhecidos por sua linguagem peculiar.",
       "Suas aventuras muitas vezes envolvem situações cômicas.",
@@ -1571,7 +1571,7 @@ const dataMovie = [
   },
   {
     answer: "Woody",
-    suport: ['Personagem', 'Toy Story'],
+    suport: ["Personagem", "Toy Story"],
     tips: [
       "É um líder carismático e protetor.",
       "Veste-se de forma típica de uma profissão do Velho Oeste.",
@@ -1592,7 +1592,7 @@ const dataMovie = [
   },
   {
     answer: "Smeagol",
-    suport: ['Personagem', 'O Senhor Dos Anéis'],
+    suport: ["Personagem", "O Senhor Dos Anéis"],
     tips: [
       "Foi outrora um ser inocente e comum.",
       "Sua vida mudou drasticamente ao encontrar um objeto poderoso.",
@@ -1613,7 +1613,7 @@ const dataMovie = [
   },
   {
     answer: "Sarah Connor",
-    suport: ['Personagem', 'O Exterminador do Futuro'],
+    suport: ["Personagem", "O Exterminador do Futuro"],
     tips: [
       "Inicialmente, uma pessoa comum que se torna uma guerreira feroz.",
       "Sua vida muda ao descobrir que seu filho terá um papel crucial no futuro.",
@@ -1634,7 +1634,7 @@ const dataMovie = [
   },
   {
     answer: "Yoda",
-    suport: ['Personagem', 'Star Wars'],
+    suport: ["Personagem", "Star Wars"],
     tips: [
       "É um mestre de sabedoria e habilidades especiais.",
       "Tem uma aparência única e venerável.",
@@ -1655,7 +1655,7 @@ const dataMovie = [
   },
   {
     answer: "Gandalf",
-    suport: ['Personagem', 'O Senhor Dos Anéis'],
+    suport: ["Personagem", "O Senhor Dos Anéis"],
     tips: [
       "É um ser com vasto conhecimento e poderes arcanos.",
       "Viaja amplamente, ajudando a combater o mal.",
@@ -1696,7 +1696,7 @@ const dataMovie = [
   },
   {
     answer: "Terminator",
-    suport: ['Personagem', 'O Exterminador do Futuro'],
+    suport: ["Personagem", "O Exterminador do Futuro"],
     tips: [
       "Inicialmente, é uma figura implacável e quase invencível.",
       "Tem a aparência de um ser humano, mas com um interior metálico.",
@@ -1717,7 +1717,7 @@ const dataMovie = [
   },
   {
     answer: "Fleabag",
-    suport: ['Personagem', 'Fleabag'],
+    suport: ["Personagem", "Fleabag"],
     tips: [
       "É uma personagem complexa e multifacetada.",
       "Rompe frequentemente a quarta parede, falando diretamente ao público.",
@@ -1738,7 +1738,7 @@ const dataMovie = [
   },
   {
     answer: "Will Byers",
-    suport: ['Personagem', 'Stranger Things'],
+    suport: ["Personagem", "Stranger Things"],
     tips: [
       "Desaparece misteriosamente, causando grande preocupação.",
       "Sua experiência toca o sobrenatural e o desconhecido.",
@@ -1759,7 +1759,7 @@ const dataMovie = [
   },
   {
     answer: "Bran Stark",
-    suport: ['Personagem', 'Game Of Thrones'],
+    suport: ["Personagem", "Game Of Thrones"],
     tips: [
       "Sua jornada começa com um evento traumático que muda sua vida.",
       "Desenvolve habilidades sobrenaturais que lhe permitem ver além do presente.",
@@ -1780,7 +1780,7 @@ const dataMovie = [
   },
   {
     answer: "Arya Stark",
-    suport: ['Personagem', 'Game Of Thrones'],
+    suport: ["Personagem", "Game Of Thrones"],
     tips: [
       "É uma jovem que passa por uma transformação radical.",
       "Tem uma lista de nomes que recita com frequência.",
@@ -1801,7 +1801,7 @@ const dataMovie = [
   },
   {
     answer: "Buzz Lightyear",
-    suport: ['Personagem', 'Toy Story'],
+    suport: ["Personagem", "Toy Story"],
     tips: [
       "É um guardião galáctico com um uniforme característico.",
       "Chega inicialmente acreditando ser um herói de verdade.",
@@ -1822,7 +1822,7 @@ const dataMovie = [
   },
   {
     answer: "Esther",
-    suport: ['Personagem', 'A Órfã'],
+    suport: ["Personagem", "A Órfã"],
     tips: [
       "Chega a uma nova casa, prometendo trazer felicidade.",
       "Sua aparência é enganadoramente inocente.",
@@ -1923,7 +1923,7 @@ const dataMovie = [
   },
   {
     answer: "A Morte do Demônio",
-    suport: ['Evil Dead'],
+    suport: ["Evil Dead"],
     tips: [
       "Uma cabana isolada na floresta.",
       "Livros antigos e encantamentos perigosos.",
@@ -2044,7 +2044,7 @@ const dataMovie = [
   },
   {
     answer: "Rocky Balboa",
-    suport: ['Personagem', 'Rocky'],
+    suport: ["Personagem", "Rocky"],
     tips: [
       "É um lutador de origem humilde.",
       "Consegue uma chance inesperada pelo título.",
@@ -2065,7 +2065,7 @@ const dataMovie = [
   },
   {
     answer: "John Wick",
-    suport: ['Personagem', 'John Wick'],
+    suport: ["Personagem", "John Wick"],
     tips: [
       "É um ex-assassino de renome.",
       "Sua vida pacífica é interrompida por uma tragédia pessoal.",
@@ -2086,7 +2086,7 @@ const dataMovie = [
   },
   {
     answer: "Lara Croft",
-    suport: ['Personagem', 'Tomb Raider'],
+    suport: ["Personagem", "Tomb Raider"],
     tips: [
       "É uma arqueóloga e aventureira de renome.",
       "Viaja pelo mundo em busca de artefatos antigos.",
@@ -2107,7 +2107,7 @@ const dataMovie = [
   },
   {
     answer: "Zorro",
-    suport: ['Personagem', 'A Máscara do Zorro'],
+    suport: ["Personagem", "A Máscara do Zorro"],
     tips: [
       "É conhecido por suas habilidades excepcionais com a espada.",
       "Luta contra a injustiça e a opressão.",
@@ -2128,7 +2128,7 @@ const dataMovie = [
   },
   {
     answer: "He-Man",
-    suport: ['Personagem', 'Mestres do Universo'],
+    suport: ["Personagem", "Mestres do Universo"],
     tips: [
       "Habita um reino mágico e distante.",
       "Possui uma espada poderosa que lhe concede habilidades extraordinárias.",
@@ -2149,7 +2149,7 @@ const dataMovie = [
   },
   {
     answer: "She-Ra",
-    suport: ['Personagem', 'A Princesa do Poder'],
+    suport: ["Personagem", "A Princesa do Poder"],
     tips: [
       "É a irmã de um herói famoso.",
       "Tem uma espada mágica que lhe dá poderes.",
@@ -2170,7 +2170,7 @@ const dataMovie = [
   },
   {
     answer: "Ellen Ripley",
-    suport: ['Personagem', 'Alien'],
+    suport: ["Personagem", "Alien"],
     tips: [
       "Enfrenta ameaças em um ambiente extraterrestre.",
       "É uma figura de autoridade em missões espaciais.",
@@ -2191,7 +2191,7 @@ const dataMovie = [
   },
   {
     answer: "The Twilight Zone",
-    suport: ['Além da Imaginação'],
+    suport: ["Além da Imaginação"],
     tips: [
       "Cada episódio é uma história independente.",
       "O gênero varia entre ficção científica, horror e fantasia.",
@@ -2292,7 +2292,7 @@ const dataMovie = [
   },
   {
     answer: "13 Reasons Why",
-    suport: ['Os 13 Porquês'],
+    suport: ["Os 13 Porquês"],
     tips: [
       "A série começa com a descoberta de fitas cassete deixadas por uma jovem.",
       "Cada fita revela um segredo ou evento relacionado a um colega de escola.",
@@ -2333,7 +2333,7 @@ const dataMovie = [
   },
   {
     answer: "The Vampire Diaries",
-    suport: ['Diários de um Vampiro'],
+    suport: ["Diários de um Vampiro"],
     tips: [
       "A história se passa em uma pequena cidade cheia de segredos sobrenaturais.",
       "Triângulos amorosos envolvendo imortais são centrais na trama.",
@@ -2594,7 +2594,7 @@ const dataMovie = [
   },
   {
     answer: "That '70s Show",
-    suport: ['De Volta aos Anos 70'],
+    suport: ["De Volta aos Anos 70"],
     tips: [
       "A série se passa em uma década do século XX.",
       "O grupo de amigos é o foco central da narrativa.",
@@ -2615,7 +2615,7 @@ const dataMovie = [
   },
   {
     answer: "Wolverine",
-    suport: ['Personagem', 'Marvel', 'X-Men'],
+    suport: ["Personagem", "Marvel", "X-Men"],
     tips: [
       "Tem a capacidade de se regenerar rapidamente.",
       "Possui garras retráteis indestrutíveis.",
@@ -2636,7 +2636,7 @@ const dataMovie = [
   },
   {
     answer: "Tony Stark",
-    suport: ['Personagem', 'Marvel', 'Homem de Ferro'],
+    suport: ["Personagem", "Marvel", "Homem de Ferro"],
     tips: [
       "É um gênio inventor e empresário.",
       "Sua fortuna vem da indústria tecnológica.",
@@ -2657,7 +2657,7 @@ const dataMovie = [
   },
   {
     answer: "Scarlett O’Hara",
-    suport: ['Personagem', 'E o Vento Levou'],
+    suport: ["Personagem", "E o Vento Levou"],
     tips: [
       "É uma figura central em um drama histórico.",
       "Vive em uma grande plantação no sul dos Estados Unidos.",
@@ -2678,7 +2678,7 @@ const dataMovie = [
   },
   {
     answer: "Marty McFly",
-    suport: ['Personagem', 'De Volta para o Futuro'],
+    suport: ["Personagem", "De Volta para o Futuro"],
     tips: [
       "É um adolescente que vive em uma pequena cidade.",
       "Viaja no tempo com a ajuda de um cientista excêntrico.",
@@ -2699,7 +2699,7 @@ const dataMovie = [
   },
   {
     answer: "Norman Bates",
-    suport: ['Personagem', 'Psicose'],
+    suport: ["Personagem", "Psicose"],
     tips: [
       "É dono de um pequeno e isolado motel.",
       "Tem uma relação extremamente complicada com sua mãe.",
@@ -2720,7 +2720,7 @@ const dataMovie = [
   },
   {
     answer: "Hermione Granger",
-    suport: ['Personagem', 'Harry Potter'],
+    suport: ["Personagem", "Harry Potter"],
     tips: [
       "É conhecida por sua inteligência e diligência.",
       "Tem uma afinidade especial com livros e estudos.",
@@ -2741,7 +2741,7 @@ const dataMovie = [
   },
   {
     answer: "Samara",
-    suport: ['Personagem', 'O Chamado'],
+    suport: ["Personagem", "O Chamado"],
     tips: [
       "É uma figura aterrorizante com uma aparência inconfundível.",
       "Sua história está ligada a uma maldição mortal.",
@@ -2762,7 +2762,7 @@ const dataMovie = [
   },
   {
     answer: "Kratos",
-    suport: ['Personagem', 'God of War'],
+    suport: ["Personagem", "God of War"],
     tips: [
       "É um guerreiro conhecido por sua força bruta e fúria.",
       "Sua história está enraizada na mitologia antiga.",
@@ -2783,7 +2783,7 @@ const dataMovie = [
   },
   {
     answer: "Princesa Peach",
-    suport: ['Personagem', 'Super Mario'],
+    suport: ["Personagem", "Super Mario"],
     tips: [
       "É uma figura de realeza em um reino cheio de cogumelos.",
       "Frequentemente precisa ser resgatada por um herói encanador.",
@@ -2804,7 +2804,7 @@ const dataMovie = [
   },
   {
     answer: "Mario",
-    suport: ['Personagem', 'Super Mario'],
+    suport: ["Personagem", "Super Mario"],
     tips: [
       "É um encanador famoso por suas aventuras em um reino fantástico.",
       "Usa um chapéu vermelho com uma letra inicial.",
@@ -2825,7 +2825,7 @@ const dataMovie = [
   },
   {
     answer: "Sub-Zero",
-    suport: ['Personagem', 'Mortal Kombat'],
+    suport: ["Personagem", "Mortal Kombat"],
     tips: [
       "É um guerreiro com habilidades criogênicas.",
       "Faz parte de um clã de ninjas.",
@@ -2846,7 +2846,7 @@ const dataMovie = [
   },
   {
     answer: "Sonya Blade",
-    suport: ['Personagem', 'Mortal Kombat'],
+    suport: ["Personagem", "Mortal Kombat"],
     tips: [
       "É uma soldada altamente treinada.",
       "Trabalha para uma agência governamental especial.",
@@ -2866,8 +2866,150 @@ const dataMovie = [
     ],
   },
   {
+    answer: "A Princesa e o Sapo",
+    tips: [
+      "Um pedido impulsivo leva a uma reviravolta mágica.",
+      "A trama começa com uma promessa inesperada feita em um lago.",
+      "O personagem principal está em busca de algo que deixou cair.",
+      "Uma figura surge das águas, mas não é quem parece ser.",
+      "Uma mudança de aparência acontece após um ato de coragem.",
+      "Um beijo se torna essencial para resolver o problema.",
+      "A personagem principal hesita em cumprir sua palavra.",
+      "Um desejo antigo se realiza, mas de maneira diferente do esperado.",
+      "A moral envolve não julgar pelas aparências.",
+      "Realeza e humildade se encontram de forma inusitada.",
+      "A história se passa em um reino onde a magia é possível.",
+      "Um animal revela uma sabedoria escondida.",
+      "A transformação final leva a um final feliz.",
+      "As águas guardam mais do que simples criaturas.",
+      "Esta história tem uma moral sobre promessas e respeito.",
+    ],
+  },
+  {
+    answer: "A Princesa e a Ervilha",
+    tips: [
+      "A história se passa dentro de um castelo.",
+      "A personagem principal procura por alguém especial para um papel real.",
+      "Um teste peculiar é proposto para revelar algo escondido.",
+      "A trama envolve conforto e desconforto durante a noite.",
+      "Uma pequena leguminosa desempenha um papel enorme.",
+      "É uma história que fala sobre sensibilidade.",
+      "Vários colchões são usados para criar um teste.",
+      "A personagem principal passa por uma noite difícil.",
+      "A história desafia as noções comuns sobre o que é essencial.",
+      "Um objeto pequeno revela uma grande verdade.",
+      "A busca é por uma pessoa digna de um título específico.",
+      "Sensação de desconforto se torna evidência de uma característica nobre.",
+      "Esta história tem uma lição sobre autenticidade.",
+      "Uma única noite prova quem é realmente especial.",
+      "Ao amanhecer, um segredo é revelado com base no descanso (ou a falta dele).",
+    ],
+  },
+  {
+    answer: "O Patinho Feio",
+    tips: [
+      "O protagonista nasce diferente de todos os outros ao seu redor.",
+      "Sua aparência é motivo de rejeição.",
+      "A história envolve uma jornada de autoaceitação.",
+      "A personagem é excluída de seu grupo familiar.",
+      "Durante o inverno, ele enfrenta tempos difíceis.",
+      "Encontrar um grupo que o aceite é o desafio da narrativa.",
+      "Ele se sente perdido, mas segue em frente.",
+      "O protagonista admira criaturas que parecem inatingíveis.",
+      "A beleza verdadeira só é revelada com o tempo.",
+      "A moral envolve paciência e crescimento.",
+      "A transformação final surpreende a todos ao redor.",
+      "O protagonista percebe que, apesar de diferente, tem valor.",
+      "É uma história que fala sobre o amadurecimento.",
+      "A conclusão é uma vitória sobre o preconceito.",
+      "Finalmente, ele encontra seu lugar entre seres como ele.",
+    ],
+  },
+  {
+    answer: "João e o Pé de Feijão",
+    tips: [
+      "A história começa com uma troca nada convencional.",
+      "Uma planta cresce em uma noite.",
+      "O protagonista sobe muito além do seu mundo comum.",
+      "Ele encontra um lugar cheio de riquezas e mistérios.",
+      "Uma harpa encantada é um dos tesouros do alto.",
+      "Um gigante o persegue, querendo algo de volta.",
+      "As nuvens guardam mais do que apenas água.",
+      "Um animal de estimação é trocado por algo inesperado.",
+      "A história envolve coragem e esperteza.",
+      "Ele se vê diante de um ser bem maior do que ele.",
+      "O protagonista busca melhorar sua vida e a de sua mãe.",
+      "Uma galinha especial produz um item valioso.",
+      "A planta cresce tão alto que parece infinita.",
+      "A moral envolve sorte e estratégia.",
+      "Ele desce rapidamente quando o perigo se aproxima.",
+    ],
+  },
+  {
+    answer: "O Quebra-Nozes",
+    tips: [
+      "A trama se passa durante uma festa de Natal.",
+      "Um presente encantado leva a uma aventura mágica.",
+      "A história começa com um brinquedo muito especial.",
+      "Uma batalha entre soldados e ratos acontece à noite.",
+      "A magia envolve doces e guloseimas como parte da jornada.",
+      "A personagem principal visita um reino mágico.",
+      "Um soldado de madeira é o herói inesperado.",
+      "A história explora temas de coragem e imaginação.",
+      "A protagonista é guiada para um lugar feito de fantasia.",
+      "Os ratos lideram o ataque ao reino dos doces.",
+      "A dança e a música têm papéis importantes.",
+      "Um príncipe surge de maneira mágica durante a aventura.",
+      "Um reino inteiro é feito de delícias e sonhos.",
+      "A moral envolve o espírito natalino e o inesperado.",
+      "Ao final, ela acorda, mas algo ficou diferente.",
+    ],
+  },
+  {
+    answer: "A Rainha Má",
+    suport: ["Personagem", "Branca de Neve e Os Sete Anões"],
+    tips: [
+      "A beleza é sua maior ambição e também sua perdição.",
+      "Ela é fascinada por seu próprio reflexo.",
+      "Tem poder sobre elementos da floresta.",
+      "Sua confiança se abala facilmente com a chegada de uma jovem.",
+      "A inveja a leva a extremos, recorrendo até a poções e feitiços.",
+      "É dona de um artefato que revela segredos.",
+      "Sua lealdade é apenas para com ela mesma.",
+      "Sua aparência nem sempre é o que parece.",
+      "Deseja eliminar quem ameaça seu posto.",
+      "Possui conhecimentos sobre ingredientes exóticos.",
+      "Seu poder é alimentado pela vaidade e pelo ódio.",
+      "O disfarce é uma de suas maiores habilidades.",
+      "O espelho é seu confidente e conselheiro, mas não é sempre gentil.",
+      "Uma fruta simboliza seu desejo por vingança.",
+      "O final não a favorece, apesar de todos os seus planos.",
+    ],
+  },
+  {
+    answer: "O Espelho Mágico",
+    suport: ["Personagem", "Branca de Neve e Os Sete Anões"],
+    suport: [
+      "Revela verdades, mesmo as mais difíceis de ouvir.",
+      "Sua 'voz' é solicitada apenas por uma pessoa específica.",
+      "A cada pergunta, sua resposta é sincera, mas perigosa.",
+      "Só ele vê além das aparências, conhecendo os segredos mais profundos.",
+      "Falar demais pode ser um risco, mas ele é compelido a responder.",
+      "Muitos o temeriam, mas ele só responde à sua dona.",
+      "Ele nunca recua em sua resposta, mesmo quando traz consequências.",
+      "Suas palavras não podem ser revertidas.",
+      "Existe apenas para servir e aconselhar.",
+      "Sua superfície oculta visões de outros lugares.",
+      "A verdade para ele é tão fria quanto seu reflexo.",
+      "Ele é objeto de grande inveja e desejo.",
+      "Reflete mais do que apenas imagens.",
+      "Emanando uma sabedoria imparcial, mas sua visão é cruel.",
+      "Ele sempre revela quem é realmente o melhor.",
+    ],
+  },
+  {
     answer: "Barbie",
-    suport: ['Personagem', 'Barbie'],
+    suport: ["Personagem", "Barbie"],
     tips: [
       "É conhecida por ter muitas profissões diferentes.",
       "Vive em uma casa dos sonhos.",
@@ -2888,7 +3030,7 @@ const dataMovie = [
   },
   {
     answer: "Ken",
-    suport: ['Personagem', 'Barbie'],
+    suport: ["Personagem", "Barbie"],
     tips: [
       "É o parceiro de uma figura famosa.",
       "Tem um estilo de vida variado e cheio de aventuras.",
@@ -2909,7 +3051,7 @@ const dataMovie = [
   },
   {
     answer: "Link",
-    suport: ['Personagem', 'Zelda'],
+    suport: ["Personagem", "Zelda"],
     tips: [
       "É um herói em um reino mágico.",
       "Empunha uma espada lendária.",
@@ -2930,7 +3072,7 @@ const dataMovie = [
   },
   {
     answer: "Medusa",
-    suport: ['Personagem', 'Mitologia Grega'],
+    suport: ["Personagem", "Mitologia Grega"],
     tips: [
       "É uma figura mitológica com um olhar fatal.",
       "Seu cabelo é feito de serpentes vivas.",
@@ -2951,7 +3093,7 @@ const dataMovie = [
   },
   {
     answer: "Hades",
-    suport: ['Personagem', 'Mitologia Grega'],
+    suport: ["Personagem", "Mitologia Grega"],
     tips: [
       "É o governante de um reino sombrio.",
       "Tem um capacete que o torna invisível.",
@@ -2972,7 +3114,7 @@ const dataMovie = [
   },
   {
     answer: "Poseidon",
-    suport: ['Personagem', 'Mitologia Grega'],
+    suport: ["Personagem", "Mitologia Grega"],
     tips: [
       "É uma divindade associada ao mar.",
       "Empunha um tridente como símbolo de seu poder.",
@@ -2993,7 +3135,7 @@ const dataMovie = [
   },
   {
     answer: "Afrodite",
-    suport: ['Personagem', 'Mitologia Grega'],
+    suport: ["Personagem", "Mitologia Grega"],
     tips: [
       "É conhecida por sua beleza incomparável.",
       "Nasceu da espuma do mar.",
@@ -3014,7 +3156,7 @@ const dataMovie = [
   },
   {
     answer: "Hermes",
-    suport: ['Personagem', 'Mitologia Grega'],
+    suport: ["Personagem", "Mitologia Grega"],
     tips: [
       "É o mensageiro dos deuses.",
       "Usa sandálias aladas para se deslocar rapidamente.",
@@ -3400,6 +3542,109 @@ const dataMovie = [
     ],
   },
   {
+    answer: "Madrasta Má",
+    suport: ["Personagem", "Cinderela"],
+    tips: [
+      "Tem duas aliadas que compartilham sua visão sobre a protagonista.",
+      "Sua elegância esconde uma natureza fria e calculista.",
+      "É protetora de suas próprias filhas, mas não dos outros.",
+      "Acha que a protagonista não merece os mesmos privilégios.",
+      "Dá ordens de maneira severa e autoritária.",
+      "As tarefas que delega são exaustivas e repetitivas.",
+      "Acredita firmemente que o status determina o valor das pessoas.",
+      "Um baile é um evento que ela controla com rigidez.",
+      "Seu desdém pela protagonista aumenta ao longo do tempo.",
+      "Controla o lar com mãos firmes e poucas concessões.",
+      "Tem um gato chamado Lucífer.",
+      "Vê a bondade como uma fraqueza.",
+      "Sua ambição cega a impede de ver o que é realmente importante.",
+      "Tenta impedir que outros alcancem o que ela mesma deseja.",
+      "No final, seus planos se desfazem, deixando-a em desvantagem.",
+    ],
+  },
+  {
+    answer: "Capitão Gancho",
+    suport: ["Personagem", "Peter Pan"],
+    tips: [
+      "Tem um acessório que substitui parte do seu corpo.",
+      "Sua obsessão envolve vingança por uma perda específica.",
+      "Vive em uma região entre o mar e a fantasia.",
+      "Tem medo de algo que faz 'tic-tac' constantemente.",
+      "A busca pelo seu inimigo é sua missão principal.",
+      "Comanda um grupo de seguidores fiéis, mas não tão leais.",
+      "Suas habilidades com uma espada são temidas e respeitadas.",
+      "Seu adversário é eternamente jovem, o que o irrita profundamente.",
+      "Navega pelos mares, sempre em busca de algo ou alguém.",
+      "Vive em conflito com aqueles que não querem crescer.",
+      "O som de um certo animal traz pavor ao seu coração.",
+      "É conhecido por seu estilo de roupa incomum e chamativo.",
+      "Seu ódio por um rival o define mais que qualquer outra coisa.",
+      "Passa seus dias planejando estratégias de captura.",
+      "Seu maior inimigo o derrotou de forma humilhante.",
+    ],
+  },
+  {
+    answer: "A Gansa dos Ovos de Ouro",
+    tips: [
+      "Um personagem é o centro de uma grande surpresa.",
+      "O desejo por riqueza leva a atitudes impulsivas.",
+      "A paciência seria uma virtude, mas nem todos conseguem esperar.",
+      "A história envolve o brilho de algo precioso.",
+      "Existe uma moral sobre ganância e suas consequências.",
+      "Cada dia traz uma nova descoberta para os protagonistas.",
+      "Aquilo que é valioso nem sempre é bem aproveitado.",
+      "A busca por riquezas rápidas leva a um erro trágico.",
+      "Uma ave é o ponto central da história.",
+      "O personagem principal deposita uma pequena fortuna regularmente.",
+      "A curiosidade é tão intensa que provoca um ato impensado.",
+      "Algo desejado demais pode ser o que causa a perda.",
+      "Existe um tesouro em potencial, mas ele é perdido para sempre.",
+      "A história é uma lição sobre o preço da impaciência.",
+      "O final deixa uma lição clara: a cobiça destrói aquilo que é bom.",
+    ],
+  },
+  {
+    answer: "Cachinhos Dourados e os Três Ursos",
+    tips: [
+      "A aventura começa com uma visita a um lar desconhecido.",
+      "Os moradores saem, e a visitante aproveita para explorar.",
+      "A temperatura, o tamanho e o conforto são temas recorrentes.",
+      "Cada escolha traz um aprendizado, mas nem todas agradam.",
+      "A história envolve elementos em diferentes proporções.",
+      "A protagonista encontra algo para comer, algo para sentar e algo para descansar.",
+      "Ela é curiosa e não tem receio de mexer no que não é seu.",
+      "A reação dos donos ao retorno é de surpresa e desagrado.",
+      "Esta história fala sobre invadir o espaço de outros.",
+      "Cada item testado é parte de uma sequência: um é muito, outro é pouco, e o terceiro é o ideal.",
+      "O final envolve uma fuga rápida e inesperada.",
+      "A moral gira em torno de respeitar o que pertence aos outros.",
+      "Os protagonistas não-humanos têm hábitos que lembram os das pessoas.",
+      "Alguém aprende que nem tudo está ali para ser explorado sem permissão.",
+      "Existe uma reviravolta quando a visitante percebe que o lar não está vazio.",
+    ],
+  },
+  {
+    answer: "Leprechaun",
+    suport: ["Personagem", "Literatura"],
+    tips: [
+      "É uma figura que se esconde nas sombras, mas adora a luz.",
+      "Frequentemente associado a riquezas e promessas de sorte.",
+      "Seu tamanho é pequeno, mas seu valor é incalculável.",
+      "Dizem que é difícil de encontrar e quase impossível de capturar.",
+      "Suas roupas são sempre impecáveis e vibrantes.",
+      "Costuma habitar lugares que parecem saídos de um conto de fadas.",
+      "Muitos tentam seguí-lo, mas acabam se perdendo no caminho.",
+      "Carrega consigo segredos antigos e truques engenhosos.",
+      "Embora seja visto como amigável, tem fama de ardiloso.",
+      "Histórias dizem que ele guarda um grande tesouro.",
+      "Adora se esconder perto de algo vibrante e brilhante.",
+      "É uma lenda de origem irlandesa.",
+      "Seu lar é uma terra de histórias e folclore.",
+      "Dizem que, se capturado, ele concederia algo precioso.",
+      "Um símbolo que mistura mistério e fortuna.",
+    ],
+  },
+  {
     answer: "O Diabo Veste Prada",
     tips: [
       "Uma jovem entra no mundo da moda de alta pressão.",
@@ -3500,6 +3745,166 @@ const dataMovie = [
     ],
   },
   {
+    answer: "O Massacre da Serra Elétrica",
+    tips: [
+      "A história é situada em uma região rural dos EUA.",
+      "A tensão envolve uma perseguição e um combate brutal pela sobrevivência.",
+      "Seus vilões vivem isolados e têm um comportamento bizarro e ritualístico.",
+      "Tem uma das cenas mais lembradas com uma serra barulhenta.",
+      "Foi um marco nos filmes de terror, com cenários perturbadores e sujos.",
+      "Inspirado vagamente em um caso real de um assassino nos anos 50.",
+      "O antagonista principal usa uma máscara que esconde seu rosto.",
+      "Esse filme inspirou o subgênero de horror com famílias sádicas.",
+      "O inimigo é conhecido por sua grande força física e armas improvisadas.",
+      "A história aborda a perda de controle e o medo do que é desconhecido.",
+      "Os personagens são jovens que enfrentam uma viagem arriscada.",
+      "A fuga é impossível pela falta de apoio e recursos próximos.",
+      "Recebeu várias sequências e remakes ao longo dos anos.",
+      "O vilão possui uma aparência macabra e deformada.",
+      "Seu objetivo não é apenas assustar, mas aniquilar completamente suas vítimas.",
+    ],
+  },
+  {
+    answer: "Jogos Mortais",
+    tips: [
+      "Cada 'participante' recebe um teste que envolve vida ou morte.",
+      "O 'jogo' é dirigido por alguém com uma visão única sobre justiça.",
+      "Os desafios muitas vezes exigem sacrifícios físicos dolorosos.",
+      "Os cenários incluem armadilhas engenhosas que exploram fraquezas humanas.",
+      "Surgiu nos anos 2000 e revolucionou o horror psicológico.",
+      "A frase 'Quero jogar um jogo' é memorável.",
+      "Cada jogador tem um passado sombrio ou um histórico questionável.",
+      "O vilão age como uma figura de julgamento e redenção.",
+      "Testes físicos e psicológicos ocorrem em ambientes fechados e tensos.",
+      "É possível sobreviver aos desafios, mas exige grandes sacrifícios.",
+      "Tem uma estrutura onde cada etapa é mais intensa que a anterior.",
+      "Envolve o uso de objetos comuns transformados em armadilhas mortais.",
+      "As vítimas geralmente têm algum tipo de conexão com o vilão.",
+      "A identidade do vilão é mantida em segredo por boa parte do enredo.",
+      "A série inclui várias sequências, com histórias interligadas.",
+    ],
+  },
+  {
+    answer: "Premonição",
+    tips: [
+      "A trama começa com uma visão premonitória de uma tragédia.",
+      "Um dos eventos mais conhecidos envolve uma ponte e um engavetamento.",
+      "Os personagens tentam escapar de uma 'ordem' invisível.",
+      "Cada evento parece 'planejado' para resultar em um desastre.",
+      "Cenas icônicas mostram a morte ocorrendo de forma improvável e criativa.",
+      "O personagem principal sempre tenta alertar os outros do perigo.",
+      "Envolve uma sequência de eventos em que cada pessoa enfrenta sua 'hora'.",
+      "Sugere que ninguém escapa do que está predestinado.",
+      "O tema central é a mortalidade e a inevitabilidade.",
+      "Cada filme começa com uma grande tragédia e sobrevive quem escapa.",
+      "Os cenários parecem lugares comuns, mas escondem perigos mortais.",
+      "As mortes costumam envolver acidentes inusitados e cruéis.",
+      "A ideia de 'sinais' antes das tragédias é frequente.",
+      "A franquia ganhou popularidade com mortes 'inusitadas' e chocantes.",
+      "É um thriller que faz o público refletir sobre o acaso e a fatalidade.",
+    ],
+  },
+  {
+    answer: "Os Caça-Fantasmas",
+    tips: [
+      "São chamados para resolver atividades paranormais em Nova York.",
+      "Usam equipamentos únicos que emitem uma luz verde.",
+      "Uma de suas armas icônicas é chamada de 'proton pack'.",
+      "Possuem um veículo especial que é quase um personagem próprio.",
+      "Uma geleia verde é associada com uma das criaturas que enfrentam.",
+      "Sua sede de operações é uma antiga estação de bombeiros.",
+      "Enfrentam espíritos e entidades assustadoras, mas o tom é divertido.",
+      "Há um vilão de grandes proporções conhecido como o Homem de Marshmallow.",
+      "Trabalham como uma equipe em investigações de casos sobrenaturais.",
+      "Combinam humor e horror em igual medida, agradando a todas as idades.",
+      "Seus uniformes são bege e têm um logotipo icônico.",
+      "Pra quem você vai ligar?",
+      "Um dos personagens é conhecido por sua curiosidade científica.",
+      "O grupo é composto por cientistas que deixaram suas carreiras tradicionais.",
+      "Eles fazem parte de um fenômeno cultural dos anos 80.",
+    ],
+  },
+  {
+    answer: "O Pequeno Príncipe",
+    tips: [
+      "Narra as aventuras de um jovem em um planeta distante.",
+      "Cada personagem que ele encontra simboliza um aspecto da vida humana.",
+      "O protagonista cultiva uma rosa, com quem tem um apego especial.",
+      "A história reflete temas de amor, amizade e amadurecimento.",
+      "Enfrenta uma cobra em sua jornada final na Terra.",
+      "A simplicidade da narrativa esconde uma profunda mensagem filosófica.",
+      "É um livro infantil que também encanta adultos.",
+      "Contém ilustrações delicadas feitas pelo próprio autor.",
+      "Ele deixa seu planeta para explorar novos lugares.",
+      "Seu autor era aviador e francês, e o livro reflete essa experiência.",
+      "Seu símbolo mais forte é uma rosa e seu cuidado.",
+      "A obra é uma crítica à sociedade e à visão adulta do mundo.",
+      "Fala de temas como a solidão e o amor não correspondido.",
+      "Passa por diversos planetas, onde encontra personagens singulares.",
+      "O narrador é um piloto perdido no deserto.",
+    ],
+  },
+  {
+    answer: "Moulin Rouge",
+    tips: [
+      "Situado em Paris no final do século XIX.",
+      "Seu cenário principal é um cabaré icônico.",
+      "Envolve uma história de amor entre uma cortesã e um escritor.",
+      "Tem números musicais conhecidos e extravagantes.",
+      "A trama é marcada pelo contraste entre amor e doença.",
+      "A protagonista tem um futuro incerto e está em uma posição difícil.",
+      "O cabaré é luxuoso, mas guarda uma atmosfera sombria.",
+      "A trilha sonora mistura elementos modernos e clássicos.",
+      "É um dos musicais mais conhecidos do cinema.",
+      "A história tem um tom trágico e romântico.",
+      "Um dos personagens é inspirado por artistas boêmios da época.",
+      "O cabaré onde a história se passa tem decorações luxuosas e vibrantes.",
+      "O enredo mostra o conflito entre seguir o amor ou o sucesso.",
+      "As performances do cabaré são elaboradas e marcantes.",
+      "A história termina de forma comovente e trágica.",
+    ],
+  },
+  {
+    answer: "Wicked",
+    tips: [
+      "Gira em torno de uma amizade complicada entre duas jovens.",
+      "A escola onde estudam é voltada ao aprendizado mágico.",
+      "Uma das protagonistas é vista como excêntrica e rebelde.",
+      "A outra é admirada e segue as regras da sociedade mágica.",
+      "Um dos temas é a aceitação do que é diferente e único.",
+      "A cor verde é associada a uma das protagonistas.",
+      "A história explora preconceitos e o conceito de lealdade.",
+      "Uma delas é vista como 'malvada' por desafiar a sociedade.",
+      "A trama se passa em um lugar cheio de seres mágicos e feitiços.",
+      "A amizade entre elas enfrenta obstáculos e julgamentos.",
+      "É inspirada em uma obra literária clássica e famosa.",
+      "Os poderes mágicos de cada uma refletem suas personalidades.",
+      "Aborda temas de justiça e discriminação.",
+      "As personagens compartilham uma ligação especial que desafia normas.",
+      "A história mostra que nem sempre o 'mal' é como parece.",
+    ],
+  },
+  {
+    answer: "O Mágico de Oz",
+    tips: [
+      "Uma garota e seu cachorro acabam em um mundo encantado por acidente.",
+      "A jornada começa com um tornado que leva a personagem principal a um lugar mágico.",
+      "Ela faz novos amigos, cada um em busca de algo essencial.",
+      "O caminho para seu destino é de cor amarela.",
+      "O grupo é perseguido por uma bruxa maligna.",
+      "Ela busca a ajuda de um homem que todos consideram poderoso.",
+      "O primeiro encontro é com um espantalho que deseja algo mais na vida.",
+      "Um dos amigos é um leão, mas não possui o que o torna corajoso.",
+      "A mensagem central é sobre o valor de casa e família.",
+      "A história é marcada por um ícone em forma de sapatos vermelhos.",
+      "A 'bruxa' do leste é a antagonista, mas é derrotada de forma inesperada.",
+      "É uma fábula que ensina sobre coragem, amor e sabedoria.",
+      "A amizade entre eles cresce durante a jornada pelo caminho amarelo.",
+      "O mágico não é exatamente o que todos esperam que ele seja.",
+      "O lugar onde tudo ocorre é tão encantador quanto perigoso.",
+    ],
+  },
+  {
     answer: "Liga da Justiça",
     tips: [
       "Um grupo de heróis que se une para combater uma ameaça global.",
@@ -3537,6 +3942,153 @@ const dataMovie = [
       "A teatralidade presente em todos os aspectos da vida.",
       "Manipulação e controle de percepções públicas.",
       "Um final que celebra o showbiz e a sobrevivência.",
+    ],
+  },
+  {
+    answer: "Dona Carochinha",
+    suport: ["Personagem", "Literatura"],
+    tips: [
+      "Ela adora compartilhar contos mágicos, mas sempre com uma lição.",
+      "É uma figura associada ao mundo infantil e ao folclore.",
+      "Em suas histórias, animais e objetos ganham vida própria.",
+      "Seu nome tem um toque antiquado, remetendo a uma época distante.",
+      "Gosta de narrar contos sobre perigos e sabedorias.",
+      "Costuma aparecer durante a noite, como uma velha conhecida.",
+      "É uma presença carinhosa, mas com um ar um tanto enigmático.",
+      "Seus contos geralmente ensinam sobre virtude e prudência.",
+      "A imaginação é sua maior companheira nas jornadas narrativas.",
+      "Muitos personagens de suas histórias têm características humanas.",
+      "Tem um nome que soa familiar, mas raro no cotidiano.",
+      "Já inspirou canções e adaptações teatrais.",
+      "É uma espécie de mentora para crianças em suas aventuras imaginárias.",
+      "Diz-se que gosta de finais felizes, mas cheios de moral.",
+      "Para alguns, ela lembra uma figura antiga, que fala com suavidade.",
+    ],
+  },
+  {
+    answer: "Papai Noel",
+    suport: ["Personagem", "Literatura"],
+    tips: [
+      "Ele aparece apenas uma vez por ano, para alegria dos pequenos.",
+      "Sua origem remonta a antigas lendas europeias.",
+      "Sua figura mistura generosidade com mistério.",
+      "É conhecido por viajar grandes distâncias em uma só noite.",
+      "Trabalha em segredo, mas deixa um rastro inconfundível.",
+      "Vive num lugar de gelo eterno, cercado por ajudantes.",
+      "Sua chegada é celebrada com luzes e decorações.",
+      "Carrega uma lista e é conhecido por julgar comportamentos.",
+      "Sua imagem é associada a trajes com uma cor bem marcante.",
+      "Representa o espírito de generosidade e alegria.",
+      "Transporta-se num meio não convencional, mas bastante rápido.",
+      "Muitos tentam se comportar bem só para merecer sua visita.",
+      "Os mais novos tentam sempre flagrá-lo em ação.",
+      "Ao longo dos séculos, sua aparência foi se modernizando.",
+      "Sua entrada é sempre discreta, mas deixa marcas de sua passagem.",
+    ],
+  },
+  {
+    answer: "Fada dos Dentes",
+    suport: ["Personagem", "Literatura"],
+    tips: [
+      "Suas visitas ocorrem durante a noite, quando ninguém a vê.",
+      "É uma figura de fé e encantamento para as crianças.",
+      "Costuma recompensar algo que simboliza crescimento e mudança.",
+      "Ela troca pequenas 'ofertas' por algo que já não é mais útil.",
+      "É conhecida por sua leveza e por ser quase invisível.",
+      "Sua imagem pode ter asas delicadas, mas raramente é vista.",
+      "Existe uma associação entre seu trabalho e o amadurecimento.",
+      "Nas histórias, é representada por uma pequena e gentil figura.",
+      "Trabalha silenciosamente, em meio ao mundo dos sonhos.",
+      "O que ela coleta é uma marca de transição para uma nova fase.",
+      "Embora não seja vista, sua presença é sempre confirmada de manhã.",
+      "Sua tradição é celebrada com alegria e pequenas expectativas.",
+      "Faz parte do imaginário infantil, com um toque mágico.",
+      "Sua figura é simbolizada por algo pequeno, mas valioso.",
+      "Sua missão é transformar o natural em algo encantador.",
+    ],
+  },
+  {
+    answer: "Minotauro",
+    suport: ["Personagem", "Mitologia Grega"],
+    tips: [
+      "Ele é metade homem, metade algo.",
+      "Vive confinado em um lugar de difícil saída.",
+      "É conhecido pela força bruta e pelo olhar intimidador.",
+      "Sua história está ligada a um famoso herói e uma grande traição.",
+      "Sua presença representa um desafio de coragem e inteligência.",
+      "Possui uma aparência que lembra o sagrado e o animal.",
+      "Guardar um segredo sombrio em seus domínios é seu destino.",
+      "Ele se encontra num local que é uma verdadeira armadilha.",
+      "A única entrada e saída de seu lar são bem protegidas.",
+      "É fruto de uma união não convencional e enigmática.",
+      "Tem uma história de origem que envolve reis e deuses.",
+      "Sua figura evoca a natureza selvagem e indomável.",
+      "O confronto com ele exige astúcia e um plano cuidadoso.",
+      "Sua força é física, mas sua inteligência é o que mais assusta.",
+      "É uma criatura lendária, símbolo de punição e desafios.",
+    ],
+  },
+  {
+    answer: "Atena",
+    suport: ["Personagem", "Mitologia Grega"],
+    tips: [
+      "É reverenciada pela inteligência e pelas estratégias de guerra.",
+      "Suas habilidades envolvem tanto a razão quanto a bravura.",
+      "Frequentemente retratada com armadura e um olhar firme.",
+      "Está associada a uma cidade poderosa e histórica.",
+      "Seu símbolo é uma ave que simboliza sabedoria.",
+      "É patrona de artes e ciências, além da guerra.",
+      "Em uma mão, carrega uma arma; na outra, um objeto de paz.",
+      "Costuma favorecer heróis justos e astutos em suas missões.",
+      "Representa tanto a força física quanto a intelectual.",
+      "É filha de um deus poderoso, mas nasceu de forma única.",
+      "Tem uma relação próxima com um herói famoso e sua jornada.",
+      "Aparece em lendas antigas, sempre com uma aura respeitável.",
+      "É associada a elementos naturais, como oliveiras e animais.",
+      "Nas batalhas, prefere a inteligência à força bruta.",
+      "Seu maior prazer é ver a justiça prevalecer.",
+    ],
+  },
+  {
+    answer: "Dionísio",
+    suport: ["Personagem", "Mitologia Grega"],
+    tips: [
+      "Ele é o símbolo da alegria e das celebrações intensas.",
+      "Seus rituais envolvem uvas e música em abundância.",
+      "É considerado o protetor das artes, da loucura e da diversão.",
+      "Costuma estar cercado por seguidores em êxtase.",
+      "Suas festividades envolvem danças e noites sem fim.",
+      "Em uma mão, carrega uma bebida; na outra, um cajado simbólico.",
+      "É adorado tanto por mortais quanto por deuses.",
+      "Sua história envolve mistério, e até uma dose de loucura.",
+      "Não se preocupa com convenções e prefere viver intensamente.",
+      "Sua figura é marcada por guirlandas e um ar de liberdade.",
+      "É conhecido por trazer libertação através da arte e da música.",
+      "Seus seguidores vivem momentos de êxtase quase espiritual.",
+      "Ele representa tanto o êxtase quanto o desequilíbrio.",
+      "Seu poder é celebrado com banquetes e danças ritualísticas.",
+      "Prefere os campos e bosques às grandes cidades.",
+    ],
+  },
+  {
+    answer: "Ciclope",
+    suport: ["Personagem", "Mitologia Grega"],
+    tips: [
+      "É conhecido por sua força descomunal e visão única.",
+      "Sua figura intimida tanto homens quanto deuses.",
+      "Vive em cavernas ou regiões isoladas, longe da civilização.",
+      "Possui apenas um olho, que o torna tanto poderoso quanto vulnerável.",
+      "Sua força é lendária, mas seu intelecto é limitado.",
+      "Tem uma relação complicada com heróis e estrangeiros.",
+      "Costuma ser retratado com uma arma rústica, mas devastadora.",
+      "Seu lar é frequentemente uma ilha ou uma montanha.",
+      "É tanto temido quanto respeitado entre as criaturas míticas.",
+      "As histórias que o envolvem são recheadas de confrontos épicos.",
+      "Algumas histórias mencionam que ele possui irmãos similares.",
+      "É considerado tanto um monstro quanto um guardião.",
+      "Seu nome é sinônimo de algo incomum e peculiar.",
+      "Ele aparece em grandes lendas e mitos da antiguidade.",
+      "Um certo herói o venceu usando mais astúcia do que força.",
     ],
   },
   {
@@ -3661,7 +4213,7 @@ const dataMovie = [
   },
   {
     answer: "Robin Hood",
-    suport: ['Personagem', 'Literatura'],
+    suport: ["Personagem", "Literatura"],
     tips: [
       "Conhecido por sua habilidade com arco e flecha.",
       "Vive em uma floresta com seus aliados.",
@@ -3682,7 +4234,7 @@ const dataMovie = [
   },
   {
     answer: "Lobo Mau",
-    suport: ['Personagem', 'Literatura'],
+    suport: ["Personagem", "Literatura"],
     tips: [
       "Personagem de várias fábulas e contos.",
       "Tem um apetite insaciável.",
@@ -3723,7 +4275,7 @@ const dataMovie = [
   },
   {
     answer: "Pequeno Polegar",
-    suport: ['Personagem', 'Literatura'],
+    suport: ["Personagem", "Literatura"],
     tips: [
       "Personagem de um conto de esperteza.",
       "Nasceu em uma família numerosa.",
@@ -3769,7 +4321,7 @@ const dataMovie = [
   },
   {
     answer: "Sra. Trunchbull",
-    suport: ['Personagem', 'Matilda'],
+    suport: ["Personagem", "Matilda"],
     tips: [
       "Adora disciplinas rígidas.",
       "Tem uma abordagem nada convencional com os alunos.",
@@ -3790,7 +4342,7 @@ const dataMovie = [
   },
   {
     answer: "Carminha",
-    suport: ['Personagem', 'Avenida Brasil'],
+    suport: ["Personagem", "Avenida Brasil"],
     tips: [
       "Sua vida é cheia de altos e baixos.",
       "Já foi casada mais de uma vez.",
@@ -3810,7 +4362,7 @@ const dataMovie = [
   },
   {
     answer: "Nazaré Tedesco",
-    suport: ['Personagem', 'Senhora do Destino'],
+    suport: ["Personagem", "Senhora do Destino"],
     tips: [
       "Mora em uma casa com escadaria famosa.",
       "Tem uma relação conturbada com a filha.",
@@ -3831,7 +4383,7 @@ const dataMovie = [
   },
   {
     answer: "Odete Roitman",
-    suport: ['Personagem', 'Vale Tudo'],
+    suport: ["Personagem", "Vale Tudo"],
     tips: [
       "Empresária de grande sucesso.",
       "É conhecida por sua frieza e calculismo.",
@@ -3852,7 +4404,7 @@ const dataMovie = [
   },
   {
     answer: "Cruella",
-    suport: ['Personagem', '101 Dálmatas'],
+    suport: ["Personagem", "101 Dálmatas"],
     tips: [
       "Tem uma paixão peculiar por moda.",
       "Sua obsessão envolve animais.",
@@ -3873,7 +4425,7 @@ const dataMovie = [
   },
   {
     answer: "Ursula",
-    suport: ['Personagem', 'A Pequena Sereia'],
+    suport: ["Personagem", "A Pequena Sereia"],
     tips: [
       "Vive no fundo do mar.",
       "Tem poderes mágicos.",
@@ -3894,7 +4446,7 @@ const dataMovie = [
   },
   {
     answer: "James Bond",
-    suport: ['Personagem', '007'],
+    suport: ["Personagem", "007"],
     tips: [
       "É conhecido por seu código numérico.",
       "Trabalha para uma agência secreta.",
@@ -3915,7 +4467,7 @@ const dataMovie = [
   },
   {
     answer: "Polly Pocket",
-    suport: ['Personagem', 'Polly'],
+    suport: ["Personagem", "Polly"],
     tips: [
       "É uma figura pequena que cabe na palma da mão.",
       "Vive em um mundo de miniaturas encantadoras.",
@@ -3936,7 +4488,7 @@ const dataMovie = [
   },
   {
     answer: "Lobisomem",
-    suport: ['Personagem', 'Literatura'],
+    suport: ["Personagem", "Literatura"],
     tips: [
       "Se transforma em noites específicas.",
       "É metade humano, metade fera.",
@@ -3957,7 +4509,7 @@ const dataMovie = [
   },
   {
     answer: "Saci Pererê",
-    suport: ['Personagem', 'Literatura'],
+    suport: ["Personagem", "Literatura"],
     tips: [
       "É conhecido por suas travessuras.",
       "Tem uma perna só.",
@@ -3978,7 +4530,7 @@ const dataMovie = [
   },
   {
     answer: "Cuca",
-    suport: ['Personagem', 'Literatura'],
+    suport: ["Personagem", "Literatura"],
     tips: [
       "É uma figura temida por crianças.",
       "Aparece em histórias para assustar.",
@@ -3999,7 +4551,7 @@ const dataMovie = [
   },
   {
     answer: "Mula sem Cabeça",
-    suport: ['Personagem', 'Literatura'],
+    suport: ["Personagem", "Literatura"],
     tips: [
       "É uma criatura amaldiçoada.",
       "Corre em chamas pelo campo.",
@@ -4020,7 +4572,7 @@ const dataMovie = [
   },
   {
     answer: "Curupira",
-    suport: ['Personagem', 'Literatura'],
+    suport: ["Personagem", "Literatura"],
     tips: [
       "É o guardião das florestas.",
       "Tem os pés virados para trás.",
@@ -4041,7 +4593,7 @@ const dataMovie = [
   },
   {
     answer: "Caipora",
-    suport: ['Personagem', 'Literatura'],
+    suport: ["Personagem", "Literatura"],
     tips: [
       "É um espírito protetor da floresta.",
       "Monta um animal selvagem.",
@@ -4062,7 +4614,7 @@ const dataMovie = [
   },
   {
     answer: "Coringa",
-    suport: ['Personagem', 'DC'],
+    suport: ["Personagem", "DC"],
     tips: [
       "Tem um sorriso permanente e sinistro.",
       "É conhecido por seu senso de humor distorcido.",
@@ -4083,7 +4635,7 @@ const dataMovie = [
   },
   {
     answer: "Thanos",
-    suport: ['Personagem', 'Marvel'],
+    suport: ["Personagem", "Marvel"],
     tips: [
       "Busca equilibrar o universo à sua maneira.",
       "Possui um item que concede poderes inimagináveis.",
@@ -4104,7 +4656,7 @@ const dataMovie = [
   },
   {
     answer: "Malévola",
-    suport: ['Personagem', 'A Bela Adormecida'],
+    suport: ["Personagem", "A Bela Adormecida"],
     tips: [
       "Tem chifres como parte de sua aparência icônica.",
       "Vive em um reino de mistério e magia.",
@@ -4125,7 +4677,7 @@ const dataMovie = [
   },
   {
     answer: "Freddy Krueger",
-    suport: ['Personagem', 'A Hora do Pesadelo'],
+    suport: ["Personagem", "A Hora do Pesadelo"],
     tips: [
       "Invade os sonhos de suas vítimas.",
       "Tem uma aparência desfigurada e assustadora.",
@@ -4146,7 +4698,7 @@ const dataMovie = [
   },
   {
     answer: "Pennywise",
-    suport: ['Personagem', 'It, A Coisa'],
+    suport: ["Personagem", "It, A Coisa"],
     tips: [
       "Assume a forma de um palhaço para atrair suas vítimas.",
       "Seu reino é um lugar sombrio e subterrâneo.",
@@ -4167,7 +4719,7 @@ const dataMovie = [
   },
   {
     answer: "Tempestade",
-    suport: ['Personagem', 'Marvel', 'X-Men'],
+    suport: ["Personagem", "Marvel", "X-Men"],
     tips: [
       "Pode controlar os elementos da natureza.",
       "Sua aparência inclui cabelos brancos e olhos brilhantes.",
@@ -4188,7 +4740,7 @@ const dataMovie = [
   },
   {
     answer: "Magneto",
-    suport: ['Personagem', 'Marvel', 'X-Men'],
+    suport: ["Personagem", "Marvel", "X-Men"],
     tips: [
       "Possui o poder de controlar metais.",
       "É tanto um adversário quanto um aliado de heróis.",
@@ -4209,7 +4761,7 @@ const dataMovie = [
   },
   {
     answer: "Nosferatu",
-    suport: ['Personagem', 'Nosferatu'],
+    suport: ["Personagem", "Nosferatu"],
     tips: [
       "Prefere a escuridão.",
       "Tem um medo irracional do sol.",
@@ -4230,7 +4782,7 @@ const dataMovie = [
   },
   {
     answer: "Oompa Loompas",
-    suport: ['Personagem', 'A Fantástica Fábrica de Chocolate'],
+    suport: ["Personagem", "A Fantástica Fábrica de Chocolate"],
     tips: [
       "Trabalham em um lugar cheio de doces.",
       "São pequenos e muito trabalhadores.",
@@ -4251,7 +4803,7 @@ const dataMovie = [
   },
   {
     answer: "Elvira",
-    suport: ['Personagem', 'Elvira, A Rainha das Trevas'],
+    suport: ["Personagem", "Elvira, A Rainha das Trevas"],
     tips: [
       "Seu visual é icônico e gótico.",
       "Apresenta um programa de filmes de terror.",
@@ -4272,7 +4824,7 @@ const dataMovie = [
   },
   {
     answer: "Senhor Cabeça de Batata",
-    suport: ['Personagem', 'Toy Story'],
+    suport: ["Personagem", "Toy Story"],
     tips: [
       "Pode trocar suas partes facilmente.",
       "Faz parte de uma turma bem famosa.",
@@ -4293,7 +4845,7 @@ const dataMovie = [
   },
   {
     answer: "Conde Drácula",
-    suport: ['Personagem', 'Drácula'],
+    suport: ["Personagem", "Drácula"],
     tips: [
       "Vive em um castelo nos Cárpatos.",
       "É um nobre antigo.",
@@ -4314,7 +4866,7 @@ const dataMovie = [
   },
   {
     answer: "Professor Charles Xavier",
-    suport: ['Personagem', 'Marvel', 'X-Men'],
+    suport: ["Personagem", "Marvel", "X-Men"],
     tips: [
       "Lidera um grupo de indivíduos especiais.",
       "Seu maior poder é mental.",
@@ -4335,7 +4887,7 @@ const dataMovie = [
   },
   {
     answer: "Mística",
-    suport: ['Personagem', 'Marvel', 'X-Men'],
+    suport: ["Personagem", "Marvel", "X-Men"],
     tips: [
       "Pode assumir qualquer forma.",
       "Sua verdadeira aparência é azul.",
@@ -4356,7 +4908,7 @@ const dataMovie = [
   },
   {
     answer: "Anabelle",
-    suport: ['Personagem', 'Invocação do Mal'],
+    suport: ["Personagem", "Invocação do Mal"],
     tips: [
       "É um objeto inanimado, mas mortal.",
       "Sua aparência é de uma inocente companheira infantil.",
@@ -4377,7 +4929,7 @@ const dataMovie = [
   },
   {
     answer: "Flash",
-    suport: ['Personagem', 'DC'],
+    suport: ["Personagem", "DC"],
     tips: [
       "Conhecido por sua velocidade sobre-humana.",
       "É um herói com um uniforme vermelho e detalhes dourados.",
@@ -4398,7 +4950,7 @@ const dataMovie = [
   },
   {
     answer: "Superman",
-    suport: ['Personagem', 'DC'],
+    suport: ["Personagem", "DC"],
     tips: [
       "Vem de um planeta distante e destruído.",
       "É conhecido por sua força sobre-humana e invulnerabilidade.",
@@ -4419,7 +4971,7 @@ const dataMovie = [
   },
   {
     answer: "Branca de Neve",
-    suport: ['Personagem', 'Branca de Neve e os Sete Anões'],
+    suport: ["Personagem", "Branca de Neve e os Sete Anões"],
     tips: [
       "Sua beleza é comparada à da neve fresca.",
       "Foge para uma floresta sombria para escapar do perigo.",
@@ -4440,7 +4992,7 @@ const dataMovie = [
   },
   {
     answer: "Donkey Kong",
-    suport: ['Personagem', 'Super Mario'],
+    suport: ["Personagem", "Super Mario"],
     tips: [
       "É uma figura icônica do mundo dos videogames.",
       "Tem uma força extraordinária e uma afinidade por bananas.",
@@ -4460,7 +5012,7 @@ const dataMovie = [
   },
   {
     answer: "Pikachu",
-    suport: ['Personagem', 'Pokémon'],
+    suport: ["Personagem", "Pokémon"],
     tips: [
       "É uma criatura amarela com bochechas vermelhas.",
       "Suas habilidades envolvem eletricidade.",
@@ -4481,7 +5033,7 @@ const dataMovie = [
   },
   {
     answer: "Chucky",
-    suport: ['Personagem', 'O Brinquedo Assassino'],
+    suport: ["Personagem", "O Brinquedo Assassino"],
     tips: [
       "É um brinquedo que causa terror.",
       "Tem uma aparência infantil, mas é tudo menos inocente.",
@@ -4502,7 +5054,7 @@ const dataMovie = [
   },
   {
     answer: "Willy Wonka",
-    suport: ['Personagem', 'A Fantástica Fábrica de Chocolate'],
+    suport: ["Personagem", "A Fantástica Fábrica de Chocolate"],
     tips: [
       "É o proprietário de uma fábrica mágica e misteriosa.",
       "Sua especialidade é criar doces e guloseimas únicas.",
@@ -4523,7 +5075,7 @@ const dataMovie = [
   },
   {
     answer: "Edna Moda",
-    suport: ['Personagem', 'Os Incríveis'],
+    suport: ["Personagem", "Os Incríveis"],
     tips: [
       "É uma designer famosa com uma personalidade forte.",
       "Sua especialidade é criar trajes únicos.",
@@ -4544,7 +5096,7 @@ const dataMovie = [
   },
   {
     answer: "Chapeleiro Maluco",
-    suport: ['Personagem', 'Alice no País das Maravilhas'],
+    suport: ["Personagem", "Alice no País das Maravilhas"],
     tips: [
       "É um artesão com uma paixão por acessórios de cabeça.",
       "Participa de festas regulares com amigos excêntricos.",
@@ -4565,7 +5117,7 @@ const dataMovie = [
   },
   {
     answer: "Rainha Vermelha",
-    suport: ['Personagem', 'Alice no País das Maravilhas'],
+    suport: ["Personagem", "Alice no País das Maravilhas"],
     tips: [
       "Governa com um punho de ferro e um temperamento explosivo.",
       "É obcecada por uma certa cor e tudo que a represente.",
@@ -4586,7 +5138,7 @@ const dataMovie = [
   },
   {
     answer: "Grilo Falante",
-    suport: ['Personagem', 'Pinóquio'],
+    suport: ["Personagem", "Pinóquio"],
     tips: [
       "Atua como a consciência e guia moral de um jovem aventureiro.",
       "É pequeno, mas tem uma voz e presença significativas.",
@@ -4607,7 +5159,7 @@ const dataMovie = [
   },
   {
     answer: "Regina George",
-    suport: ['Personagem', 'Meninas Malvadas'],
+    suport: ["Personagem", "Meninas Malvadas"],
     tips: [
       "É a líder de um grupo exclusivo e temido na escola.",
       "Sua aparência é cuidadosamente mantida e invejada.",
@@ -4628,7 +5180,7 @@ const dataMovie = [
   },
   {
     answer: "Wandinha Addams",
-    suport: ['Personagem', 'A Família Addams'],
+    suport: ["Personagem", "A Família Addams"],
     tips: [
       "Tem uma personalidade sombria e inteligente.",
       "Seu senso de humor é macabro e seco.",
@@ -4649,7 +5201,7 @@ const dataMovie = [
   },
   {
     answer: "Morticia Addams",
-    suport: ['Personagem', 'A Família Addams'],
+    suport: ["Personagem", "A Família Addams"],
     tips: [
       "É a matriarca de uma família excêntrica e única.",
       "Tem uma beleza clássica e uma presença etérea.",
@@ -4670,7 +5222,7 @@ const dataMovie = [
   },
   {
     answer: "Gato de Botas",
-    suport: ['Personagem', 'Shrek'],
+    suport: ["Personagem", "Shrek"],
     tips: [
       "É um espadachim habilidoso e destemido.",
       "Usa um chapéu de plumas e botas marcantes.",
@@ -4691,7 +5243,7 @@ const dataMovie = [
   },
   {
     answer: "Sininho",
-    suport: ['Personagem', 'Peter Pan'],
+    suport: ["Personagem", "Peter Pan"],
     tips: [
       "É pequena e brilhante, com asas reluzentes.",
       "Tem um temperamento forte e uma lealdade inabalável.",
@@ -4712,7 +5264,7 @@ const dataMovie = [
   },
   {
     answer: "Bumblebee",
-    suport: ['Personagem', 'Transformers'],
+    suport: ["Personagem", "Transformers"],
     tips: [
       "É conhecido por sua habilidade de se transformar.",
       "Usa ondas de rádio para se comunicar.",
@@ -4733,7 +5285,7 @@ const dataMovie = [
   },
   {
     answer: "Goku",
-    suport: ['Personagem', 'Dragon Ball'],
+    suport: ["Personagem", "Dragon Ball"],
     tips: [
       "É um guerreiro de um planeta distante.",
       "Tem um apetite insaciável e ama treinar.",
@@ -4754,7 +5306,7 @@ const dataMovie = [
   },
   {
     answer: "Luffy",
-    suport: ['Personagem', 'One Piece'],
+    suport: ["Personagem", "One Piece"],
     tips: [
       "Sonha em encontrar um tesouro lendário.",
       "Seu corpo tem propriedades elásticas.",
@@ -4775,7 +5327,7 @@ const dataMovie = [
   },
   {
     answer: "Naruto",
-    suport: ['Personagem', 'Naruto'],
+    suport: ["Personagem", "Naruto"],
     tips: [
       "Tem um espírito indomável e nunca desiste.",
       "Seu sonho é se tornar o líder de sua vila.",
@@ -4796,7 +5348,7 @@ const dataMovie = [
   },
   {
     answer: "Daphne",
-    suport: ['Personagem', 'Scooby Doo'],
+    suport: ["Personagem", "Scooby Doo"],
     tips: [
       "É parte de um grupo que resolve mistérios.",
       "Sua aparência é marcada por um senso de moda distinto.",
@@ -4817,7 +5369,7 @@ const dataMovie = [
   },
   {
     answer: "Velma",
-    suport: ['Personagem', 'Scooby Doo'],
+    suport: ["Personagem", "Scooby Doo"],
     tips: [
       "É a mente brilhante de seu grupo de amigos.",
       "Usa óculos que frequentemente perde.",
@@ -4838,7 +5390,7 @@ const dataMovie = [
   },
   {
     answer: "Pantera Cor-de-Rosa",
-    suport: ['Personagem', 'A Pantera Cor-de-Rosa'],
+    suport: ["Personagem", "A Pantera Cor-de-Rosa"],
     tips: [
       "É um personagem conhecido por sua cor única.",
       "A elegância e o mistério são suas marcas registradas.",
@@ -4859,7 +5411,7 @@ const dataMovie = [
   },
   {
     answer: "Patrick Estrela",
-    suport: ['Personagem', 'Bob Esponja'],
+    suport: ["Personagem", "Bob Esponja"],
     tips: [
       "Vive no fundo do mar em uma estrutura simples.",
       "Tem uma natureza descontraída e às vezes ingênua.",
@@ -4880,7 +5432,7 @@ const dataMovie = [
   },
   {
     answer: "Fred",
-    suport: ['Personagem', 'Scooby Doo'],
+    suport: ["Personagem", "Scooby Doo"],
     tips: [
       "É o líder de um grupo de jovens investigadores.",
       "Gosta de criar armadilhas complexas para capturar vilões.",
@@ -4901,7 +5453,7 @@ const dataMovie = [
   },
   {
     answer: "Ursinho Pooh",
-    suport: ['Personagem', 'O Ursinho Pooh'],
+    suport: ["Personagem", "O Ursinho Pooh"],
     tips: [
       "Vive em um lugar tranquilo e encantador.",
       "Tem um grande amor por um alimento doce e pegajoso.",
@@ -4922,7 +5474,7 @@ const dataMovie = [
   },
   {
     answer: "Coragem",
-    suport: ['Personagem', 'Coragem, o Cão Covarde'],
+    suport: ["Personagem", "Coragem, o Cão Covarde"],
     tips: [
       "Vive em uma casa isolada com seus donos idosos.",
       "Enfrenta ameaças sobrenaturais e monstros frequentemente.",
@@ -4943,7 +5495,7 @@ const dataMovie = [
   },
   {
     answer: "Popeye",
-    suport: ['Personagem', 'Popeye'],
+    suport: ["Personagem", "Popeye"],
     tips: [
       "Ganha força incrível ao consumir um vegetal específico.",
       "Tem um amor inabalável por uma mulher alta e magra.",
@@ -4964,7 +5516,7 @@ const dataMovie = [
   },
   {
     answer: "Moranguinho",
-    suport: ['Personagem', 'Moranguinho'],
+    suport: ["Personagem", "Moranguinho"],
     tips: [
       "Vive em uma terra mágica cheia de frutas e flores.",
       "É conhecida por seu chapéu decorado com uma fruta específica.",
@@ -4985,7 +5537,7 @@ const dataMovie = [
   },
   {
     answer: "O Gato da Cartola",
-    suport: ['Personagem', 'O Gato'],
+    suport: ["Personagem", "O Gato"],
     tips: [
       "Aparece em um dia chuvoso para animar duas crianças.",
       "Usa um chapéu listrado de forma distinta.",
@@ -5006,7 +5558,7 @@ const dataMovie = [
   },
   {
     answer: "Taz",
-    suport: ['Personagem', 'Looney Tunes'],
+    suport: ["Personagem", "Looney Tunes"],
     tips: [
       "É conhecido por sua fome insaciável e energia caótica.",
       "Gira como um tornado quando está irritado ou excitado.",
@@ -5027,7 +5579,7 @@ const dataMovie = [
   },
   {
     answer: "Mestre dos Magos",
-    suport: ['Personagem', 'A Caverna do Dragão'],
+    suport: ["Personagem", "A Caverna do Dragão"],
     tips: [
       "É um guia sábio em um mundo de fantasia e magia.",
       "Usa um traje característico que inclui um capuz.",
@@ -5048,7 +5600,7 @@ const dataMovie = [
   },
   {
     answer: "Betty Boop",
-    suport: ['Personagem', 'Betty Boop'],
+    suport: ["Personagem", "Betty Boop"],
     tips: [
       "Surgiu durante a era de ouro da animação.",
       "Conhecida por sua voz infantil e cativante.",
@@ -5069,7 +5621,7 @@ const dataMovie = [
   },
   {
     answer: "Hannah Montana",
-    suport: ['Personagem', 'Hannah Montana'],
+    suport: ["Personagem", "Hannah Montana"],
     tips: [
       "Leva uma vida dupla que poucos conhecem.",
       "Canta em estádios lotados e também faz dever de casa.",
@@ -5090,7 +5642,7 @@ const dataMovie = [
   },
   {
     answer: "Kong",
-    suport: ['Personagem', 'King Kong'],
+    suport: ["Personagem", "King Kong"],
     tips: [
       "Originário de uma ilha misteriosa e perigosa.",
       "Tem um fascínio por arranha-céus.",
@@ -5111,7 +5663,7 @@ const dataMovie = [
   },
   {
     answer: "Godzilla",
-    suport: ['Personagem', 'Godzilla'],
+    suport: ["Personagem", "Godzilla"],
     tips: [
       "Surge do mar para causar destruição em massa.",
       "É uma metáfora para os perigos da radiação e da guerra nuclear.",
@@ -5132,7 +5684,7 @@ const dataMovie = [
   },
   {
     answer: "Gênio da Lâmpada",
-    suport: ['Personagem', 'Aladdin'],
+    suport: ["Personagem", "Aladdin"],
     tips: [
       "Concede três desejos a quem o liberta.",
       "Vive em um objeto pequeno, mas é imensamente poderoso.",
@@ -5153,7 +5705,7 @@ const dataMovie = [
   },
   {
     answer: "Rochelle",
-    suport: ['Personagem', 'Todo Mundo Odeia o Chris'],
+    suport: ["Personagem", "Todo Mundo Odeia o Chris"],
     tips: [
       "É conhecida por seu jeito forte e decidido.",
       "Equilibra o trabalho e a criação de três filhos.",
@@ -5174,28 +5726,28 @@ const dataMovie = [
   },
   {
     answer: "Vampiro",
-    suport: ['Personagem', 'Literatura'],
+    suport: ["Personagem", "Literatura"],
     tips: [
-      "Tem uma sede insaciável por algo vital.",
-      "Evita a luz do sol e prefere a escuridão.",
-      "Possui presas afiadas para seu método de alimentação.",
-      "Vive por séculos sem envelhecer.",
-      "Muitas vezes é retratado como uma figura sedutora e misteriosa.",
-      "Pode se transformar em um morcego.",
-      "É vulnerável a certos itens religiosos e plantas.",
-      "Precisa ser convidado para entrar em uma residência.",
-      "Reflete o medo da morte e a sedução da imortalidade.",
-      "Histórias sobre ele remontam a lendas antigas.",
-      "Vive em castelos ou lugares sombrios e isolados.",
-      "Muitas vezes usa um traje formal e elegante.",
-      "Enfrenta caçadores dedicados a destruí-lo.",
-      "Seu reflexo não aparece em espelhos.",
-      "É um personagem central em muitos contos de terror e fantasia.",
+      "Sua pele é pálida, quase translúcida.",
+      "Não costuma sair durante o dia, preferindo a escuridão.",
+      "Seu toque causa calafrios e um encanto hipnótico.",
+      "Tem uma relação intensa com o sangue e a eternidade.",
+      "Aparece de forma sedutora, mas sua presença é ameaçadora.",
+      "Muitos o consideram uma lenda, mas histórias provam o contrário.",
+      "É imortal, mas há métodos específicos para derrotá-lo.",
+      "Entra discretamente nos lares, mas nunca sem convite.",
+      "Suas vítimas são geralmente atraídas pelo charme irresistível.",
+      "Vive em mansões ou castelos antigos, longe de olhares curiosos.",
+      "Pode se transformar em uma criatura para se deslocar silenciosamente.",
+      "O reflexo em espelhos é algo que lhe falta.",
+      "É conhecido por uma habilidade de cura que transcende o tempo.",
+      "Tem aversão a certos objetos e símbolos sagrados.",
+      "Sua mordida é ao mesmo tempo temida e desejada.",
     ],
   },
   {
     answer: "Gárgula",
-    suport: ['Personagem', 'Literatura'],
+    suport: ["Personagem", "Literatura"],
     tips: [
       "Originalmente criado como um guardião de edifícios.",
       "Tem uma aparência petrificada durante o dia.",
@@ -5216,7 +5768,7 @@ const dataMovie = [
   },
   {
     answer: "Frankenstein",
-    suport: ['Personagem', 'Frankenstein'],
+    suport: ["Personagem", "Frankenstein"],
     tips: [
       "Criado por um cientista ambicioso e determinado.",
       "Sua aparência é marcada por cicatrizes e costuras.",
@@ -5236,7 +5788,7 @@ const dataMovie = [
   },
   {
     answer: "Lúcifer",
-    suport: ['Personagem', 'Literatura'],
+    suport: ["Personagem", "Literatura"],
     tips: [
       "Originalmente, era um ser de grande beleza e poder.",
       "Seu nome significa 'portador de luz.'",
@@ -5256,8 +5808,134 @@ const dataMovie = [
     ],
   },
   {
+    answer: "Grifo",
+    suport: ["Personagem", "Mitologia Grega"],
+    tips: [
+      "Possui corpo de leão e asas de águia, representando poder e liberdade.",
+      "É uma figura de vigilância e proteção em mitos antigos.",
+      "Representa a união entre a força terrestre e a liberdade dos céus.",
+      "Seu olhar é penetrante, e sua postura é sempre imponente.",
+      "É frequentemente guardião de tesouros e objetos sagrados.",
+      "Sua imagem é encontrada em diversas culturas como símbolo de proteção.",
+      "Costuma ser leal a grandes reis e deuses.",
+      "Tem tanto o orgulho de um felino quanto a graça de uma ave.",
+      "É venerado em mitos como uma criatura nobre e de honra.",
+      "É dito que ele pode voar por grandes distâncias para proteger seu lar.",
+      "Sua lealdade é tão feroz quanto seu poder físico.",
+      "Costuma ser representado em esculturas em templos antigos.",
+      "Alguns mitos dizem que ele protege o sagrado contra invasores.",
+      "A combinação de seus traços representa majestade e força.",
+      "Sua presença indica proteção contra forças malignas.",
+    ],
+  },
+  {
+    answer: "Pegasus",
+    suport: ["Personagem", "Mitologia Grega"],
+    tips: [
+      "Nascido de uma figura mitológica e um deus.",
+      "Possui uma velocidade que desafia os ventos.",
+      "Seu corpo equino é complementado com uma peculiaridade alada.",
+      "Frequentemente está ao lado de heróis em batalhas ou aventuras.",
+      "Sua presença é um símbolo de pureza e liberdade.",
+      "Dizem que seu toque no solo faz brotar fontes de água pura.",
+      "É reverenciado tanto por guerreiros quanto por artistas.",
+      "Tem uma relação próxima com o panteão divino e lendas heróicas.",
+      "Sua figura alada representa a elevação além das limitações humanas.",
+      "Aparece em lendas como companheiro fiel e leal.",
+      "Seu pelo é descrito como cintilante, em tons claros.",
+      "Um herói o montou para enfrentar uma fera lendária.",
+      "Sua força e velocidade são superiores aos de qualquer outro animal.",
+      "Ele é mencionado em poemas e canções como um ser mágico.",
+      "Sua imagem inspira voos, coragem e uma liberdade incomparável.",
+    ],
+  },
+  {
+    answer: "Centauro",
+    suport: ["Personagem", "Mitologia Grega"],
+    tips: [
+      "Ele é uma fusão entre a natureza selvagem e a inteligência humana.",
+      "É conhecido por sua força, mas também por sua sabedoria.",
+      "Vive em meio a campos e florestas, mas também conhece a cultura dos homens.",
+      "Sua aparência é híbrida, misturando duas essências distintas.",
+      "Costuma aparecer como guia em jornadas desafiadoras.",
+      "Em batalhas, ele carrega tanto armas rústicas quanto filosóficas.",
+      "Nas lendas, aparece em ambos os lados: como herói e adversário.",
+      "É mestre tanto na força física quanto na arte da filosofia.",
+      "Muitos o veem como protetor das matas e do conhecimento antigo.",
+      "Seu corpo simboliza a união entre a terra e a liberdade dos céus.",
+      "Ele é tanto bestial quanto nobre, entrelaçando dualidades.",
+      "Nas estrelas, foi imortalizado como uma constelação.",
+      "Alguns dizem que pode ver o futuro e orientar os guerreiros.",
+      "Em sua cultura, o vinho e a dança são tão importantes quanto a guerra.",
+      "Seus conflitos com heróis revelam tanto respeito quanto rivalidade.",
+    ],
+  },
+  {
+    answer: "Cérbero",
+    suport: ["Personagem", "Mitologia Grega"],
+    tips: [
+      "Ele é o defensor de um reino sombrio e intransponível.",
+      "Sua presença intimida até os mais bravos guerreiros.",
+      "Nas lendas, ele representa vigilância e proteção absoluta.",
+      "Seu olhar é triplo, garantindo que nenhum ângulo seja deixado desprotegido.",
+      "Ele habita um território onde as sombras são eternas.",
+      "Seu papel é impedir que alguém entre ou saia de seu domínio.",
+      "A fidelidade é sua maior qualidade, sendo leal a um senhor poderoso.",
+      "Suas presas e garras são ameaçadoras, mas ele nunca ataca sem razão.",
+      "É ao mesmo tempo temido e respeitado, pela força e pela lealdade.",
+      "Diz-se que, para enfrentá-lo, é necessário mais do que força bruta.",
+      "Nas artes, é retratado com uma figura imponente e multiplicada.",
+      "Seu território é cercado por um rio que marca a passagem final.",
+      "Os sons que ele emite fazem eco nas cavernas e escuridões.",
+      "Ele é símbolo de proteção dos mortos e da fronteira com o mundo sombrio.",
+      "Sua figura traz mistério e, ao mesmo tempo, a ideia de justiça final.",
+    ],
+  },
+  {
+    answer: "Quimera",
+    suport: ["Personagem", "Mitologia Grega"],
+    tips: [
+      "Sua natureza é um misto de espécies e forças míticas.",
+      "Ela representa o caos e a junção de diferentes seres em um só.",
+      "É temida pela ferocidade e pela diversidade de suas habilidades.",
+      "Sua aparência é uma combinação improvável, mas mortalmente eficaz.",
+      "Surgiu como um desafio para heróis e deuses, trazendo instabilidade.",
+      "Suas cabeças e membros são uma mistura improvável de fauna.",
+      "Representa o descontrole da natureza, com poder em cada parte de seu corpo.",
+      "Pode atacar de várias formas, usando suas partes distintas.",
+      "É frequentemente associada a incêndios e a um poder indomável.",
+      "Dizem que ela guarda segredos dos tempos primordiais e selvagens.",
+      "Sua história está ligada a um herói que lutou com coragem e estratégia.",
+      "Para vencer uma de suas partes, era necessário enfrentar todas.",
+      "É um símbolo de perigo que transcende fronteiras e lógica.",
+      "Sua criação é atribuída a deuses com o intuito de testar os mortais.",
+      "O simples avistamento dela desperta medo e admiração pela sua complexidade.",
+    ],
+  },
+  {
+    answer: "Hidra",
+    suport: ["Personagem", "Mitologia Grega"],
+    tips: [
+      "É uma criatura difícil de derrotar, pois cada corte lhe traz mais força.",
+      "Suas cabeças se multiplicam em batalha, tornando-a ainda mais ameaçadora.",
+      "Ela vive próxima a pântanos e águas misteriosas, onde reina o silêncio.",
+      "Sua regeneração é um de seus maiores poderes, desafiando qualquer ataque.",
+      "Cada vez que a tentam vencer, ela volta mais poderosa.",
+      "Diz-se que seu hálito é tão venenoso quanto sua mordida.",
+      "É uma criatura cujas cabeças representam um perigo que se renova.",
+      "Acompanharam-na em sua jornada um herói e um aliado próximo.",
+      "Suas escamas e pele são duras como pedra, difíceis de perfurar.",
+      "Vive em um pântano escuro, um local repleto de mistério e perigo.",
+      "É um símbolo de obstáculos que não podem ser vencidos com força simples.",
+      "Sua natureza faz com que ela seja um desafio crescente, uma ameaça viva.",
+      "Foi derrotada com um método engenhoso, que evitou seu renascimento.",
+      "É símbolo de persistência e de algo que nunca cessa de retornar.",
+      "Sua presença e poder são tanto físicos quanto enigmáticos, desafiando lógica.",
+    ],
+  },
+  {
     answer: "Extraterrestre",
-    suport: ['Personagem', 'Literatura'],
+    suport: ["Personagem", "Literatura"],
     tips: [
       "Sua origem é de além do nosso planeta.",
       "Envolve teorias de visitas e abduções.",
@@ -5278,7 +5956,7 @@ const dataMovie = [
   },
   {
     answer: "Zumbi",
-    suport: ['Personagem', 'Literatura'],
+    suport: ["Personagem", "Literatura"],
     tips: [
       "Retorna à vida de uma maneira antinatural.",
       "Muitas vezes está em busca de algo vital dos vivos.",
@@ -5299,7 +5977,7 @@ const dataMovie = [
   },
   {
     answer: "Múmia",
-    suport: ['Personagem', 'Literatura'],
+    suport: ["Personagem", "Literatura"],
     tips: [
       "Envolta em tiras de tecido antigo.",
       "Seu repouso é frequentemente perturbado por exploradores.",
@@ -5320,7 +5998,7 @@ const dataMovie = [
   },
   {
     answer: "Pé Grande",
-    suport: ['Personagem', 'Literatura'],
+    suport: ["Personagem", "Literatura"],
     tips: [
       "Habita florestas densas e regiões montanhosas.",
       "É uma figura de lendas e avistamentos controversos.",
@@ -5341,7 +6019,7 @@ const dataMovie = [
   },
   {
     answer: "Monstro do Lago Ness",
-    suport: ['Personagem', 'Literatura'],
+    suport: ["Personagem", "Literatura"],
     tips: [
       "Vive em uma grande massa de água doce.",
       "Suas aparições são objeto de debate e especulação.",
@@ -5362,7 +6040,7 @@ const dataMovie = [
   },
   {
     answer: "Bicho Papão",
-    suport: ['Personagem', 'Literatura'],
+    suport: ["Personagem", "Literatura"],
     tips: [
       "Habita os recantos escuros e escondidos.",
       "É uma figura usada para assustar e disciplinar crianças.",
@@ -5383,7 +6061,7 @@ const dataMovie = [
   },
   {
     answer: "Gasparzinho",
-    suport: ['Personagem', 'O Fantasminha Camarada'],
+    suport: ["Personagem", "O Fantasminha Camarada"],
     tips: [
       "É conhecido por sua natureza amigável e brincalhona.",
       "Difere de seus semelhantes por sua bondade.",
@@ -5404,7 +6082,7 @@ const dataMovie = [
   },
   {
     answer: "Mãozinha",
-    suport: ['Personagem', 'A Família Addams'],
+    suport: ["Personagem", "A Família Addams"],
     tips: [
       "Sempre está presente, mas não faz parte do corpo principal.",
       "Suas ações são independentes, mas cruciais.",
@@ -5425,7 +6103,7 @@ const dataMovie = [
   },
   {
     answer: "Babá McPhee",
-    suport: ['Personagem', 'Nanny McPhee, A Babá Encantada'],
+    suport: ["Personagem", "Nanny McPhee, A Babá Encantada"],
     tips: [
       "Aparece quando mais é necessária.",
       "Sua aparência é, no início, assustadora.",
@@ -5446,7 +6124,7 @@ const dataMovie = [
   },
   {
     answer: "Minerva McGonagall",
-    suport: ['Personagem', 'Harry Potter'],
+    suport: ["Personagem", "Harry Potter"],
     tips: [
       "Pode transformar-se em um animal.",
       "É conhecida por sua rigidez e justiça.",
@@ -5467,7 +6145,7 @@ const dataMovie = [
   },
   {
     answer: "Equipe Rocket",
-    suport: ['Personagem', 'Pokémon'],
+    suport: ["Personagem", "Pokémon"],
     tips: [
       "São conhecidos por seus planos mirabolantes.",
       "Costumam falhar em suas missões.",
@@ -5508,7 +6186,7 @@ const dataMovie = [
   },
   {
     answer: "Mary Poppins",
-    suport: ['Personagem', 'Mary Poppins'],
+    suport: ["Personagem", "Mary Poppins"],
     tips: [
       "Chega com o vento do leste.",
       "Tem uma bolsa aparentemente sem fundo.",
@@ -5529,7 +6207,7 @@ const dataMovie = [
   },
   {
     answer: "Bruxa",
-    suport: ['Personagem', 'Literatura'],
+    suport: ["Personagem", "Literatura"],
     tips: [
       "Usa feitiços e poções em suas práticas.",
       "Vive em casas isoladas ou florestas escuras.",
@@ -5550,7 +6228,7 @@ const dataMovie = [
   },
   {
     answer: "Unicórnio",
-    suport: ['Personagem', 'Literatura'],
+    suport: ["Personagem", "Literatura"],
     tips: [
       "Sua aparência é associada à pureza e magia.",
       "É frequentemente encontrado em florestas encantadas.",
@@ -5571,7 +6249,7 @@ const dataMovie = [
   },
   {
     answer: "Fada",
-    suport: ['Personagem', 'Literatura'],
+    suport: ["Personagem", "Literatura"],
     tips: [
       "Vive em jardins encantados e bosques mágicos.",
       "Tem asas que brilham à luz da lua.",
@@ -5592,7 +6270,7 @@ const dataMovie = [
   },
   {
     answer: "Duende",
-    suport: ['Personagem', 'Literatura'],
+    suport: ["Personagem", "Literatura"],
     tips: [
       "Vive em locais escondidos, longe dos olhos curiosos.",
       "É conhecido por sua astúcia e habilidades manuais.",
@@ -5613,7 +6291,7 @@ const dataMovie = [
   },
   {
     answer: "Kraken",
-    suport: ['Personagem', 'Literatura'],
+    suport: ["Personagem", "Literatura"],
     tips: [
       "Habita as profundezas mais escuras do oceano.",
       "Sua presença é temida por marinheiros de todas as eras.",
@@ -5634,7 +6312,7 @@ const dataMovie = [
   },
   {
     answer: "Sereia",
-    suport: ['Personagem', 'Literatura'],
+    suport: ["Personagem", "Literatura"],
     tips: [
       "Habita entre os corais e as profundezas do mar.",
       "Tem uma beleza que encanta todos que a veem.",
@@ -5655,7 +6333,7 @@ const dataMovie = [
   },
   {
     answer: "Dragão",
-    suport: ['Personagem', 'Literatura'],
+    suport: ["Personagem", "Literatura"],
     tips: [
       "Vive em montanhas ou cavernas, guardando tesouros.",
       "Pode cuspir fogo ou gelo, dependendo da lenda.",
@@ -5676,7 +6354,7 @@ const dataMovie = [
   },
   {
     answer: "Fantasma",
-    suport: ['Personagem', 'Literatura'],
+    suport: ["Personagem", "Literatura"],
     tips: [
       "Habita lugares antigos e abandonados.",
       "Sua presença é sentida mais do que vista.",
@@ -5697,7 +6375,7 @@ const dataMovie = [
   },
   {
     answer: "Elfo",
-    suport: ['Personagem', 'Literatura'],
+    suport: ["Personagem", "Literatura"],
     tips: [
       "Vive em florestas e lugares encantados.",
       "Tem uma aparência graciosa e orelhas pontudas.",
@@ -5718,7 +6396,7 @@ const dataMovie = [
   },
   {
     answer: "Gigante",
-    suport: ['Personagem', 'Literatura'],
+    suport: ["Personagem", "Literatura"],
     tips: [
       "Vive em montanhas ou terras distantes.",
       "Tem um tamanho que intimida e impõe respeito.",
@@ -5739,7 +6417,7 @@ const dataMovie = [
   },
   {
     answer: "Grinch",
-    suport: ['Personagem', 'O Grinch'],
+    suport: ["Personagem", "O Grinch"],
     tips: [
       "Vive isolado de uma comunidade alegre.",
       "Tem um coração que inicialmente é pequeno e frio.",
@@ -5760,7 +6438,7 @@ const dataMovie = [
   },
   {
     answer: "Fada do Dente",
-    suport: ['Personagem', 'Literatura'],
+    suport: ["Personagem", "Literatura"],
     tips: [
       "Visita durante a noite quando a casa está quieta.",
       "É esperada após um pequeno evento doloroso.",
@@ -5781,7 +6459,7 @@ const dataMovie = [
   },
   {
     answer: "Bloody Mary",
-    suport: ['Personagem', 'Literatura'],
+    suport: ["Personagem", "Literatura"],
     tips: [
       "Invocada através de um ritual espelhado.",
       "Sua lenda é contada em festas de pijama e encontros.",
@@ -5802,7 +6480,7 @@ const dataMovie = [
   },
   {
     answer: "Pirata",
-    suport: ['Personagem', 'Literatura'],
+    suport: ["Personagem", "Literatura"],
     tips: [
       "Navega pelos mares em busca de tesouros.",
       "Vive uma vida de aventura e liberdade.",
@@ -5823,7 +6501,7 @@ const dataMovie = [
   },
   {
     answer: "O Abominável Homem das Neves",
-    suport: ['Personagem', 'Literatura'],
+    suport: ["Personagem", "Literatura"],
     tips: [
       "Habita regiões geladas e montanhosas.",
       "Sua existência é debatida entre mito e realidade.",
@@ -5844,7 +6522,7 @@ const dataMovie = [
   },
   {
     answer: "Chupa-Cabra",
-    suport: ['Personagem', 'Literatura'],
+    suport: ["Personagem", "Literatura"],
     tips: [
       "É conhecido por seus ataques noturnos a animais.",
       "Sua existência é cercada de relatos e mistérios.",
@@ -5865,7 +6543,7 @@ const dataMovie = [
   },
   {
     answer: "Fofão",
-    suport: ['Personagem', 'Balão Mágico'],
+    suport: ["Personagem", "Balão Mágico"],
     tips: [
       "É um personagem que mistura humor e peculiaridade.",
       "Sua aparência é icônica e facilmente reconhecível.",
@@ -5886,7 +6564,7 @@ const dataMovie = [
   },
   {
     answer: "Peter Pan",
-    suport: ['Personagem', 'Peter Pan'],
+    suport: ["Personagem", "Peter Pan"],
     tips: [
       "Vive em um lugar onde o tempo parece não passar.",
       "É conhecido por sua habilidade de voar.",
@@ -5907,7 +6585,7 @@ const dataMovie = [
   },
   {
     answer: "Adão e Eva",
-    suport: ['Personagem', 'Literatura'],
+    suport: ["Personagem", "Literatura"],
     tips: [
       "São figuras centrais em uma antiga história de criação.",
       "Viviam em um jardim que era um verdadeiro paraíso.",
@@ -5928,7 +6606,7 @@ const dataMovie = [
   },
   {
     answer: "Três Reis Magos",
-    suport: ['Personagem', 'Literatura'],
+    suport: ["Personagem", "Literatura"],
     tips: [
       "São conhecidos por sua longa jornada guiada por uma estrela.",
       "Trouxeram presentes simbólicos para uma figura importante.",
@@ -5949,7 +6627,7 @@ const dataMovie = [
   },
   {
     answer: "Lilith",
-    suport: ['Personagem', 'Literatura'],
+    suport: ["Personagem", "Literatura"],
     tips: [
       "É uma figura envolta em mistério e controvérsia.",
       "Sua história é contada em textos antigos e esotéricos.",
@@ -5970,7 +6648,7 @@ const dataMovie = [
   },
   {
     answer: "Dora",
-    suport: ['Personagem', 'Dora, a Aventureira'],
+    suport: ["Personagem", "Dora, a Aventureira"],
     tips: [
       "Personagem animada que adora explorar.",
       "Frequentemente acompanhada por um macaco falante.",
@@ -5991,7 +6669,7 @@ const dataMovie = [
   },
   {
     answer: "Necronomicon",
-    suport: ['Objeto', 'Evil Dead'],
+    suport: ["Objeto", "Evil Dead"],
     tips: [
       "Tem uma ligação profunda com o ocultismo.",
       "Frequentemente associado a rituais.",
@@ -6012,7 +6690,7 @@ const dataMovie = [
   },
   {
     answer: "A Bola de Vôlei Wilson",
-    suport: ['Objeto', 'Naúfrago'],
+    suport: ["Objeto", "Naúfrago"],
     tips: [
       "Acompanhou alguém em uma jornada solitária.",
       "Não é humano, mas teve um grande papel emocional.",
@@ -6033,7 +6711,7 @@ const dataMovie = [
   },
   {
     answer: "Sabre de Luz",
-    suport: ['Objeto', 'Star Wars'],
+    suport: ["Objeto", "Star Wars"],
     tips: [
       "É uma arma de energia pura.",
       "Tem uma lâmina que pode cortar quase tudo.",
@@ -6054,7 +6732,7 @@ const dataMovie = [
   },
   {
     answer: "Relíquias da Morte",
-    suport: ['Objeto', 'Harry Potter'],
+    suport: ["Objeto", "Harry Potter"],
     tips: [
       "São três objetos muito poderosos.",
       "Ligados a uma lenda antiga.",
@@ -6075,7 +6753,7 @@ const dataMovie = [
   },
   {
     answer: "Caderno Death Note",
-    suport: ['Objeto', 'Death Note'],
+    suport: ["Objeto", "Death Note"],
     tips: [
       "Está ligado a um caderno comum à primeira vista.",
       "Possui um poder mortal.",
@@ -6096,7 +6774,7 @@ const dataMovie = [
   },
   {
     answer: "Convite Dourado",
-    suport: ['Objeto', 'A Fantástica Fábrica de Chocolate'],
+    suport: ["Objeto", "A Fantástica Fábrica de Chocolate"],
     tips: [
       "É um passaporte para uma experiência única.",
       "Ligado a um doce específico.",
@@ -6116,7 +6794,7 @@ const dataMovie = [
   },
   {
     answer: "Manopla do Infinito",
-    suport: ['Objeto', 'Os Vingadores'],
+    suport: ["Objeto", "Os Vingadores"],
     tips: [
       "É um artefato de poder incomensurável.",
       "Pode controlar elementos do universo.",
@@ -6137,7 +6815,7 @@ const dataMovie = [
   },
   {
     answer: "O Guarda-Roupas",
-    suport: ['Objeto', 'As Crônicas de Nárnia'],
+    suport: ["Objeto", "As Crônicas de Nárnia"],
     tips: [
       "Parece um móvel comum por fora.",
       "Esconde um portal para outro mundo.",
@@ -6158,7 +6836,7 @@ const dataMovie = [
   },
   {
     answer: "O Laço da Verdade",
-    suport: ['Objeto', 'Mulher Maravilha'],
+    suport: ["Objeto", "Mulher Maravilha"],
     tips: [
       "É uma arma e ferramenta de persuasão.",
       "Usa-se para obter a verdade de alguém.",
@@ -6179,7 +6857,7 @@ const dataMovie = [
   },
   {
     answer: "Kryptonita",
-    suport: ['Objeto', 'Superman'],
+    suport: ["Objeto", "Superman"],
     tips: [
       "É uma substância mineral.",
       "Tem origem extraterrestre.",
@@ -6200,7 +6878,7 @@ const dataMovie = [
   },
   {
     answer: "Livro do Arraso",
-    suport: ['Objeto', 'Meninas Malvadas'],
+    suport: ["Objeto", "Meninas Malvadas"],
     tips: [
       "É um diário coletivo.",
       "Seu conteúdo é escrito por várias pessoas.",
@@ -7066,7 +7744,7 @@ const dataMovie = [
   },
   {
     answer: "The Marvelous Mrs. Maisel",
-    suport: ['Maravilhosa Sra. Maisel'],
+    suport: ["Maravilhosa Sra. Maisel"],
     tips: [
       "Passa-se na década de 1950 em Nova York.",
       "A protagonista descobre um talento inesperado após um divórcio.",
