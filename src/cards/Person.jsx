@@ -6,7 +6,7 @@ const dataPerson = [
   },
   {
     answer: "Michael Jackson",
-    suport: ["Cantor(a)"],
+    suport: ["Cantor", "Dançarino"],
     tips: [
       "Começou a carreira profissional aos seis anos.",
       "Patenteou sapatos que permitiam a ilusão do passo 'anti-gravidade'.",
@@ -27,7 +27,7 @@ const dataPerson = [
   },
   {
     answer: "Madonna",
-    suport: ["Cantor(a)", "Ator/Atriz"],
+    suport: ["Cantora", "Atriz"],
     tips: [
       "Trabalhou em uma lanchonete do Dunkin' Donuts antes da fama.",
       "Adotou dois filhos do Malaui.",
@@ -48,7 +48,7 @@ const dataPerson = [
   },
   {
     answer: "Elvis Presley",
-    suport: ["Cantor(a)", "Ator/Atriz"],
+    suport: ["Cantor", "Ator"],
     tips: [
       "Começou como motorista de caminhão antes da fama.",
       "Sua assinatura estilística incluía macacões brilhantes.",
@@ -69,7 +69,7 @@ const dataPerson = [
   },
   {
     answer: "Whitney Houston",
-    suport: ["Cantor(a)", "Ator/Atriz"],
+    suport: ["Cantora", "Atriz"],
     tips: [
       "Fez sua primeira performance solo aos 11 anos na igreja.",
       "Era uma das modelos negras mais requisitadas antes da carreira musical.",
@@ -90,7 +90,7 @@ const dataPerson = [
   },
   {
     answer: "Beyoncé",
-    suport: ["Cantor(a)", "Ator/Atriz"],
+    suport: ["Cantora", "Dançarina"],
     tips: [
       "Ganhou seu primeiro concurso de talentos aos sete anos.",
       "Sua mãe era estilista e desenhou muitos de seus figurinos.",
@@ -111,7 +111,7 @@ const dataPerson = [
   },
   {
     answer: "Freddie Mercury",
-    suport: ["Cantor(a)"],
+    suport: ["Cantor"],
     tips: [
       "Tinha uma coleção de selos rara e valiosa.",
       "Sua herança cultural inclui raízes indianas e persas.",
@@ -132,7 +132,7 @@ const dataPerson = [
   },
   {
     answer: "Bob Dylan",
-    suport: ["Cantor(a)", "Ator/Atriz", "Escritor(a)"],
+    suport: ["Cantor", "Ator", "Escritor"],
     tips: [
       "Ganhou um Pulitzer por suas letras inovadoras.",
       "Publicou um livro de prosa chamado 'Tarantula'.",
@@ -153,7 +153,7 @@ const dataPerson = [
   },
   {
     answer: "Aretha Franklin",
-    suport: ["Cantor(a)"],
+    suport: ["Cantora"],
     tips: [
       "Fez uma turnê com Martin Luther King Jr.",
       "Era autodidata no piano e tocava sem partitura.",
@@ -174,7 +174,7 @@ const dataPerson = [
   },
   {
     answer: "John Lennon",
-    suport: ["Cantor(a)", "Compositor(a)"],
+    suport: ["Cantor", "Compositor"],
     tips: [
       "Criou uma série de desenhos e litografias vendidas em galerias de arte.",
       "Fez uma performance 'bed-in' pela paz durante sua lua de mel.",
@@ -195,7 +195,7 @@ const dataPerson = [
   },
   {
     answer: "David Bowie",
-    suport: ["Cantor(a)", "Ator/Atriz"],
+    suport: ["Cantor", "Ator"],
     tips: [
       "Trocou de olho devido a uma briga escolar.",
       "Seu primeiro sucesso foi sobre um astronauta perdido no espaço.",
@@ -216,7 +216,7 @@ const dataPerson = [
   },
   {
     answer: "Prince",
-    suport: ["Cantor(a)", "Compositor(a)"],
+    suport: ["Cantor", "Dançarino", "Compositor"],
     tips: [
       "Aprendeu a tocar vários instrumentos sozinho ainda na infância.",
       "Escreveu sua primeira canção aos sete anos.",
@@ -237,7 +237,7 @@ const dataPerson = [
   },
   {
     answer: "Janis Joplin",
-    suport: ["Cantor(a)", "Compositor(a)"],
+    suport: ["Cantora", "Compositora"],
     tips: [
       "Pintava e desenhava desde jovem, antes de se dedicar à música.",
       "Era conhecida por sua personalidade rebelde e autêntica.",
@@ -258,7 +258,7 @@ const dataPerson = [
   },
   {
     answer: "Kurt Cobain",
-    suport: ["Cantor(a)", "Músico"],
+    suport: ["Cantor", "Músico"],
     tips: [
       "Criava arte visual e colagens que usava em capas de álbuns.",
       "Desenhava suas próprias roupas e muitas vezes as personalizava.",
@@ -279,7 +279,7 @@ const dataPerson = [
   },
   {
     answer: "Adele",
-    suport: ["Cantor(a)", "Compositor(a)"],
+    suport: ["Cantora", "Compositora"],
     tips: [
       "Cantava para os amigos em festas antes de ser descoberta.",
       "Descreveu suas performances ao vivo como terapêuticas.",
@@ -300,7 +300,7 @@ const dataPerson = [
   },
   {
     answer: "Billie Eilish",
-    suport: ["Cantor(a)"],
+    suport: ["Cantora", "Compositora"],
     tips: [
       "Foi educada em casa, o que permitiu explorar sua criatividade desde cedo.",
       "Seus pais são atores e músicos, influenciando sua carreira.",
@@ -321,7 +321,7 @@ const dataPerson = [
   },
   {
     answer: "Elton John",
-    suport: ["Cantor(a)", "Compositor(a)"],
+    suport: ["Cantor", "Compositor"],
     tips: [
       "Aprendeu a tocar piano aos quatro anos de idade.",
       "Seu nome artístico é uma combinação de dois músicos que admirava.",
@@ -342,7 +342,7 @@ const dataPerson = [
   },
   {
     answer: "Shakira",
-    suport: ["Cantor(a)", "Dançarino(a)"],
+    suport: ["Cantora", "Dançarina"],
     tips: [
       "Escreveu seu primeiro poema aos quatro anos de idade.",
       "Sua avó libanesa ensinou-lhe a dançar dança do ventre.",
@@ -363,7 +363,7 @@ const dataPerson = [
   },
   {
     answer: "Amy Winehouse",
-    suport: ["Cantor(a)", "Compositor(a)"],
+    suport: ["Cantora", "Compositora"],
     tips: [
       "Sua avó era uma cantora de jazz que a inspirou.",
       "Tinha várias tatuagens que eram significativas para ela.",
@@ -384,7 +384,7 @@ const dataPerson = [
   },
   {
     answer: "Ed Sheeran",
-    suport: ["Cantor(a)"],
+    suport: ["Cantor"],
     tips: [
       "Começou a tocar guitarra aos 11 anos.",
       "Fez shows em casas de amigos antes de ganhar fama.",
@@ -544,7 +544,7 @@ const dataPerson = [
   },
   {
     answer: "Taylor Swift",
-    suport: ["Cantor(a)", "Compositor(a)"],
+    suport: ["Cantora", "Compositora"],
     tips: [
       "Escreveu suas primeiras canções aos 12 anos.",
       "Fez uma performance de abertura para um famoso cantor country.",
@@ -565,7 +565,7 @@ const dataPerson = [
   },
   {
     answer: "Lady Gaga",
-    suport: ["Cantor(a)", "Ator/Atriz", "Compositor(a)"],
+    suport: ["Cantora", "Atriz", "Compositora"],
     tips: [
       "Sua avó materna era de ascendência franco-canadense.",
       "Frequentou uma escola católica só para meninas em Nova York.",
@@ -586,7 +586,7 @@ const dataPerson = [
   },
   {
     answer: "Justin Timberlake",
-    suport: ["Cantor(a)"],
+    suport: ["Cantor"],
     tips: [
       "Foi membro de um clube famoso de talentos infantis na TV.",
       "Tornou-se famoso como parte de uma boy band dos anos 90.",
@@ -607,7 +607,7 @@ const dataPerson = [
   },
   {
     answer: "Alicia Keys",
-    suport: ["Cantor(a)", "Compositor(a)"],
+    suport: ["Cantora", "Compositora"],
     tips: [
       "Começou a tocar piano aos sete anos de idade.",
       "Frequentou uma prestigiada escola de artes em Nova York.",
@@ -628,7 +628,7 @@ const dataPerson = [
   },
   {
     answer: "Bruno Mars",
-    suport: ["Cantor(a)", "Compositor(a)"],
+    suport: ["Cantor", "Compositor"],
     tips: [
       "Começou a se apresentar como imitador de Elvis Presley aos quatro anos.",
       "Seu pai era um percussionista e sua mãe uma dançarina de hula.",
@@ -649,7 +649,7 @@ const dataPerson = [
   },
   {
     answer: "Dua Lipa",
-    suport: ["Cantor(a)"],
+    suport: ["Cantora"],
     tips: [
       "Seus pais são de origem kosovar-albanesa.",
       "Mudou-se para Londres aos 15 anos para seguir carreira musical.",
@@ -670,7 +670,7 @@ const dataPerson = [
   },
   {
     answer: "Sam Smith",
-    suport: ["Cantor(a)"],
+    suport: ["Cantor"],
     tips: [
       "Ganhou reconhecimento ao colaborar com o duo de música eletrônica Disclosure.",
       "Frequentou uma escola de teatro e música em Londres.",
@@ -691,7 +691,7 @@ const dataPerson = [
   },
   {
     answer: "Rihanna",
-    suport: ["Cantor(a)", "Empresário(a)"],
+    suport: ["Cantora", "Empresária"],
     tips: [
       "Começou sua carreira musical após ser descoberta por um famoso produtor em Barbados.",
       "Lançou seu primeiro álbum aos 17 anos.",
@@ -712,7 +712,7 @@ const dataPerson = [
   },
   {
     answer: "Stevie Wonder",
-    suport: ["Cantor(a)", "Compositor(a)", "Músico"],
+    suport: ["Cantor", "Compositor", "Músico"],
     tips: [
       "Foi um prodígio musical, assinando contrato com a Motown aos 11 anos.",
       "Nasceu prematuro, o que resultou na perda de sua visão.",
@@ -733,7 +733,7 @@ const dataPerson = [
   },
   {
     answer: "Celine Dion",
-    suport: ["Cantor(a)", "Ator/Atriz"],
+    suport: ["Cantora", "Atriz"],
     tips: [
       "Começou a cantar aos cinco anos em uma grande família musical.",
       "Venceu o concurso de música 'Yamaha World Popular Song Festival' no Japão.",
@@ -754,7 +754,7 @@ const dataPerson = [
   },
   {
     answer: "Ariana Grande",
-    suport: ["Cantor(a)", "Ator/Atriz"],
+    suport: ["Cantora", "Atriz"],
     tips: [
       "Nasceu em Boca Raton, Flórida.",
       "Começou sua carreira na Broadway antes de se tornar atriz em uma série de TV infatojuvenil.",
@@ -775,7 +775,7 @@ const dataPerson = [
   },
   {
     answer: "Mariah Carey",
-    suport: ["Cantor(a)", "Compositor(a)"],
+    suport: ["Cantora", "Compositora"],
     tips: [
       "Cresceu em Long Island, Nova York.",
       "É conhecida por seu impressionante alcance vocal de cinco oitavas.",
@@ -796,7 +796,7 @@ const dataPerson = [
   },
   {
     answer: "Katy Perry",
-    suport: ["Cantor(a)"],
+    suport: ["Cantora"],
     tips: [
       "Cresceu em uma família cristã em Santa Barbara, Califórnia.",
       "Iniciou sua carreira musical cantando música gospel.",
@@ -817,7 +817,7 @@ const dataPerson = [
   },
   {
     answer: "Eminem",
-    suport: ["Cantor(a)", "Compositor(a)"],
+    suport: ["Cantor", "Compositor"],
     tips: [
       "Cresceu em Detroit, Michigan, em um ambiente difícil.",
       "É conhecido por seu estilo lírico complexo e rimas rápidas.",
@@ -838,7 +838,7 @@ const dataPerson = [
   },
   {
     answer: "Dolly Parton",
-    suport: ["Cantor(a)"],
+    suport: ["Cantora"],
     tips: [
       "Cresceu em uma família pobre nas montanhas da Appalachia.",
       "É uma das cantoras country mais bem-sucedidas de todos os tempos.",
@@ -859,7 +859,7 @@ const dataPerson = [
   },
   {
     answer: "Stevie Nicks",
-    suport: ["Cantor(a)", "Compositor(a)"],
+    suport: ["Cantora", "Compositora"],
     tips: [
       "Começou sua carreira musical como parte do duo Buckingham Nicks.",
       "Tem um estilo único e inconfundível, tanto musicalmente quanto visualmente.",
@@ -880,7 +880,7 @@ const dataPerson = [
   },
   {
     answer: "Aretha Franklin",
-    suport: ["Cantor(a)", "Compositor(a)"],
+    suport: ["Cantora", "Compositora"],
     tips: [
       "Cresceu em Detroit, Michigan, onde começou a cantar no coro da igreja de seu pai.",
       "É amplamente reconhecida como uma das maiores cantoras de todos os tempos.",
@@ -906,7 +906,7 @@ const dataPerson = [
   },
   {
     answer: "Britney Spears",
-    suport: ["Cantor(a)", "Dançarino(a)"],
+    suport: ["Cantora", "Dançarina"],
     tips: [
       "Nasceu em McComb, Mississippi, mas foi criada em Kentwood, Louisiana.",
       "Iniciou sua carreira artística cedo, participando do programa 'The Mickey Mouse Club'.",
@@ -1179,7 +1179,7 @@ const dataPerson = [
   },
   {
     answer: "Cristiano Ronaldo",
-    suport: ["Jogador(a) de futebol"],
+    suport: ["Jogador de Futebol"],
     tips: [
       "Iniciou sua carreira no Sporting Clube de Portugal.",
       "É conhecido por sua generosidade, frequentemente fazendo doações para instituições de caridade.",
@@ -1200,7 +1200,7 @@ const dataPerson = [
   },
   {
     answer: "Serena Williams",
-    suport: ["Jogador(a) de tênis"],
+    suport: ["Jogadora de Tênis"],
     tips: [
       "É uma das poucas tenistas a completar o Grand Slam na Era Aberta.",
       "Fundou uma escola primária no Quênia para fornecer educação de qualidade para crianças carentes.",
@@ -1242,7 +1242,7 @@ const dataPerson = [
   },
   {
     answer: "Michael Phelps",
-    suport: ["Nadador(a)"],
+    suport: ["Nadador"],
     tips: [
       "Ganhou um total de 28 medalhas olímpicas, tornando-se o atleta mais condecorado da história olímpica.",
       "Tem uma envergadura excepcionalmente longa devido a uma condição física rara chamada 'síndrome de Marfan'.",
@@ -1284,7 +1284,7 @@ const dataPerson = [
   },
   {
     answer: "Lionel Messi",
-    suport: ["Jogador(a) de Futebol"],
+    suport: ["Jogador de Futebol"],
     tips: [
       "Começou a jogar futebol em um clube de sua cidade natal na Argentina.",
       "Diagnosticado com um problema de crescimento quando criança.",
@@ -1305,7 +1305,7 @@ const dataPerson = [
   },
   {
     answer: "Neymar Jr.",
-    suport: ["Jogador(a) de Futebol"],
+    suport: ["Jogador de Futebol"],
     tips: [
       "Começou sua carreira profissional em um clube da cidade de Santos.",
       "Foi o último jogador brasileiro a ser nomeado o melhor jogador sul-americano do ano.",
@@ -1326,7 +1326,7 @@ const dataPerson = [
   },
   {
     answer: "Kylian Mbappé",
-    suport: ["Jogador(a) de Futebol"],
+    suport: ["Jogador de Futebol"],
     tips: [
       "Nasceu em Paris, França.",
       "Começou sua carreira profissional em um clube da cidade de Mônaco.",
@@ -1347,7 +1347,7 @@ const dataPerson = [
   },
   {
     answer: "Pelé",
-    suport: ["Jogador(a) de Futebol"],
+    suport: ["Jogador de Futebol"],
     tips: [
       "Nasceu em Três Corações, Minas Gerais, Brasil.",
       "Começou sua carreira profissional em um clube da cidade de Santos.",
@@ -1368,7 +1368,7 @@ const dataPerson = [
   },
   {
     answer: "LeBron James",
-    suport: ["Jogador(a) de Basquete"],
+    suport: ["Jogador de Basquete"],
     tips: [
       "Nasceu em Akron, Ohio, Estados Unidos.",
       "Foi o primeiro jogador escolhido no Draft da NBA em 2003.",
@@ -1389,7 +1389,7 @@ const dataPerson = [
   },
   {
     answer: "Diego Maradona",
-    suport: ["Jogador(a) de Futebol"],
+    suport: ["Jogador de Futebol"],
     tips: [
       "Nasceu em Buenos Aires, Argentina.",
       "Começou sua carreira profissional em um clube da cidade de Buenos Aires.",
@@ -1410,7 +1410,7 @@ const dataPerson = [
   },
   {
     answer: "Ronaldinho Gaúcho",
-    suport: ["Jogador(a) de Futebol"],
+    suport: ["Jogador de Futebol"],
     tips: [
       "Nasceu em Porto Alegre, Rio Grande do Sul, Brasil.",
       "Começou sua carreira profissional em um clube da cidade de Porto Alegre.",
@@ -1431,7 +1431,7 @@ const dataPerson = [
   },
   {
     answer: "Conor McGregor",
-    suport: ["Lutador(a) de MMA"],
+    suport: ["Lutador de MMA"],
     tips: [
       "Nasceu em Dublin, Irlanda.",
       "Começou sua carreira profissional em um evento de MMA na Irlanda.",
@@ -1452,7 +1452,7 @@ const dataPerson = [
   },
   {
     answer: "Rafael Nadal",
-    suport: ["Jogador(a) de Tênis"],
+    suport: ["Jogador de Tênis"],
     tips: [
       "Nasceu em Manacor, Ilhas Baleares, Espanha.",
       "Começou sua carreira profissional em um torneio de tênis na Espanha.",
@@ -1473,7 +1473,7 @@ const dataPerson = [
   },
   {
     answer: "Lewis Hamilton",
-    suport: ["Piloto(a)"],
+    suport: ["Piloto"],
     tips: [
       "Nasceu em Stevenage, Hertfordshire, Inglaterra.",
       "Começou sua carreira profissional em um evento de Fórmula Renault no Reino Unido.",
@@ -1494,7 +1494,7 @@ const dataPerson = [
   },
   {
     answer: "Ayrton Senna",
-    suport: ["Piloto(a)"],
+    suport: ["Piloto"],
     tips: [
       "Nasceu em São Paulo, Brasil.",
       "Começou sua carreira profissional em um evento de Fórmula Ford no Reino Unido.",
@@ -1515,7 +1515,7 @@ const dataPerson = [
   },
   {
     answer: "Will Smith",
-    suport: ["Ator/Atriz"],
+    suport: ["Ator"],
     tips: [
       "Começou a carreira como rapper antes de se tornar ator.",
       "Seu primeiro grande papel foi em uma série de TV dos anos 90.",
@@ -1541,7 +1541,7 @@ const dataPerson = [
   },
   {
     answer: "Johnny Depp",
-    suport: ["Ator/Atriz"],
+    suport: ["Ator"],
     tips: [
       "É conhecido por seus papéis excêntricos e transformadores.",
       "Frequentemente colabora com um diretor famoso por seus filmes góticos.",
@@ -1562,7 +1562,7 @@ const dataPerson = [
   },
   {
     answer: "Tom Cruise",
-    suport: ["Ator/Atriz"],
+    suport: ["Ator"],
     tips: [
       "É conhecido por fazer suas próprias cenas de ação.",
       "Seu papel de estreia foi em um filme de amor adolescente dos anos 80.",
@@ -1703,7 +1703,7 @@ const dataPerson = [
   },
   {
     answer: "Leonardo DiCaprio",
-    suport: ["Ator/Atriz"],
+    suport: ["Ator"],
     tips: [
       "Ganhou seu primeiro Oscar depois de várias indicações.",
       "Começou a carreira em comerciais de TV.",
@@ -1724,7 +1724,7 @@ const dataPerson = [
   },
   {
     answer: "Jackie Chan",
-    suport: ["Ator/Atriz"],
+    suport: ["Ator"],
     tips: [
       "É conhecido por fazer suas próprias cenas de ação e acrobacias.",
       "Começou a carreira em filmes de Hong Kong antes de se tornar famoso em Hollywood.",
@@ -1750,7 +1750,7 @@ const dataPerson = [
   },
   {
     answer: "Brad Pitt",
-    suport: ["Ator/Atriz"],
+    suport: ["Ator"],
     tips: [
       "Ganhou um Oscar de Melhor Ator Coadjuvante por um filme de Tarantino.",
       "Foi casado com uma atriz vencedora do Oscar que interpretou Lara Croft.",
@@ -1771,7 +1771,7 @@ const dataPerson = [
   },
   {
     answer: "Morgan Freeman",
-    suport: ["Ator/Atriz"],
+    suport: ["Ator"],
     tips: [
       "Ganhou um Oscar de Melhor Ator Coadjuvante por um filme de Clint Eastwood.",
       "Interpretou Deus em uma comédia de 2003.",
@@ -1792,7 +1792,7 @@ const dataPerson = [
   },
   {
     answer: "Tom Hanks",
-    suport: ["Ator/Atriz"],
+    suport: ["Ator"],
     tips: [
       "Ganhou dois Oscars de Melhor Ator consecutivos.",
       "Interpretou um capitão de um navio sequestrado por piratas somalis.",
@@ -1813,7 +1813,7 @@ const dataPerson = [
   },
   {
     answer: "Charlie Chaplin",
-    suport: ["Ator/Atriz"],
+    suport: ["Ator"],
     tips: [
       "Foi um dos fundadores da United Artists.",
       "Seu personagem mais famoso usava um bigode pequeno e um chapéu-coco.",
@@ -1834,7 +1834,7 @@ const dataPerson = [
   },
   {
     answer: "Bruce Lee",
-    suport: ["Ator/Atriz", "Lutador(a) de Artes Marciais"],
+    suport: ["Ator", "Lutador de Artes Marciais"],
     tips: [
       "É considerado o maior ícone das artes marciais do cinema.",
       "Nasceu em São Francisco.",
@@ -1855,7 +1855,7 @@ const dataPerson = [
   },
   {
     answer: "Nicolas Cage",
-    suport: ["Ator/Atriz"],
+    suport: ["Ator"],
     tips: [
       "Ganhou um Oscar de Melhor Ator por um filme sobre alcoolismo.",
       "É sobrinho de um famoso diretor de cinema.",
@@ -1876,7 +1876,7 @@ const dataPerson = [
   },
   {
     answer: "Angelina Jolie",
-    suport: ["Ator/Atriz"],
+    suport: ["Atriz"],
     tips: [
       "Ganhou um Oscar de Melhor Atriz Coadjuvante.",
       "É Embaixadora da Boa Vontade do ACNUR.",
@@ -1897,7 +1897,7 @@ const dataPerson = [
   },
   {
     answer: "Nicole Kidman",
-    suport: ["Ator/Atriz"],
+    suport: ["Atriz"],
     tips: [
       "Nasceu no Havaí, mas cresceu na Austrália.",
       "Ganhou um Oscar de Melhor Atriz.",
@@ -2278,7 +2278,7 @@ const dataPerson = [
   },
   {
     answer: "Anne Hathaway",
-    suport: ["Ator/Atriz"],
+    suport: ["Atriz"],
     tips: [
       "Ganhou um Oscar de Melhor Atriz Coadjuvante.",
       "Seu primeiro papel importante foi em um filme da Disney.",
@@ -2299,7 +2299,7 @@ const dataPerson = [
   },
   {
     answer: "Margot Robbie",
-    suport: ["Ator/Atriz"],
+    suport: ["Atriz"],
     tips: [
       "Nasceu na Austrália.",
       "Interpretou a personagem popular dos quadrinhos.",
@@ -2320,7 +2320,7 @@ const dataPerson = [
   },
   {
     answer: "Sandra Bullock",
-    suport: ["Ator/Atriz"],
+    suport: ["Atriz"],
     tips: [
       "Ganhou um Oscar de Melhor Atriz.",
       "É produtora de cinema.",
@@ -2341,7 +2341,7 @@ const dataPerson = [
   },
   {
     answer: "Marilyn Monroe",
-    suport: ["Ator/Atriz", "Cantor(a)", "Modelo"],
+    suport: ["Atriz", "Cantora", "Modelo"],
     tips: [
       "Seu nome verdadeiro era Norma Jeane.",
       "Foi descoberta enquanto trabalhava em uma fábrica durante a Segunda Guerra Mundial.",
@@ -2362,7 +2362,7 @@ const dataPerson = [
   },
   {
     answer: "Emma Stone",
-    suport: ["Ator/Atriz"],
+    suport: ["Atriz"],
     tips: [
       "Ganhou um Oscar de Melhor Atriz.",
       "Nasceu em Scottsdale, Arizona.",
@@ -2383,7 +2383,7 @@ const dataPerson = [
   },
   {
     answer: "Meryl Streep",
-    suport: ["Ator/Atriz"],
+    suport: ["Atriz"],
     tips: [
       "Foi indicada ao Oscar mais vezes do que qualquer outro ator ou atriz.",
       "Estudou na Escola de Drama de Yale.",
@@ -2404,7 +2404,7 @@ const dataPerson = [
   },
   {
     answer: "Natalie Portman",
-    suport: ["Ator/Atriz"],
+    suport: ["Atriz"],
     tips: [
       "Nasceu em Jerusalém.",
       "Ganhou um Oscar de Melhor Atriz.",
@@ -2425,7 +2425,7 @@ const dataPerson = [
   },
   {
     answer: "Viola Davis",
-    suport: ["Ator/Atriz"],
+    suport: ["Atriz"],
     tips: [
       "É a primeira atriz negra a ganhar a “Tríplice Coroa” da atuação.",
       "Ganhou um Oscar de Melhor Atriz Coadjuvante.",
@@ -2446,7 +2446,7 @@ const dataPerson = [
   },
   {
     answer: "Carmen Miranda",
-    suport: ["Cantor(a)", "Ator/Atriz"],
+    suport: ["Cantora", "Atriz"],
     tips: [
       "Nasceu em Portugal, mas cresceu no Brasil.",
       "Foi a primeira artista latina a deixar suas impressões na Calçada da Fama.",
@@ -2467,7 +2467,7 @@ const dataPerson = [
   },
   {
     answer: "Audrey Hepburn",
-    suport: ["Ator/Atriz"],
+    suport: ["Atriz"],
     tips: [
       "Ganhou um Oscar de Melhor Atriz.",
       "Nasceu em Bruxelas, Bélgica.",
@@ -2548,7 +2548,7 @@ const dataPerson = [
   },
   {
     answer: "Elizabeth Taylor",
-    suport: ["Ator/Atriz"],
+    suport: ["Atriz"],
     tips: [
       "Nasceu em Londres, mas tinha cidadania britânica e americana.",
       "Começou a carreira como atriz infantil nos anos 1940.",
@@ -2569,7 +2569,7 @@ const dataPerson = [
   },
   {
     answer: "Julie Andrews",
-    suport: ["Ator/Atriz", "Cantor(a)"],
+    suport: ["Atriz", "Cantora"],
     tips: [
       "Nasceu na Inglaterra e começou a carreira no teatro musical britânico.",
       "Ficou famosa por seus papéis em 'Mary Poppins' e 'A Noviça Rebelde'.",
@@ -2590,7 +2590,7 @@ const dataPerson = [
   },
   {
     answer: "Judy Garland",
-    suport: ["Ator/Atriz", "Cantor(a)"],
+    suport: ["Atriz", "Cantora"],
     tips: [
       "Nasceu em Minnesota, EUA, e começou a carreira como cantora e atriz ainda criança.",
       "É mais conhecida por seu papel como Dorothy no filme 'O Mágico de Oz'.",
@@ -2611,7 +2611,7 @@ const dataPerson = [
   },
   {
     answer: "Joan Crawford",
-    suport: ["Ator/Atriz"],
+    suport: ["Atriz"],
     tips: [
       "Nasceu no Texas, EUA, e começou a carreira no cinema mudo.",
       "Ganhou um Oscar de Melhor Atriz por seu papel em 'Mildred Pierce'.",
@@ -2632,7 +2632,7 @@ const dataPerson = [
   },
   {
     answer: "Bette Davis",
-    suport: ["Ator/Atriz"],
+    suport: ["Atriz"],
     tips: [
       "Nasceu em Massachusetts, EUA, e começou a carreira no teatro da Broadway.",
       "Foi a primeira atriz a ser indicada dez vezes ao Oscar.",
@@ -2778,28 +2778,28 @@ const dataPerson = [
   },
   {
     answer: "Hattie McDaniel",
-    suport: ["Ator/Atriz"],
+    suport: ["Atriz"],
     tips: [
       "Nasceu no Kansas, EUA, e começou a carreira como cantora de blues.",
       "Foi a primeira atriz negra a ganhar um Oscar, por seu papel em 'E o Vento Levou'.",
       "Foi a primeira atriz negra a aparecer na rádio.",
-      "Foi uma das primeiras atrizes negras a aparecer na televisão.",
-      "Foi criticada por aceitar papéis estereotipados, mas defendeu sua escolha dizendo que preferia trabalhar como empregada no cinema do que ser uma na vida real.",
+      "Uma das primeiras atrizes negras a aparecer na televisão.",
+      "Criticada por aceitar papéis estereotipados, mas defendeu sua escolha dizendo que preferia trabalhar como empregada no cinema do que ser uma na vida real.",
       "Foi a primeira mulher negra a cantar na rádio nos EUA.",
       "Foi a primeira mulher negra a ter um programa de rádio próprio.",
       "Foi a primeira atriz negra a ser enterrada no Cemitério de Rosedale, em Los Angeles.",
-      "Foi uma das primeiras atrizes negras a ter um contrato de estúdio em Hollywood.",
+      "Uma das primeiras atrizes negras a ter um contrato de estúdio em Hollywood.",
       "Foi uma das fundadoras da Screen Actors Guild.",
-      "Foi uma das primeiras atrizes negras a aparecer em um filme de Hollywood.",
+      "Uma das primeiras atrizes negras a aparecer em um filme de Hollywood.",
       "Foi uma das primeiras atrizes negras a ser indicada ao Oscar.",
       "Foi uma das primeiras atrizes negras a ganhar um Oscar.",
-      "Foi uma das primeiras atrizes negras a ter uma estrela na Calçada da Fama de Hollywood.",
+      "Uma das primeiras atrizes negras a ter uma estrela na Calçada da Fama de Hollywood.",
       "Morreu de câncer de mama em 1952.",
     ],
   },
   {
     answer: "Rita Moreno",
-    suport: ["Ator/Atriz"],
+    suport: ["Atriz"],
     tips: [
       "Nasceu em Humacao, Porto Rico, e se mudou para Nova York quando criança.",
       "É uma das poucas pessoas que ganharam um Emmy, um Grammy, um Oscar e um Tony.",
@@ -2820,7 +2820,7 @@ const dataPerson = [
   },
   {
     answer: "Adam Sandler",
-    suport: ["Ator/Atriz", "Comediante"],
+    suport: ["Ator", "Comediante"],
     tips: [
       "Iniciou sua carreira como comediante de stand-up.",
       "Fez parte do elenco do 'Saturday Night Live' na década de 90.",
@@ -2841,7 +2841,7 @@ const dataPerson = [
   },
   {
     answer: "Dwayne Johnson",
-    suport: ["Ator/Atriz", "Lutador"],
+    suport: ["Ator", "Lutador"],
     tips: [
       "Ganhou fama inicialmente como lutador profissional na WWE.",
       "Seu apelido no ringue era 'The Rock'.",
@@ -2862,7 +2862,7 @@ const dataPerson = [
   },
   {
     answer: "Quentin Tarantino",
-    suport: ["Diretor(a)", "Roteirista"],
+    suport: ["Diretor", "Roteirista"],
     tips: [
       "Trabalhou em uma locadora de vídeo antes de se tornar famoso.",
       "Seu primeiro grande sucesso foi um filme sobre um assalto que deu errado.",
@@ -2883,7 +2883,7 @@ const dataPerson = [
   },
   {
     answer: "Jennifer Lopez",
-    suport: ["Ator/Atriz", "Cantor(a)", "Dançarino(a)"],
+    suport: ["Cantora", "Atriz", "Dançarina"],
     tips: [
       "Começou como dançarina em um programa de televisão dos anos 90.",
       "Teve seu primeiro grande papel no cinema interpretando uma cantora famosa.",
@@ -2904,7 +2904,7 @@ const dataPerson = [
   },
   {
     answer: "Kim Kardashian",
-    suport: ["Personalidade da TV", "Empresário(a)"],
+    suport: ["Personalidade da TV", "Empresária"],
     tips: [
       "Ganhou fama inicialmente através de um reality show familiar.",
       "Trabalhou como assistente pessoal de uma famosa socialite.",
@@ -2925,7 +2925,7 @@ const dataPerson = [
   },
   {
     answer: "Sylvester Stallone",
-    suport: ["Ator/Atriz"],
+    suport: ["Ator"],
     tips: [
       "Ganhou fama mundial com um filme sobre um boxeador azarão.",
       "Escreveu o roteiro do filme que o tornou famoso em apenas três dias.",
@@ -2946,7 +2946,7 @@ const dataPerson = [
   },
   {
     answer: "Oprah Winfrey",
-    suport: ["Personalidade da TV", "Empresário(a)"],
+    suport: ["Personalidade da TV", "Empresária"],
     tips: [
       "Começou sua carreira como apresentadora de notícias locais.",
       "Se tornou famosa com um talk show que se tornou um fenômeno cultural.",
@@ -2967,7 +2967,7 @@ const dataPerson = [
   },
   {
     answer: "Donald Trump",
-    suport: ["Político", "Empresário(a)"],
+    suport: ["Político", "Empresário"],
     tips: [
       "Ganhou notoriedade como magnata imobiliário.",
       "Seu nome está associado a vários edifícios icônicos e cassinos.",
@@ -2988,7 +2988,7 @@ const dataPerson = [
   },
   {
     answer: "O.J. Simpson",
-    suport: ["Atleta", "Ator/Atriz"],
+    suport: ["Atleta", "Ator"],
     tips: [
       "Foi uma estrela do futebol americano, jogando como running back.",
       "Ganhou o Troféu Heisman durante sua carreira universitária.",
@@ -3171,7 +3171,7 @@ const dataPerson = [
   },
   {
     answer: "Frank Sinatra",
-    suport: ["Cantor(a)", "Ator/Atriz"],
+    suport: ["Cantor", "Ator"],
     tips: [
       "Ganhou fama como cantor durante a era das big bands.",
       "Era conhecido por sua voz suave e apelido 'Ol' Blue Eyes'.",
@@ -3192,7 +3192,7 @@ const dataPerson = [
   },
   {
     answer: "Steven Spielberg",
-    suport: ["Diretor(a)", "Produtor(a)"],
+    suport: ["Diretor", "Roiteirista"],
     tips: [
       "É um dos diretores mais bem-sucedidos e influentes de todos os tempos.",
       "Seu primeiro grande sucesso foi um filme sobre um tubarão assassino.",
@@ -3213,7 +3213,7 @@ const dataPerson = [
   },
   {
     answer: "Tim Burton",
-    suport: ["Diretor(a)", "Roteirista"],
+    suport: ["Diretor", "Roteirista"],
     tips: [
       "É conhecido por seu estilo visual gótico e excêntrico.",
       "Trabalhou como animador na Disney antes de se tornar um diretor famoso.",
@@ -3234,7 +3234,7 @@ const dataPerson = [
   },
   {
     answer: "Stanley Kubrick",
-    suport: ["Diretor(a)", "Roteirista"],
+    suport: ["Diretor", "Roteirista"],
     tips: [
       "É amplamente considerado um dos maiores diretores da história do cinema.",
       "Começou sua carreira como fotógrafo antes de entrar na direção.",
@@ -3255,7 +3255,7 @@ const dataPerson = [
   },
   {
     answer: "Jay-Z",
-    suport: ["Cantor(a)", "Empresário(a)"],
+    suport: ["Cantor", "Empresário"],
     tips: [
       "Começou sua carreira no rap nos anos 90 e rapidamente se tornou um dos maiores nomes do gênero.",
       "Fundou sua própria gravadora, Roc-A-Fella Records.",
@@ -3276,7 +3276,7 @@ const dataPerson = [
   },
   {
     answer: "Kanye West",
-    suport: ["Cantor(a)", "Empresário(a)"],
+    suport: ["Cantor", "Empresário"],
     tips: [
       "Iniciou sua carreira como produtor antes de se tornar um rapper famoso.",
       "Seu álbum de estreia foi aclamado pela crítica e trouxe uma nova sonoridade ao hip-hop.",
@@ -3297,7 +3297,7 @@ const dataPerson = [
   },
   {
     answer: "Pamela Anderson",
-    suport: ["Ator/Atriz", "Modelo"],
+    suport: ["Atriz", "Modelo"],
     tips: [
       "Ganhou fama mundial como salva-vidas em uma popular série de TV dos anos 90.",
       "Começou sua carreira como modelo da revista Playboy.",
@@ -3318,7 +3318,7 @@ const dataPerson = [
   },
   {
     answer: "Stephen King",
-    suport: ["Escritor(a)"],
+    suport: ["Escritor"],
     tips: [
       "É um dos escritores de terror mais prolíficos e populares do mundo.",
       "Seu primeiro romance publicado foi 'Carrie', que virou um filme de sucesso.",
@@ -3339,7 +3339,7 @@ const dataPerson = [
   },
   {
     answer: "J.K. Rowling",
-    suport: ["Escritor(a)"],
+    suport: ["Escritora"],
     tips: [
       "Criou uma das séries de livros mais vendidas e amadas de todos os tempos.",
       "A ideia de sua série mais famosa surgiu durante uma viagem de trem.",
@@ -3360,7 +3360,7 @@ const dataPerson = [
   },
   {
     answer: "William Shakespeare",
-    suport: ["Personalidade Histórica", "Escritor(a)"],
+    suport: ["Personalidade Histórica"],
     tips: [
       "É considerado um dos maiores dramaturgos e poetas de todos os tempos.",
       "Suas obras incluem tragédias, comédias e histórias.",
@@ -3381,7 +3381,7 @@ const dataPerson = [
   },
   {
     answer: "Agatha Christie",
-    suport: ["Escritor(a)"],
+    suport: ["Escritora"],
     tips: [
       "É conhecida como a 'Rainha do Crime' por seus romances de mistério.",
       "Criou detetives icônicos como Hercule Poirot e Miss Marple.",
@@ -3407,7 +3407,7 @@ const dataPerson = [
   },
   {
     answer: "Edgar Allan Poe",
-    suport: ["Escritor(a)"],
+    suport: ["Escritor"],
     tips: [
       "É um dos escritores mais influentes do gênero gótico e de terror.",
       "Escreveu o famoso poema 'O Corvo', que começa com a linha 'Once upon a midnight dreary'.",
@@ -3428,7 +3428,7 @@ const dataPerson = [
   },
   {
     answer: "Mark Zuckerberg",
-    suport: ["Empresário(a)"],
+    suport: ["Empresário"],
     tips: [
       "Co-fundou uma das maiores redes sociais do mundo enquanto estudava em Harvard.",
       "O nome da rede social que co-fundou é Facebook.",
@@ -3669,7 +3669,7 @@ const dataPerson = [
   },
   {
     answer: "Leonardo da Vinci",
-    suport: ["Personalidade Histórica", "Artista"],
+    suport: ["Personalidade Histórica"],
     tips: [
       "Foi um polímata renascentista, excelling em pintura, ciência, engenharia e anatomia.",
       "Pintou a famosa obra 'Mona Lisa', que está no Louvre, em Paris.",
@@ -3690,7 +3690,7 @@ const dataPerson = [
   },
   {
     answer: "Marie Curie",
-    suport: ["Personalidade Histórica", "Cientista"],
+    suport: ["Personalidade Histórica"],
     tips: [
       "Foi a primeira mulher a ganhar um Prêmio Nobel e a única a ganhar em duas disciplinas diferentes (Física e Química).",
       "Descobriu os elementos químicos rádio e polônio junto com seu marido.",
@@ -3711,7 +3711,7 @@ const dataPerson = [
   },
   {
     answer: "Martin Luther King Jr.",
-    suport: ["Personalidade Histórica", "Ativista"],
+    suport: ["Personalidade Histórica"],
     tips: [
       "Foi um líder proeminente do movimento dos direitos civis nos Estados Unidos.",
       "É mais conhecido por seu discurso 'I Have a Dream', proferido durante a Marcha sobre Washington em 1963.",
@@ -3772,7 +3772,7 @@ const dataPerson = [
   },
   {
     answer: "Nelson Mandela",
-    suport: ["Personalidade Histórica", "Ativista"],
+    suport: ["Personalidade Histórica"],
     tips: [
       "Foi um líder revolucionário anti-apartheid e o primeiro presidente negro da África do Sul.",
       "Passou 27 anos na prisão por suas atividades contra o regime de apartheid.",
@@ -3893,7 +3893,7 @@ const dataPerson = [
   },
   {
     answer: "Mahatma Gandhi",
-    suport: ["Personalidade Histórica", "Ativista"],
+    suport: ["Personalidade Histórica"],
     tips: [
       "Foi um líder espiritual e político indiano que liderou a luta pela independência da Índia do domínio britânico.",
       "É conhecido por sua filosofia de resistência não violenta, chamada Satyagraha.",
@@ -3998,7 +3998,7 @@ const dataPerson = [
   },
   {
     answer: "Platão",
-    suport: ["Personalidade Histórica", "Filósofo"],
+    suport: ["Personalidade Histórica"],
     tips: [
       "Foi discípulo de Sócrates e fundador da Academia em Atenas, uma das primeiras instituições de ensino superior do mundo ocidental.",
       "Escreveu uma série de diálogos filosóficos, nos quais Sócrates é o personagem principal, incluindo 'A República' e 'O Banquete'.",
@@ -4019,7 +4019,7 @@ const dataPerson = [
   },
   {
     answer: "Albert Einstein",
-    suport: ["Personalidade Histórica", "Cientista"],
+    suport: ["Personalidade Histórica"],
     tips: [
       "Desenvolveu a teoria da relatividade, que revolucionou nossa compreensão do espaço, tempo e gravidade.",
       "Ganhou o Prêmio Nobel de Física em 1921 por sua explicação do efeito fotoelétrico.",
@@ -4066,7 +4066,7 @@ const dataPerson = [
   },
   {
     answer: "Karl Marx",
-    suport: ["Personalidade Histórica", "Filósofo"],
+    suport: ["Personalidade Histórica"],
     tips: [
       "Foi um filósofo, economista e teórico político alemão.",
       "Argumentou que a história da sociedade é uma luta de classes entre a classe trabalhadora e a burguesia.",
@@ -4087,7 +4087,7 @@ const dataPerson = [
   },
   {
     answer: "Galileo Galilei",
-    suport: ["Personalidade Histórica", "Cientista"],
+    suport: ["Personalidade Histórica"],
     tips: [
       "Foi um astrônomo, físico e matemático italiano que desafiou as concepções do universo da época.",
       "Construiu um telescópio que ele usou para fazer observações astronômicas revolucionárias.",
@@ -4108,7 +4108,7 @@ const dataPerson = [
   },
   {
     answer: "Mozart",
-    suport: ["Personalidade Histórica", "Músico"],
+    suport: ["Personalidade Histórica"],
     tips: [
       "Nasceu em Salzburgo, Áustria, em uma família de músicos.",
       "Demonstrou talento musical desde tenra idade, começando a compor aos cinco anos.",
@@ -4129,7 +4129,7 @@ const dataPerson = [
   },
   {
     answer: "Aristóteles",
-    suport: ["Personalidade Histórica", "Filósofo"],
+    suport: ["Personalidade Histórica"],
     tips: [
       "Nasceu em Estagira, na Grécia antiga.",
       "Fundou sua própria escola, o Liceu, onde ensinou filosofia e ciências naturais.",
@@ -4155,7 +4155,7 @@ const dataPerson = [
   },
   {
     answer: "Michelangelo",
-    suport: ["Personalidade Histórica", "Artista"],
+    suport: ["Personalidade Histórica"],
     tips: [
       "Foi um renomado artista renascentista italiano, conhecido por suas habilidades como escultor, pintor e arquiteto.",
       "Criou algumas das obras de arte mais famosas e reverenciadas da história, incluindo o 'David' e a 'Pietà'.",
@@ -4176,7 +4176,7 @@ const dataPerson = [
   },
   {
     answer: "Neil Armstrong",
-    suport: ["Personalidade Histórica", "Astronauta"],
+    suport: ["Personalidade Histórica"],
     tips: [
       "Foi um astronauta e engenheiro aeroespacial americano, conhecido por ser o primeiro ser humano a pisar na Lua.",
       "Comandou a missão Apollo 11, que alcançou a Lua em 20 de julho de 1969.",
@@ -4464,7 +4464,7 @@ const dataPerson = [
   },
   {
     answer: "Jennifer Lawrence",
-    suport: ["Ator/Atriz"],
+    suport: ["Atriz"],
     tips: [
       "Nasceu no final do século XX.",
       "Começou a atuar ainda jovem.",
@@ -4485,7 +4485,7 @@ const dataPerson = [
   },
   {
     answer: "Keanu Reeves",
-    suport: ["Ator/Atriz"],
+    suport: ["Ator"],
     tips: [
       "Nasceu em Beirute, mas cresceu no Canadá.",
       "Fez parte de uma dupla de 'viajantes no tempo' em comédia.",
@@ -4569,7 +4569,7 @@ const dataPerson = [
   },
   {
     answer: "Beethoven",
-    suport: ["Personalidade Histórica", "Músico"],
+    suport: ["Personalidade Histórica"],
     tips: [
       "Foi um compositor alemão conhecido por suas obras musicais revolucionárias.",
       "Nasceu em uma família de músicos em Bonn, Alemanha.",
@@ -4653,7 +4653,7 @@ const dataPerson = [
   },
   {
     answer: "Regina Casé",
-    suport: ["Ator/Atriz", "Personalidade da TV"],
+    suport: ["Atriz", "Personalidade da TV"],
     tips: [
       "Começou sua carreira como assistente de produção em um filme.",
       "Teve uma pausa na carreira para estudar cinema nos Estados Unidos.",
@@ -4694,7 +4694,7 @@ const dataPerson = [
   },
   {
     answer: "Susana Vieira",
-    suport: ["Ator/Atriz", "Personalidade da TV"],
+    suport: ["Atriz", "Personalidade da TV"],
     tips: [
       "Começou sua carreira como bailarina antes de se tornar atriz.",
       "Foi uma das primeiras atrizes brasileiras a posar nua para a Playboy.",
@@ -4715,7 +4715,7 @@ const dataPerson = [
   },
   {
     answer: "Oscar Niemeyer",
-    suport: ["Personalidade Histórica", "Arquiteto"],
+    suport: ["Personalidade Histórica"],
     tips: [
       "Conhecido como um dos arquitetos mais importantes do século XX.",
       "Foi um dos principais colaboradores na construção de Brasília, a capital do Brasil.",
@@ -4736,7 +4736,7 @@ const dataPerson = [
   },
   {
     answer: "Zico",
-    suport: ["Jogador(a) de Futebol", "Técnico de Futebol"],
+    suport: ["Jogador de Futebol", "Técnico"],
     tips: [
       "É considerado um dos maiores jogadores de futebol da história do Brasil.",
       "Foi apelidado de 'Galinho de Quintino' por sua origem humilde no Rio de Janeiro.",
@@ -4757,7 +4757,7 @@ const dataPerson = [
   },
   {
     answer: "Garrincha",
-    suport: ["Jogador(a) de Futebol"],
+    suport: ["Jogador de Futebol"],
     tips: [
       "Conhecido como 'Anjo das Pernas Tortas' devido à sua condição física peculiar.",
       "Foi um dos maiores dribladores da história do futebol.",
@@ -4820,7 +4820,7 @@ const dataPerson = [
   },
   {
     answer: "Xuxa",
-    suport: ["Personalidade da TV", "Cantor(a)", "Ator/Atriz"],
+    suport: ["Personalidade da TV", "Cantora", "Atriz"],
     tips: [
       "Começou sua carreira como modelo aos 16 anos.",
       "Tem uma fundação que ajuda crianças carentes.",
@@ -4862,7 +4862,7 @@ const dataPerson = [
   },
   {
     answer: "Paris Hilton",
-    suport: ["Personalidade da TV", "Empresário(a)"],
+    suport: ["Personalidade da TV", "Empresária"],
     tips: [
       "Herdeira de uma famosa rede de hotéis.",
       "Tornou-se um ícone da cultura pop nos anos 2000.",
@@ -4883,7 +4883,7 @@ const dataPerson = [
   },
   {
     answer: "Galvão Bueno",
-    suport: ["Narrador Esportivo", "Personalidade da TV"],
+    suport: ["Narrador", "Personalidade da TV"],
     tips: [
       "Narrou momentos históricos do futebol brasileiro.",
       "Ficou conhecido por suas expressões marcantes durante as transmissões esportivas.",
@@ -4904,7 +4904,7 @@ const dataPerson = [
   },
   {
     answer: "Joelma",
-    suport: ["Cantor(a)"],
+    suport: ["Cantora", "Dançarina"],
     tips: [
       "Começou sua carreira como vocalista de uma banda de forró.",
       "Superou um incêndio em sua casa e ajudou a salvar sua família.",
@@ -4925,7 +4925,7 @@ const dataPerson = [
   },
   {
     answer: "Kristen Stewart",
-    suport: ["Ator/Atriz"],
+    suport: ["Atriz"],
     tips: [
       "Começou sua carreira ainda criança.",
       "Ganhou fama global com uma saga sobre criaturas noturnas.",
@@ -4946,7 +4946,7 @@ const dataPerson = [
   },
   {
     answer: "Jared Leto",
-    suport: ["Ator/Atriz", "Cantor(a)"],
+    suport: ["Ator", "Cantor"],
     tips: [
       "Começou sua carreira em uma série de TV adolescente dos anos 90.",
       "É vocalista de uma banda de rock alternativo.",
@@ -4967,7 +4967,7 @@ const dataPerson = [
   },
   {
     answer: "Cillian Murphy",
-    suport: ["Ator/Atriz"],
+    suport: ["Ator"],
     tips: [
       "Nasceu na Irlanda.",
       "É conhecido por seus olhos azuis penetrantes.",
@@ -4988,7 +4988,7 @@ const dataPerson = [
   },
   {
     answer: "Megan Fox",
-    suport: ["Ator/Atriz", "Modelo"],
+    suport: ["Atriz", "Modelo"],
     tips: [
       "Começou sua carreira como modelo.",
       "Ganhou fama com um papel em uma franquia de robôs alienígenas.",
@@ -5009,7 +5009,7 @@ const dataPerson = [
   },
   {
     answer: "John Travolta",
-    suport: ["Ator/Atriz"],
+    suport: ["Ator"],
     tips: [
       "Começou sua carreira em uma série de TV sobre desastres naturais.",
       "Ganhou fama como um dançarino talentoso em um filme musical dos anos 70.",
@@ -5030,7 +5030,7 @@ const dataPerson = [
   },
   {
     answer: "Cameron Diaz",
-    suport: ["Ator/Atriz", "Modelo"],
+    suport: ["Atriz", "Modelo"],
     tips: [
       "Começou sua carreira como modelo antes de se tornar atriz.",
       "Ganhou fama com um papel em uma comédia romântica dos anos 90.",
@@ -5051,7 +5051,7 @@ const dataPerson = [
   },
   {
     answer: "Emily Blunt",
-    suport: ["Ator/Atriz"],
+    suport: ["Atriz"],
     tips: [
       "Nasceu em Londres, Inglaterra.",
       "Ganhou reconhecimento com um papel em um filme de uma rainha.",
@@ -5072,7 +5072,7 @@ const dataPerson = [
   },
   {
     answer: "Miley Cyrus",
-    suport: ["Ator/Atriz", "Cantor(a)"],
+    suport: ["Atriz", "Cantora"],
     tips: [
       "Começou sua carreira como uma estrela infantil na televisão.",
       "Ganhou fama internacional com um alter ego musical.",
@@ -5114,7 +5114,7 @@ const dataPerson = [
   },
   {
     answer: "Naomi Campbell",
-    suport: ["Modelo", "Ator/Atriz"],
+    suport: ["Modelo", "Atriz"],
     tips: [
       "Começou sua carreira como modelo aos 15 anos.",
       "Foi a primeira modelo negra a aparecer na capa da revista Vogue.",
@@ -5135,7 +5135,7 @@ const dataPerson = [
   },
   {
     answer: "Scarlett Johansson",
-    suport: ["Ator/Atriz"],
+    suport: ["Atriz"],
     tips: [
       "Começou sua carreira ainda criança.",
       "Teve um papel marcante em um filme com Bill Murray.",
@@ -5156,7 +5156,7 @@ const dataPerson = [
   },
   {
     answer: "Jim Carrey",
-    suport: ["Ator/Atriz", "Comediante"],
+    suport: ["Ator", "Comediante"],
     tips: [
       "Nasceu no Canadá.",
       "Começou sua carreira em stand-up comedy.",
@@ -5177,7 +5177,7 @@ const dataPerson = [
   },
   {
     answer: "Denzel Washington",
-    suport: ["Ator/Atriz"],
+    suport: ["Ator"],
     tips: [
       "Estudou jornalismo antes de seguir carreira no cinema.",
       "Ganhou seu primeiro Oscar interpretando um soldado.",
@@ -5198,7 +5198,7 @@ const dataPerson = [
   },
   {
     answer: "Sylvester Stallone",
-    suport: ["Ator/Atriz"],
+    suport: ["Ator"],
     tips: [
       "Começou sua carreira como ator coadjuvante.",
       "Escreveu e estrelou um filme que se tornou um fenômeno global.",
@@ -5219,7 +5219,7 @@ const dataPerson = [
   },
   {
     answer: "Bruce Willis",
-    suport: ["Ator/Atriz"],
+    suport: ["Ator"],
     tips: [
       "Começou sua carreira na televisão.",
       "Ganhou fama com um papel em uma série sobre detetives.",
@@ -5239,7 +5239,7 @@ const dataPerson = [
   },
   {
     answer: "Jean-Claude Van Damme",
-    suport: ["Ator/Atriz", "Lutador de Artes Marciais"],
+    suport: ["Ator", "Lutador de Artes Marciais"],
     tips: [
       "Nasceu na Bélgica.",
       "É famoso por suas habilidades em artes marciais.",
@@ -5322,7 +5322,7 @@ const dataPerson = [
   },
   {
     answer: "Andy Warhol",
-    suport: ["Artista"],
+    suport: ["Personalidade Histórica"],
     tips: [
       "Líder do movimento de arte pop, redefiniu os padrões da arte moderna com suas obras icônicas.",
       "Estabeleceu seu estúdio, 'The Factory', como o epicentro da contracultura em Nova York nos anos 60.",
@@ -5338,12 +5338,12 @@ const dataPerson = [
       "Sua vida noturna extravagante e seu círculo de amigos influentes contribuíram para sua aura de mito.",
       "Sua visão visionária da arte o tornou um dos artistas mais reconhecidos e celebrados do século XX.",
       "Apesar de sua morte prematura aos 58 anos, seu legado continua a inspirar artistas e provocar reflexões sobre a natureza da arte e da cultura.",
-      "Seu estúdio, 'The Factory', tornou-se um símbolo da cena artística underground e um ponto de encontro para figuras proeminentes da época.",
+      "Seu estúdio, tornou-se um símbolo da cena artística underground e um ponto de encontro para figuras proeminentes da época.",
     ],
   },
   {
     answer: "Pablo Picasso",
-    suport: ["Artista"],
+    suport: ["Personalidade Histórica"],
     tips: [
       "Revolucionou a arte moderna com seu estilo único e inovador, marcando o início do movimento cubista.",
       "Considerado um dos artistas mais importantes do século XX, suas obras transcendem fronteiras e continentes.",
@@ -5508,7 +5508,7 @@ const dataPerson = [
   },
   {
     answer: "Anna Nicole Smith",
-    suport: ["Modelo", "Ator/Atriz"],
+    suport: ["Modelo", "Atriz"],
     tips: [
       "Começou sua carreira em revistas famosas.",
       "Tornou-se conhecida por sua figura exuberante.",
@@ -5529,7 +5529,7 @@ const dataPerson = [
   },
   {
     answer: "Brittany Murphy",
-    suport: ["Ator/Atriz"],
+    suport: ["Atriz"],
     tips: [
       "Começou como uma estrela jovem na televisão.",
       "Fez sucesso em filmes de comédia romântica.",
@@ -5550,7 +5550,7 @@ const dataPerson = [
   },
   {
     answer: "Heath Ledger",
-    suport: ["Ator/Atriz"],
+    suport: ["Ator"],
     tips: [
       "Começou sua carreira em sua terra natal.",
       "Tornou-se um símbolo de talento e carisma no cinema.",
@@ -5571,7 +5571,7 @@ const dataPerson = [
   },
   {
     answer: "Natalie Wood",
-    suport: ["Ator/Atriz"],
+    suport: ["Atriz"],
     tips: [
       "Começou sua carreira ainda criança em Hollywood.",
       "Atuou em um famoso filme musical sobre gangues rivais.",
@@ -5592,7 +5592,7 @@ const dataPerson = [
   },
   {
     answer: "Tupac",
-    suport: ["Cantor(a)"],
+    suport: ["Cantor"],
     tips: [
       "Começou sua carreira na costa oeste dos EUA.",
       "Tornou-se uma figura emblemática no mundo da música.",
@@ -5613,7 +5613,7 @@ const dataPerson = [
   },
   {
     answer: "Grace Kelly",
-    suport: ["Ator/Atriz"],
+    suport: ["Atriz"],
     tips: [
       "Começou sua carreira como atriz antes de mudar de vida.",
       "Era uma musa para um famoso diretor de suspense.",

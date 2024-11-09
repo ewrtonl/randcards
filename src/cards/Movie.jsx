@@ -2989,7 +2989,7 @@ const dataMovie = [
   {
     answer: "O Espelho Mágico",
     suport: ["Personagem", "Branca de Neve e Os Sete Anões"],
-    suport: [
+    tips: [
       "Revela verdades, mesmo as mais difíceis de ouvir.",
       "Sua 'voz' é solicitada apenas por uma pessoa específica.",
       "A cada pergunta, sua resposta é sincera, mas perigosa.",

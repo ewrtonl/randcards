@@ -6,6 +6,7 @@ const dataPlace = [
   },
   {
     answer: "Brasil",
+    suport: ["País", "América do Sul"],
     tips: [
       "É o maior país de um continente que fala predominantemente espanhol.",
       "Possui a floresta tropical mais extensa do mundo.",
@@ -26,6 +27,7 @@ const dataPlace = [
   },
   {
     answer: "Nova York",
+    suport: ["Cidade", "Estados Unidos"],
     tips: [
       "É conhecida como 'A Grande Maçã'.",
       "Abriga a sede da ONU.",
@@ -46,6 +48,7 @@ const dataPlace = [
   },
   {
     answer: "Califórnia",
+    suport: ["Estado", "Estados Unidos"],
     tips: [
       "É o estado mais populoso de seu país.",
       "Abriga a famosa indústria cinematográfica de Hollywood.",
@@ -66,6 +69,7 @@ const dataPlace = [
   },
   {
     answer: "Japão",
+    suport: ["País", "Ásia"],
     tips: [
       "É composto por milhares de ilhas.",
       "Sua bandeira tem um círculo vermelho.",
@@ -86,6 +90,7 @@ const dataPlace = [
   },
   {
     answer: "Paris",
+    suport: ["Cidade", "França"],
     tips: [
       "É conhecida como a 'Cidade da Luz'.",
       "Possui uma icônica torre de metal.",
@@ -106,6 +111,7 @@ const dataPlace = [
   },
   {
     answer: "Rio de Janeiro",
+    suport: ["Cidade", "Brasil"],
     tips: [
       "Tem uma famosa praia em forma de meia-lua.",
       "Possui uma estátua de braços abertos no topo de uma montanha.",
@@ -125,27 +131,8 @@ const dataPlace = [
     ],
   },
   {
-    answer: "Austrália",
-    tips: [
-      "É o maior país de um continente que é uma ilha.",
-      "Sua população é menor do que a de seu tamanho sugere.",
-      "Tem um animal que carrega seus filhotes em uma bolsa.",
-      "A maioria da população vive perto da costa.",
-      "Abriga a maior barreira de corais do mundo.",
-      "Seu esporte nacional envolve uma bola oval.",
-      "A capital não é sua maior cidade.",
-      "Tem um famoso deserto vermelho no centro.",
-      "Seu símbolo nacional é uma folha de eucalipto.",
-      "Tem uma icônica ópera à beira-mar.",
-      "É conhecida por sua fauna única, como o ornitorrinco.",
-      "Tem um evento mundial de tênis no início do ano.",
-      "Seus habitantes são conhecidos como 'Aussies'.",
-      "Possui uma histórica prisão que virou atração turística.",
-      "Abriga um famoso monólito no meio do deserto.",
-    ],
-  },
-  {
     answer: "Londres",
+    suport: ["Cidade", "Reino Unido"],
     tips: [
       "É conhecida por um famoso relógio.",
       "Abriga uma residência oficial da realeza.",
@@ -166,6 +153,7 @@ const dataPlace = [
   },
   {
     answer: "Texas",
+    suport: ["Estado", "Estados Unidos"],
     tips: [
       "É conhecido por sua produção de petróleo.",
       "Foi um país independente antes de se juntar à federação.",
@@ -186,6 +174,7 @@ const dataPlace = [
   },
   {
     answer: "Índia",
+    suport: ["País", "Ásia"],
     tips: [
       "É o segundo país mais populoso do mundo.",
       "Abriga uma das sete maravilhas do mundo moderno.",
@@ -206,6 +195,7 @@ const dataPlace = [
   },
   {
     answer: "São Paulo",
+    suport: ["Cidade", "Brasil"],
     tips: [
       "É a maior cidade do hemisfério sul.",
       "Tem um famoso bairro de imigrantes italianos.",
@@ -226,6 +216,7 @@ const dataPlace = [
   },
   {
     answer: "Argentina",
+    suport: ["País", "América do Sul"],
     tips: [
       "É famosa por sua dança sensual.",
       "Possui uma das mais extensas cadeias de montanhas do mundo.",
@@ -246,6 +237,7 @@ const dataPlace = [
   },
   {
     answer: "Tóquio",
+    suport: ["Cidade", "Japão"],
     tips: [
       "É uma das cidades mais populosas do mundo.",
       "Abriga o maior cruzamento de pedestres do planeta.",
@@ -266,6 +258,7 @@ const dataPlace = [
   },
   {
     answer: "Moscou",
+    suport: ["Cidade", "Rússia"],
     tips: [
       "É conhecida por suas cúpulas coloridas em forma de cebola.",
       "Possui uma das maiores praças do mundo.",
@@ -286,6 +279,7 @@ const dataPlace = [
   },
   {
     answer: "Flórida",
+    suport: ["Estado", "Estados Unidos"],
     tips: [
       "É conhecida como o 'Estado do Sol'.",
       "Abriga um famoso parque temático com um rato icônico.",
@@ -306,6 +300,7 @@ const dataPlace = [
   },
   {
     answer: "China",
+    suport: ["País", "Ásia"],
     tips: [
       "É o país mais populoso do mundo.",
       "Possui uma das mais antigas civilizações contínuas.",
@@ -326,6 +321,7 @@ const dataPlace = [
   },
   {
     answer: "Austrália",
+    suport: ["País", "Oceania"],
     tips: [
       "É o maior país de um continente que é uma ilha.",
       "Sua população é menor do que a de seu tamanho sugere.",
@@ -346,6 +342,7 @@ const dataPlace = [
   },
   {
     answer: "Los Angeles",
+    suport: ["Cidade", "Estados Unidos"],
     tips: [
       "É conhecida como a 'Cidade dos Anjos'.",
       "Abriga a indústria cinematográfica mais famosa do mundo.",
@@ -366,6 +363,7 @@ const dataPlace = [
   },
   {
     answer: "Itália",
+    suport: ["País", "Europa"],
     tips: [
       "É o berço do Renascimento.",
       "Abriga uma das sete novas maravilhas do mundo.",
@@ -386,6 +384,7 @@ const dataPlace = [
   },
   {
     answer: "Chicago",
+    suport: ["Cidade", "Estados Unidos"],
     tips: [
       "É conhecida como a 'Cidade dos Ventos'.",
       "Tem um famoso parque com uma escultura em forma de feijão.",
@@ -406,6 +405,7 @@ const dataPlace = [
   },
   {
     answer: "Espanha",
+    suport: ["País", "Europa"],
     tips: [
       "É conhecida por suas festas que duram até o amanhecer.",
       "Possui uma dança apaixonada e uma música que usa castanholas.",
@@ -426,6 +426,7 @@ const dataPlace = [
   },
   {
     answer: "Canadá",
+    suport: ["País", "América do Norte"],
     tips: [
       "É o segundo maior país do mundo em área.",
       "Seu clima varia de ártico a temperado.",
@@ -446,6 +447,7 @@ const dataPlace = [
   },
   {
     answer: "Berlim",
+    suport: ["Cidade", "Alemanha"],
     tips: [
       "É uma cidade que foi dividida por um muro durante a Guerra Fria.",
       "É conhecida por sua vida noturna vibrante e diversificada.",
@@ -466,6 +468,7 @@ const dataPlace = [
   },
   {
     answer: "México",
+    suport: ["País", "América do Norte"],
     tips: [
       "É conhecido por suas festas coloridas e comida picante.",
       "Abriga uma das maiores cidades do mundo.",
@@ -486,6 +489,7 @@ const dataPlace = [
   },
   {
     answer: "Lisboa",
+    suport: ["Cidade", "Portugal"],
     tips: [
       "É a capital mais ocidental da Europa continental.",
       "Tem um famoso bairro antigo com casas de azulejos coloridos.",
@@ -506,6 +510,7 @@ const dataPlace = [
   },
   {
     answer: "Alemanha",
+    suport: ["País", "Europa"],
     tips: [
       "É um país europeu com uma forte economia industrial.",
       "Abriga um famoso festival de cerveja em uma de suas cidades.",
@@ -526,6 +531,7 @@ const dataPlace = [
   },
   {
     answer: "Miami",
+    suport: ["Cidade", "Estados Unidos"],
     tips: [
       "É conhecida por seu clima quente e praias ensolaradas.",
       "Tem uma grande influência da cultura latina.",
@@ -546,6 +552,7 @@ const dataPlace = [
   },
   {
     answer: "Rússia",
+    suport: ["País", "Europa", "Ásia"],
     tips: [
       "É o maior país do mundo em área.",
       "Seu clima varia de ártico a temperado.",
@@ -566,6 +573,7 @@ const dataPlace = [
   },
   {
     answer: "Bangcoc",
+    suport: ["Cidade", "Tailândia"],
     tips: [
       "É uma das cidades mais visitadas do mundo.",
       "Possui templos com arquitetura dourada e detalhada.",
@@ -586,6 +594,7 @@ const dataPlace = [
   },
   {
     answer: "Irlanda",
+    suport: ["País", "Europa"],
     tips: [
       "É uma ilha no noroeste da Europa.",
       "Sua capital é conhecida por seus pubs e música ao vivo.",
@@ -606,6 +615,7 @@ const dataPlace = [
   },
   {
     answer: "Buenos Aires",
+    suport: ["Cidade", "Argentina"],
     tips: [
       "É conhecida como a 'Paris da América do Sul'.",
       "Sua dança e música tradicional são conhecidas por sua paixão.",
@@ -626,6 +636,7 @@ const dataPlace = [
   },
   {
     answer: "Egito",
+    suport: ["País", "África"],
     tips: [
       "É famoso por suas antigas construções monumentais.",
       "Seu rio é o mais longo do mundo.",
@@ -651,6 +662,7 @@ const dataPlace = [
   },
   {
     answer: "Roma",
+    suport: ["Cidade", "Itália"],
     tips: [
       "É conhecida como a 'Cidade Eterna'.",
       "Abriga uma cidade-estado independente dentro de suas fronteiras.",
@@ -671,6 +683,7 @@ const dataPlace = [
   },
   {
     answer: "Israel",
+    suport: ["País", "Oriente Médio"],
     tips: [
       "É uma nação no Oriente Médio com uma rica história antiga.",
       "Possui um local sagrado para três grandes religiões monoteístas.",
@@ -691,6 +704,7 @@ const dataPlace = [
   },
   {
     answer: "Jerusalém",
+    suport: ["Cidade", "Israel"],
     tips: [
       "É uma das cidades mais antigas continuamente habitadas do mundo.",
       "Seu nome é associado à paz, mas a história nem sempre foi pacífica.",
@@ -711,6 +725,7 @@ const dataPlace = [
   },
   {
     answer: "Hong Kong",
+    suport: ["Cidade", "China"],
     tips: [
       "Já foi colonizado e hoje tem um regime diferente.",
       "Tem um dos maiores índices de densidade populacional do mundo.",
@@ -731,6 +746,7 @@ const dataPlace = [
   },
   {
     answer: "Xangai",
+    suport: ["Cidade", "China"],
     tips: [
       "Seu nome já apareceu em diversas obras de ficção.",
       "Possui um dos portos mais movimentados do mundo.",
@@ -751,6 +767,7 @@ const dataPlace = [
   },
   {
     answer: "Equador",
+    suport: ["País", "América do Sul"],
     tips: [
       "É cortado pela linha imaginária que divide o planeta em duas metades.",
       "Tem uma grande biodiversidade, incluindo regiões de floresta e praias.",
@@ -771,6 +788,7 @@ const dataPlace = [
   },
   {
     answer: "Congo",
+    suport: ["País", "África"],
     tips: [
       "Esse lugar é banhado pelo segundo maior rio do mundo.",
       "Sua floresta é tão densa que muitos lugares permanecem inexplorados.",
@@ -791,6 +809,7 @@ const dataPlace = [
   },
   {
     answer: "Marrocos",
+    suport: ["País", "África"],
     tips: [
       "É cercado tanto por mar quanto por montanhas.",
       "Suas cidades possuem medinas antigas e labirintos de ruas estreitas.",
@@ -811,6 +830,7 @@ const dataPlace = [
   },
   {
     answer: "São Francisco",
+    suport: ["Cidade", "Estados Unidos"],
     tips: [
       "É uma cidade famosa por suas colinas íngremes e bondes.",
       "Tem uma ponte vermelha icônica que é um símbolo da cidade.",
@@ -831,6 +851,7 @@ const dataPlace = [
   },
   {
     answer: "Nova Délhi",
+    suport: ["Cidade", "Índia"],
     tips: [
       "É uma cidade que serve como a capital administrativa de seu país.",
       "Abriga um portal monumental que homenageia soldados caídos.",
@@ -851,6 +872,7 @@ const dataPlace = [
   },
   {
     answer: "Coreia do Sul",
+    suport: ["País", "Ásia"],
     tips: [
       "É um país asiático conhecido por sua tecnologia avançada.",
       "Sua capital é famosa por seus arranha-céus e palácios históricos.",
@@ -871,6 +893,7 @@ const dataPlace = [
   },
   {
     answer: "Dubai",
+    suport: ["Cidade", "Emirados Árabes Unidos"],
     tips: [
       "É uma cidade famosa por seus arranha-céus futuristas e ilhas artificiais.",
       "Abriga o prédio mais alto do mundo.",
@@ -891,6 +914,7 @@ const dataPlace = [
   },
   {
     answer: "Sydney",
+    suport: ["Cidade", "Austrália"],
     tips: [
       "É uma cidade australiana famosa por sua icônica casa de ópera.",
       "Possui uma ponte que é um dos maiores arcos de aço do mundo.",
@@ -911,6 +935,7 @@ const dataPlace = [
   },
   {
     answer: "África do Sul",
+    suport: ["País", "África"],
     tips: [
       "É um país conhecido por sua diversidade étnica e cultural.",
       "Abriga a ponta mais ao sul do continente africano.",
@@ -931,6 +956,7 @@ const dataPlace = [
   },
   {
     answer: "Boston",
+    suport: ["Cidade", "Estados Unidos"],
     tips: [
       "É uma das cidades mais antigas dos Estados Unidos.",
       "Abriga universidades renomadas como Harvard e MIT.",
@@ -951,6 +977,7 @@ const dataPlace = [
   },
   {
     answer: "Vietnã",
+    suport: ["País", "Ásia"],
     tips: [
       "É um país do Sudeste Asiático com uma longa costa no Mar do Leste.",
       "Sua culinária inclui pratos como pho e banh mi.",
@@ -971,6 +998,7 @@ const dataPlace = [
   },
   {
     answer: "Madrid",
+    suport: ["Cidade", "Espanha"],
     tips: [
       "É a capital de um país europeu famoso por sua arte e cultura.",
       "Possui um museu com uma das maiores coleções de arte da Europa.",
@@ -991,6 +1019,7 @@ const dataPlace = [
   },
   {
     answer: "Babilônia",
+    suport: ["Cidade Antiga", "Mesopotâmia"],
     tips: [
       "É uma antiga cidade mesopotâmica com uma rica história.",
       "Suas ruínas estão localizadas no atual território de um país do Oriente Médio.",
@@ -1011,6 +1040,7 @@ const dataPlace = [
   },
   {
     answer: "Chile",
+    suport: ["País", "América do Sul"],
     tips: [
       "É um país da América do Sul com uma geografia estreita e longa.",
       "Possui um deserto considerado o mais seco do mundo.",
@@ -1031,6 +1061,7 @@ const dataPlace = [
   },
   {
     answer: "Washington",
+    suport: ["Cidade", "Estados Unidos"],
     tips: [
       "É uma cidade situada na costa leste dos Estados Unidos.",
       "Abriga a sede do governo federal e muitas instituições nacionais.",
@@ -1051,6 +1082,7 @@ const dataPlace = [
   },
   {
     answer: "Peru",
+    suport: ["País", "América do Sul"],
     tips: [
       "É um país da América do Sul famoso por suas civilizações antigas.",
       "Possui uma antiga cidade inca situada nas montanhas.",
@@ -1071,6 +1103,7 @@ const dataPlace = [
   },
   {
     answer: "Amsterdã",
+    suport: ["Cidade", "Países Baixos"],
     tips: [
       "É uma cidade europeia famosa por seus canais e pontes.",
       "Possui um bairro famoso por sua iluminação vermelha.",
@@ -1091,6 +1124,7 @@ const dataPlace = [
   },
   {
     answer: "Suécia",
+    suport: ["País", "Europa"],
     tips: [
       "É um país escandinavo conhecido por sua qualidade de vida elevada.",
       "Sua capital é composta por várias ilhas e pontes.",
@@ -1111,6 +1145,7 @@ const dataPlace = [
   },
   {
     answer: "Atenas",
+    suport: ["Cidade", "Grécia"],
     tips: [
       "É uma cidade europeia conhecida como o berço da democracia.",
       "Abriga ruínas antigas, incluindo um famoso templo no topo de uma colina.",
@@ -1131,6 +1166,7 @@ const dataPlace = [
   },
   {
     answer: "Noruega",
+    suport: ["País", "Europa"],
     tips: [
       "É um país escandinavo famoso por seus fiordes impressionantes.",
       "A capital é conhecida por seu design moderno e museus.",
@@ -1151,6 +1187,7 @@ const dataPlace = [
   },
   {
     answer: "Seul",
+    suport: ["Cidade", "Coreia do Sul"],
     tips: [
       "É uma metrópole asiática conhecida por seus arranha-céus modernos e templos históricos.",
       "A tecnologia de ponta e a inovação são marcas registradas da cidade.",
@@ -1171,6 +1208,7 @@ const dataPlace = [
   },
   {
     answer: "Venezuela",
+    suport: ["País", "América do Sul"],
     tips: [
       "É um país sul-americano com uma vasta riqueza em petróleo.",
       "A capital é uma metrópole cercada por montanhas.",
@@ -1191,6 +1229,7 @@ const dataPlace = [
   },
   {
     answer: "Toronto",
+    suport: ["Cidade", "Canadá"],
     tips: [
       "É a maior cidade de um país norte-americano famoso por suas paisagens naturais.",
       "Possui uma torre icônica que oferece vistas panorâmicas da cidade.",
@@ -1211,6 +1250,7 @@ const dataPlace = [
   },
   {
     answer: "Dinamarca",
+    suport: ["País", "Europa"],
     tips: [
       "É um país escandinavo conhecido por suas políticas sociais avançadas.",
       "A capital é famosa por sua estátua de uma personagem de conto de fadas.",
@@ -1231,6 +1271,7 @@ const dataPlace = [
   },
   {
     answer: "Istambul",
+    suport: ["Cidade", "Turquia"],
     tips: [
       "É uma cidade transcontinental situada entre a Europa e a Ásia.",
       "Tem uma rica história como capital de três impérios diferentes.",
@@ -1251,6 +1292,7 @@ const dataPlace = [
   },
   {
     answer: "Polônia",
+    suport: ["País", "Europa"],
     tips: [
       "É um país europeu com uma rica história e cultura resiliente.",
       "A capital foi quase totalmente destruída durante a Segunda Guerra Mundial.",
@@ -1271,6 +1313,7 @@ const dataPlace = [
   },
   {
     answer: "Filipinas",
+    suport: ["País", "Ásia"],
     tips: [
       "É um arquipélago no sudeste da Ásia composto por mais de 7.000 ilhas.",
       "A capital é uma das cidades mais densamente povoadas do mundo.",
@@ -1291,6 +1334,7 @@ const dataPlace = [
   },
   {
     answer: "Pequim",
+    suport: ["Cidade", "China"],
     tips: [
       "É uma capital asiática famosa por sua história milenar e cultura rica.",
       "Possui uma antiga cidade proibida que era residência imperial.",
@@ -1311,6 +1355,7 @@ const dataPlace = [
   },
   {
     answer: "Finlândia",
+    suport: ["País", "Europa"],
     tips: [
       "É um país nórdico conhecido por sua vasta natureza e muitos lagos.",
       "A capital é uma cidade costeira com uma rica cena de design.",
@@ -1331,6 +1376,7 @@ const dataPlace = [
   },
   {
     answer: "Salvador",
+    suport: ["Cidade", "Brasil"],
     tips: [
       "É uma cidade costeira no nordeste de um grande país sul-americano.",
       "A cidade é famosa por seu carnaval vibrante e colorido.",
@@ -1351,6 +1397,7 @@ const dataPlace = [
   },
   {
     answer: "Índia",
+    suport: ["País", "Ásia"],
     tips: [
       "É um país no sul da Ásia com uma das maiores populações do mundo.",
       "A capital tem uma história que remonta a séculos, com muitos marcos históricos.",
@@ -1371,6 +1418,7 @@ const dataPlace = [
   },
   {
     answer: "Viena",
+    suport: ["Cidade", "Áustria"],
     tips: [
       "É uma capital europeia conhecida por sua rica herança musical e cultural.",
       "Foi a residência de muitos compositores clássicos famosos.",
@@ -1391,6 +1439,7 @@ const dataPlace = [
   },
   {
     answer: "Singapura",
+    suport: ["Cidade-Estado", "Ásia"],
     tips: [
       "É uma cidade-estado no sudeste da Ásia conhecida por sua eficiência e limpeza.",
       "Possui um dos portos mais movimentados do mundo.",
@@ -1411,6 +1460,7 @@ const dataPlace = [
   },
   {
     answer: "Porto Alegre",
+    suport: ["Cidade", "Brasil"],
     tips: [
       "É uma cidade no sul de um grande país sul-americano, conhecida por sua cultura e história.",
       "A cidade tem uma forte influência de imigrantes europeus, especialmente alemães e italianos.",
@@ -1431,6 +1481,7 @@ const dataPlace = [
   },
   {
     answer: "Ucrânia",
+    suport: ["País", "Europa"],
     tips: [
       "É o segundo maior país da Europa em termos de área.",
       "Sua capital é conhecida por um famoso mosteiro e cúpulas douradas.",
@@ -1451,6 +1502,7 @@ const dataPlace = [
   },
   {
     answer: "Genebra",
+    suport: ["Cidade", "Suíça"],
     tips: [
       "É uma cidade europeia conhecida por sua diplomacia e organizações internacionais.",
       "Sedia a sede de várias agências da ONU e da Cruz Vermelha.",
@@ -1471,6 +1523,7 @@ const dataPlace = [
   },
   {
     answer: "Grécia",
+    suport: ["País", "Europa"],
     tips: [
       "É um país europeu conhecido por suas ilhas paradisíacas e rica história antiga.",
       "A capital é famosa por suas ruínas antigas e templos.",
@@ -1491,6 +1544,7 @@ const dataPlace = [
   },
   {
     answer: "Irlanda",
+    suport: ["País", "Europa"],
     tips: [
       "É uma ilha europeia conhecida por suas paisagens verdes e cultura celta.",
       "A capital é famosa por sua vida noturna e música ao vivo.",
@@ -1511,6 +1565,7 @@ const dataPlace = [
   },
   {
     answer: "Houston",
+    suport: ["Cidade", "Estados Unidos"],
     tips: [
       "É uma grande cidade no sul de um país norte-americano.",
       "Conhecida por seu papel significativo na exploração espacial.",
@@ -1531,6 +1586,7 @@ const dataPlace = [
   },
   {
     answer: "Áustria",
+    suport: ["País", "Europa"],
     tips: [
       "É um país europeu famoso por sua música clássica e paisagens alpinas.",
       "A capital é conhecida por sua arquitetura imperial e palácios.",
@@ -1551,6 +1607,7 @@ const dataPlace = [
   },
   {
     answer: "Kuala Lumpur",
+    suport: ["Cidade", "Malásia"],
     tips: [
       "É a capital de um país do sudeste asiático conhecido por suas torres gêmeas.",
       "A cidade é um importante centro financeiro e de negócios.",
@@ -1571,6 +1628,7 @@ const dataPlace = [
   },
   {
     answer: "Indonésia",
+    suport: ["País", "Ásia"],
     tips: [
       "É um arquipélago no sudeste da Ásia com milhares de ilhas.",
       "A capital é uma das cidades mais populosas do mundo.",
@@ -1591,6 +1649,7 @@ const dataPlace = [
   },
   {
     answer: "San Diego",
+    suport: ["Cidade", "Estados Unidos"],
     tips: [
       "É uma cidade costeira no sul de um estado americano famoso por seu clima.",
       "Tem um famoso zoológico que é um dos maiores do mundo.",
@@ -1611,6 +1670,7 @@ const dataPlace = [
   },
   {
     answer: "Croácia",
+    suport: ["País", "Europa"],
     tips: [
       "Este lugar tem litoral banhado por um dos mares mais límpidos do mundo.",
       "Suas paisagens incluem montanhas, ilhas e lagos.",
@@ -1631,6 +1691,7 @@ const dataPlace = [
   },
   {
     answer: "Romênia",
+    suport: ["País", "Europa"],
     tips: [
       "Seus castelos são famosos por histórias de criaturas misteriosas.",
       "Tem uma rica tradição de música folclórica e dança.",
@@ -1651,6 +1712,7 @@ const dataPlace = [
   },
   {
     answer: "Paquistão",
+    suport: ["País", "Ásia"],
     tips: [
       "Aqui se encontra uma das montanhas mais altas do mundo.",
       "É conhecido por uma cultura de tapeçaria rica em padrões e cores.",
@@ -1671,6 +1733,7 @@ const dataPlace = [
   },
   {
     answer: "Afeganistão",
+    suport: ["País", "Ásia"],
     tips: [
       "Suas terras são dominadas por vales e montanhas rochosas.",
       "É uma das nações mais desafiadoras de se conquistar.",
@@ -1691,6 +1754,7 @@ const dataPlace = [
   },
   {
     answer: "Iraque",
+    suport: ["País", "Ásia"],
     tips: [
       "Já foi o coração de um império milenar.",
       "Suas terras guardam uma das mais antigas formas de escrita conhecidas.",
@@ -1711,6 +1775,7 @@ const dataPlace = [
   },
   {
     answer: "Coreia do Norte",
+    suport: ["País", "Ásia"],
     tips: [
       "Poucas nações mantêm tanto segredo sobre suas atividades.",
       "Suas fronteiras são fechadas para a maioria dos visitantes estrangeiros.",
@@ -1731,6 +1796,7 @@ const dataPlace = [
   },
   {
     answer: "Arábia Saudita",
+    suport: ["País", "Ásia"],
     tips: [
       "Grande parte de seu território é coberto por desertos.",
       "É um dos maiores produtores de um líquido muito valioso.",
@@ -1751,6 +1817,7 @@ const dataPlace = [
   },
   {
     answer: "País de Gales",
+    suport: ["País", "Europa"],
     tips: [
       "Seu território é marcado por colinas e campos verdes.",
       "Suas tradições incluem o uso de roupas quadriculadas e uma linguagem única.",
@@ -1771,6 +1838,7 @@ const dataPlace = [
   },
   {
     answer: "Malásia",
+    suport: ["País", "Ásia"],
     tips: [
       "É um país no sudeste asiático dividido em duas regiões principais.",
       "A capital tem torres gêmeas que foram as mais altas do mundo.",
@@ -1791,6 +1859,7 @@ const dataPlace = [
   },
   {
     answer: "Barcelona",
+    suport: ["Cidade", "Espanha"],
     tips: [
       "É uma cidade costeira no sul da Europa conhecida por sua arte e arquitetura.",
       "A língua oficial local é diferente do idioma nacional.",
@@ -1811,6 +1880,7 @@ const dataPlace = [
   },
   {
     answer: "Oslo",
+    suport: ["Cidade", "Noruega"],
     tips: [
       "É a capital de um país escandinavo conhecido por seus fiordes.",
       "A cidade está situada em um fiorde e cercada por colinas e florestas.",
@@ -1831,6 +1901,7 @@ const dataPlace = [
   },
   {
     answer: "Nigéria",
+    suport: ["País", "África"],
     tips: [
       "É um país africano com a maior população do continente.",
       "A capital foi transferida para uma cidade planejada no interior.",
@@ -1851,6 +1922,7 @@ const dataPlace = [
   },
   {
     answer: "Tailândia",
+    suport: ["País", "Ásia"],
     tips: [
       "É um país no sudeste asiático famoso por suas praias e templos.",
       "A capital é conhecida por seu grande palácio e templos históricos.",
@@ -1871,6 +1943,7 @@ const dataPlace = [
   },
   {
     answer: "Milão",
+    suport: ["Cidade", "Itália"],
     tips: [
       "É uma cidade no norte da Itália famosa por sua moda e design.",
       "A cidade é um importante centro financeiro e de negócios.",
@@ -1891,6 +1964,7 @@ const dataPlace = [
   },
   {
     answer: "Turquia",
+    suport: ["País", "Europa", "Ásia"],
     tips: [
       "É um país que fica em dois continentes, Europa e Ásia.",
       "A cidade de Istambul é famosa por sua história e arquitetura.",
@@ -1911,6 +1985,7 @@ const dataPlace = [
   },
   {
     answer: "Vancouver",
+    suport: ["Cidade", "Canadá"],
     tips: [
       "É uma cidade costeira no oeste de um grande país da América do Norte.",
       "Cercada por montanhas e o Oceano Pacífico.",
@@ -1931,6 +2006,7 @@ const dataPlace = [
   },
   {
     answer: "Nova Zelândia",
+    suport: ["País", "Oceania"],
     tips: [
       "É um país insular no sudoeste do Oceano Pacífico, composto por duas ilhas principais.",
       "Famoso por suas paisagens deslumbrantes que foram cenários de filmes épicos.",
@@ -1951,6 +2027,7 @@ const dataPlace = [
   },
   {
     answer: "Phoenix",
+    suport: ["Cidade", "Estados Unidos"],
     tips: [
       "É a capital de um estado no sudoeste dos Estados Unidos.",
       "Conhecida por seu clima extremamente quente e seco, especialmente no verão.",
@@ -1971,6 +2048,7 @@ const dataPlace = [
   },
   {
     answer: "Holanda",
+    suport: ["País", "Europa"],
     tips: [
       "É um país europeu famoso por suas planícies, tulipas e moinhos de vento.",
       "A língua oficial é uma língua germânica.",
@@ -1991,6 +2069,7 @@ const dataPlace = [
   },
   {
     answer: "Rio de Janeiro",
+    suport: ["Cidade", "Brasil"],
     tips: [
       "É uma cidade costeira em um país sul-americano famosa por suas praias icônicas.",
       "A cidade é cercada por montanhas e uma famosa estátua de braços abertos.",
@@ -2011,7 +2090,7 @@ const dataPlace = [
   },
   {
     answer: "Cabo Canaveral",
-    suport: ["Flórida"],
+    suport: ["Cidade", "Estados Unidos"],
     tips: [
       "É um local na costa atlântica dos Estados Unidos conhecido por lançamentos espaciais.",
       "O centro espacial é administrado por uma agência governamental.",
@@ -2032,6 +2111,7 @@ const dataPlace = [
   },
   {
     answer: "Bélgica",
+    suport: ["País", "Europa"],
     tips: [
       "É um pequeno país europeu famoso por suas cervejas e chocolates.",
       "A capital é também a sede de muitas instituições da União Europeia.",
@@ -2052,6 +2132,7 @@ const dataPlace = [
   },
   {
     answer: "Luxemburgo",
+    suport: ["País", "Europa"],
     tips: [
       "É um pequeno país europeu com uma das maiores rendas per capita do mundo.",
       "A capital tem o mesmo nome do país.",
@@ -2072,6 +2153,7 @@ const dataPlace = [
   },
   {
     answer: "Cidade do México",
+    suport: ["Cidade", "México"],
     tips: [
       "É a capital de um grande país da América Latina.",
       "A cidade está situada em um vale cercado por montanhas e vulcões.",
@@ -2092,6 +2174,7 @@ const dataPlace = [
   },
   {
     answer: "Irã",
+    suport: ["País", "Ásia"],
     tips: [
       "É um país no Oriente Médio com uma rica história e cultura antiga.",
       "O império Persa é uma parte significativa de sua herança.",
@@ -2112,6 +2195,7 @@ const dataPlace = [
   },
   {
     answer: "Montreal",
+    suport: ["Cidade", "Canadá"],
     tips: [
       "É uma cidade insular na província de Quebec.",
       "A língua oficial é uma língua românica.",
@@ -2132,6 +2216,7 @@ const dataPlace = [
   },
   {
     answer: "Hungria",
+    suport: ["País", "Europa"],
     tips: [
       "É um país na Europa Central conhecido por suas águas termais.",
       "A capital é dividida pelo rio Danúbio.",
@@ -2152,6 +2237,7 @@ const dataPlace = [
   },
   {
     answer: "República Tcheca",
+    suport: ["País", "Europa"],
     tips: [
       "É um país da Europa Central conhecido por suas cidades medievais.",
       "A capital é famosa por seu castelo e uma antiga ponte.",
@@ -2172,6 +2258,7 @@ const dataPlace = [
   },
   {
     answer: "Recife",
+    suport: ["Cidade", "Brasil"],
     tips: [
       "É uma cidade costeira no nordeste do Brasil.",
       "Conhecida como a 'Veneza brasileira' por seus muitos canais e pontes.",
@@ -2192,6 +2279,7 @@ const dataPlace = [
   },
   {
     answer: "Portugal",
+    suport: ["País", "Europa"],
     tips: [
       "É um país no sudoeste da Europa, conhecido por suas paisagens costeiras.",
       "A língua oficial é uma língua românica.",
@@ -2211,28 +2299,8 @@ const dataPlace = [
     ],
   },
   {
-    answer: "Rússia",
-    tips: [
-      "É o maior país do mundo em termos de área.",
-      "A língua oficial é uma língua eslava.",
-      "A culinária inclui pratos como borscht e pelmeni.",
-      "O país tem uma rica tradição literária com autores como Tolstói e Dostoiévski.",
-      "A capital tem um famoso Kremlin e uma catedral colorida.",
-      "O país é conhecido por seu balé, especialmente o Bolshoi.",
-      "A transiberiana é a ferrovia mais longa do mundo.",
-      "Celebram o Dia da Vitória em 9 de maio.",
-      "O país tem vastas reservas de petróleo e gás natural.",
-      "A música clássica é valorizada, com compositores como Tchaikovsky.",
-      "A cidade de São Petersburgo é famosa por seus canais e palácios.",
-      "A arquitetura inclui muitos edifícios com cúpulas em forma de cebola.",
-      "O país tem uma rica tradição de teatro e cinema.",
-      "O inverno é rigoroso, especialmente na Sibéria.",
-      "O xadrez é um esporte muito popular e tradicional.",
-    ],
-  },
-  {
     answer: "Copacabana",
-    suport: ["Rio de Janeiro", "Brasil"],
+    suport: ["Bairro", "Rio de Janeiro"],
     tips: [
       "É um famoso bairro localizado em uma cidade costeira sul-americana.",
       "Conhecido por sua extensa praia em formato de meia-lua.",
@@ -2253,6 +2321,7 @@ const dataPlace = [
   },
   {
     answer: "Escócia",
+    suport: ["País", "Europa"],
     tips: [
       "Suas paisagens misturam montanhas, castelos e lagos profundos.",
       "A cor verde é quase onipresente nas suas colinas e planícies.",
@@ -2273,6 +2342,7 @@ const dataPlace = [
   },
   {
     answer: "Vaticano",
+    suport: ["Cidade-Estado", "Europa"],
     tips: [
       "Este é o menor Estado soberano do mundo em extensão.",
       "Guarda uma coleção inestimável de obras de arte.",
@@ -2293,6 +2363,7 @@ const dataPlace = [
   },
   {
     answer: "Bangkok",
+    suport: ["Cidade", "Tailândia"],
     tips: [
       "Esta cidade é um grande centro de negócios e cultura na Ásia.",
       "A vida noturna é conhecida por sua energia e criatividade.",
@@ -2313,6 +2384,7 @@ const dataPlace = [
   },
   {
     answer: "Budapeste",
+    suport: ["Cidade", "Hungria"],
     tips: [
       "Esta cidade é dividida em duas partes principais, separadas por um rio.",
       "Famosa por suas termas e spas desde a época romana.",
@@ -2333,6 +2405,7 @@ const dataPlace = [
   },
   {
     answer: "Estocolmo",
+    suport: ["Cidade", "Suécia"],
     tips: [
       "Esta cidade está espalhada por várias ilhas, conectadas por pontes.",
       "É conhecida por sua qualidade de vida e sustentabilidade.",
@@ -2353,6 +2426,7 @@ const dataPlace = [
   },
   {
     answer: "Salém",
+    suport: ["Cidade", "Estados Unidos"],
     tips: [
       "Esta cidade é famosa por uma 'caça' que ocorreu séculos atrás.",
       "Há lendas de bruxas e encantamentos associados ao lugar.",
@@ -2897,6 +2971,111 @@ const dataPlace = [
     ],
   },
   {
+    answer: "Norte do Brasil",
+    suport: ["Região"],
+    tips: [
+      "Guarda a maior floresta tropical do mundo.",
+      "Tem uma das maiores biodiversidades do planeta.",
+      "Suas águas podem ser doces e misteriosas.",
+      "Onde o sol e a chuva dançam em sincronia quase todos os dias.",
+      "É conhecida por lendas de criaturas fantásticas.",
+      "Abriga tribos indígenas com línguas e culturas únicas.",
+      "O céu reflete um 'mar verde' inigualável.",
+      "Uma região em que a água é tão importante quanto a terra.",
+      "A economia local gira em torno de riquezas naturais, como madeira e minerais.",
+      "Alguns de seus rios são tão extensos quanto pequenos países.",
+      "Tem uma cidade famosa que já foi chamada de 'Paris dos Trópicos.'",
+      "De tempos em tempos, vive a cheia e a seca.",
+      "Onde o ritmo regional tem influência caribenha e indígena.",
+      "Abriga uma das maiores reservas de minério de ferro do mundo.",
+      "Sua área é maior do que muitos países ao redor do globo."
+    ]
+  },
+  {
+    answer: "Nordeste do Brasil",
+    suport: ["Região"],
+    tips: [
+      "É uma terra de sol intenso e cores vibrantes.",
+      "Seus pratos típicos são tão picantes quanto seu clima.",
+      "Traz o ritmo e a dança no sangue.",
+      "Tem paisagens que vão do sertão árido às praias paradisíacas.",
+      "Suas festas são famosas e atraem pessoas do mundo inteiro.",
+      "Abriga um vasto semiárido, onde o verde luta contra o cinza.",
+      "Foi o ponto inicial de chegada dos colonizadores portugueses.",
+      "A literatura local exalta seus heróis e sua história.",
+      "A maior parte de seu litoral é voltada para o Atlântico.",
+      "Onde o forró é tão popular quanto a respiração.",
+      "É marcada pela presença de um bioma seco, mas cheio de vida.",
+      "Abriga montanhas de sal e reservas de petróleo no mar.",
+      "Tem uma forte herança africana em sua cultura.",
+      "Seus costumes e tradições são transmitidos de geração em geração.",
+      "Possui uma cidade conhecida como 'Veneza Brasileira.'"
+    ]
+  },
+  {
+    answer: "Centro-Oeste do Brasil",
+    suport: ["Região"],
+    tips: [
+      "Onde o céu parece mais próximo da terra.",
+      "Tem uma paisagem que se transforma entre o cerrado e o pantanal.",
+      "Conhecida por seu gado e por campos vastos.",
+      "Tem um bioma de vegetação rasteira e árvores retorcidas.",
+      "Possui um dos maiores complexos de água doce do planeta.",
+      "É o lar de diversas espécies de animais aquáticos e terrestres.",
+      "Abriga uma capital moderna que foi planejada em forma de avião.",
+      "Em sua fauna, o jacaré divide espaço com onças e araras.",
+      "Recebe pessoas de todas as regiões do país em busca de trabalho.",
+      "Sua economia é impulsionada pela agricultura e pecuária.",
+      "Onde as chuvas de verão enchem os rios e transformam as paisagens.",
+      "Suas planícies são ideais para observar o horizonte sem fim.",
+      "Sua natureza exuberante atrai turistas e cientistas.",
+      "É um lugar de grandes propriedades e vastas fazendas.",
+      "A capital local foi considerada Patrimônio da Humanidade pela UNESCO."
+    ]
+  },
+  {
+    answer: "Sudeste do Brasil",
+    suport: ["Região"],
+    tips: [
+      "Sua população é uma das mais densas do país.",
+      "Traz a mistura de urbanismo e natureza em contraste constante.",
+      "Onde as montanhas escondem vales de café.",
+      "É uma das regiões mais industrializadas do país.",
+      "Possui metrópoles que nunca dormem.",
+      "Sua economia é uma das mais dinâmicas e diversificadas do Brasil.",
+      "Já foi palco da corrida do ouro, em tempos coloniais.",
+      "O samba e o futebol têm raízes fortes em sua cultura.",
+      "Seu litoral tem praias que atraem turistas do mundo inteiro.",
+      "Abriga a maior cidade do Hemisfério Sul.",
+      "Muitos a consideram o 'motor econômico' do país.",
+      "Seu clima varia entre quente, ameno e, às vezes, frio nas montanhas.",
+      "É cercada de serra e mar, com paisagens de tirar o fôlego.",
+      "Onde o carnaval é uma celebração conhecida internacionalmente.",
+      "É a região com a maior quantidade de arranha-céus."
+    ]
+  },
+  {
+    answer: "Sul do Brasil",
+    suport: ["Região"],
+    tips: [
+      "Conhecida pelo inverno rigoroso e até neve em alguns pontos.",
+      "Suas tradições têm forte influência europeia.",
+      "Uma região onde chimarrão e churrasco são tradições sagradas.",
+      "É famosa pelas vinícolas e pelo cultivo de uvas.",
+      "Suas festas têm sotaques distintos, entre o português e o alemão.",
+      "Tem uma das cidades mais frias do país.",
+      "Muitas vezes, o vento é tão forte quanto a vontade do povo.",
+      "Sua economia é marcada pela agricultura e pela indústria.",
+      "É onde floresce a cultura gaúcha.",
+      "Suas paisagens vão das praias às serras cobertas de araucárias.",
+      "Há quem diga que seu sotaque soa diferente do resto do país.",
+      "Tem uma gastronomia que mistura tradições de vários continentes.",
+      "Abriga cidades onde se fala alemão e italiano nas ruas.",
+      "Suas festas típicas atraem visitantes em todas as estações.",
+      "No outono, suas paisagens ficam ainda mais coloridas, com folhas que caem."
+    ]
+  },
+  {
     answer: "Celeiro",
     tips: [
       "É um local tipicamente encontrado em áreas rurais.",
@@ -2938,6 +3117,7 @@ const dataPlace = [
   },
   {
     answer: "Lua",
+    suport: ["Satélite"],
     tips: [
       "Este lugar tem ciclos visíveis a partir de um ponto específico.",
       "Seu terreno é pontilhado por marcas de impacto.",
@@ -2958,6 +3138,7 @@ const dataPlace = [
   },
   {
     answer: "Marte",
+    suport: ["Planeta"],
     tips: [
       "É conhecido por sua cor distintiva.",
       "Abriga a maior montanha e a maior depressão de seu sistema.",
@@ -2978,6 +3159,7 @@ const dataPlace = [
   },
   {
     answer: "Saturno",
+    suport: ["Planeta"],
     tips: [
       "Ocupa a sexta posição em relação à sua estrela.",
       "Conhecido por um sistema espetacular e extenso ao seu redor.",
@@ -2998,7 +3180,7 @@ const dataPlace = [
   },
   {
     answer: "Deserto do Saara",
-    suport: ["África"],
+    suport: ["Região", "África"],
     tips: [
       "É um lugar onde a vida luta para sobreviver.",
       "Muitos o veem como uma vastidão sem fim.",
@@ -3040,7 +3222,7 @@ const dataPlace = [
   },
   {
     answer: "Transilvânia",
-    suport: ["Romênia"],
+    suport: ["Região", "Romênia"],
     tips: [
       "Esta região fica na Europa e é cercada por montanhas imponentes.",
       "Tornou-se famosa por ser cenário de obras literárias e filmes de terror.",
@@ -3061,7 +3243,7 @@ const dataPlace = [
   },
   {
     answer: "Vale do Silício",
-    suport: ["Estados Unidos"],
+    suport: ["Região", "Estados Unidos"],
     tips: [
       "Este local é conhecido por concentrar empresas que mudaram o mundo.",
       "Na década de 1950, era uma área rural e agrícola.",
@@ -3082,6 +3264,7 @@ const dataPlace = [
   },
   {
     answer: "Groelândia",
+    suport: ["País", "Dinamarca"],
     tips: [
       "Este local está entre os maiores territórios com pouca população do mundo.",
       "Grande parte de seu solo permanece congelado ao longo do ano.",
@@ -3102,6 +3285,7 @@ const dataPlace = [
   },
   {
     answer: "Suíça",
+    suport: ["País", "Europa"],
     tips: [
       "Esta região é famosa por suas paisagens montanhosas e lagos cristalinos.",
       "Seu sistema bancário é um dos mais antigos e respeitados do mundo.",
@@ -3687,111 +3871,6 @@ const dataPlace = [
     ],
   },
   {
-    answer: "Nordeste do Brasil",
-    suport: ["Região"],
-    tips: [
-      "Aqui, o calor é tanto no clima quanto no coração de seu povo.",
-      "Festas tradicionais iluminam as noites e ecoam pelas ruas.",
-      "O sotaque marcante carrega a musicalidade local.",
-      "Riquezas naturais e culturais se entrelaçam em suas paisagens.",
-      "É conhecida por suas praias de águas mornas e areia branca.",
-      "Os pratos típicos misturam sabores do mar e temperos picantes.",
-      "A seca é uma realidade que molda tanto a paisagem quanto os costumes.",
-      "Danças populares e ritmos contagiantes nascem em cada canto.",
-      "Os sertões daqui têm histórias de luta e resistência.",
-      "Artesanato e rendas típicas colorem mercados locais.",
-      "Povos indígenas e africanos deixaram suas marcas profundas aqui.",
-      "São comuns paisagens de dunas, chapadas e sertões.",
-      "A cultura local resiste e se reinventa com o passar dos anos.",
-      "É conhecida por sua hospitalidade e pelos sotaques diversos.",
-      "Aqui, o céu é vasto, e as estrelas parecem mais próximas.",
-    ],
-  },
-  {
-    answer: "Centro-Oeste do Brasil",
-    suport: ["Região"],
-    tips: [
-      "É uma região de savanas tropicais e chapadas imponentes.",
-      "A agricultura é uma de suas forças econômicas.",
-      "Possui um clima que mistura calor intenso e noites frias.",
-      "Está localizado em uma posição estratégica no país.",
-      "É famoso por suas áreas protegidas e biodiversidade.",
-      "Grandes rios cortam suas terras, ajudando na irrigação.",
-      "Muitos parques nacionais preservam suas paisagens únicas.",
-      "Seu solo vermelho é símbolo de produtividade e riqueza.",
-      "É conhecido como o 'celeiro' devido à sua produção agrícola.",
-      "Planaltos e planícies se espalham por suas terras.",
-      "A arquitetura de uma de suas cidades é única e planejada.",
-      "É uma região onde a modernidade se mistura com a natureza.",
-      "Tem uma vida noturna animada, mas também é pacata no interior.",
-      "É marcado por uma cultura influenciada pelos estados vizinhos.",
-      "Sua fauna é rica em animais típicos das áreas de cerrado.",
-    ],
-  },
-  {
-    answer: "Norte do Brasil",
-    suport: ["Região"],
-    tips: [
-      "Uma das maiores riquezas do mundo em biodiversidade.",
-      "As águas caudalosas serpenteiam por sua vasta extensão.",
-      "Lendas de seres misteriosos habitam as histórias locais.",
-      "A vegetação é densa, e o ar é úmido e cheio de vida.",
-      "Essa região é chamada de 'pulmão' por seu impacto global.",
-      "Povos indígenas preservam suas culturas e tradições aqui.",
-      "Cada árvore, cada som, parece carregar um segredo ancestral.",
-      "É lar de espécies que não existem em mais nenhum lugar.",
-      "A fauna inclui grandes felinos e aves coloridas.",
-      "Pesquisadores do mundo todo vêm estudar seus ecossistemas.",
-      "É uma das regiões com maior volume de chuvas do país.",
-      "Pode-se passar dias explorando seus rios e ainda descobrir algo novo.",
-      "Em algumas áreas, o acesso é possível apenas por rios ou ar.",
-      "Possui uma importância vital para o equilíbrio climático.",
-      "Aqui, a natureza reina de forma quase intocada.",
-    ],
-  },
-  {
-    answer: "Sudeste do Brasil",
-    suport: ["Região"],
-    tips: [
-      "É onde a inovação se mistura com antigas tradições culturais.",
-      "Montanhas e praias convivem em harmonia ao longo de suas fronteiras.",
-      "A vida é intensa, e o trânsito faz parte do cotidiano de muitos.",
-      "É um polo econômico, atraindo pessoas de todos os lugares.",
-      "A diversidade cultural enriquece sua gastronomia e suas festas.",
-      "A influência de migrantes moldou suas grandes cidades.",
-      "Possui centros financeiros e culturais de renome.",
-      "Aqui se encontram algumas das maiores metrópoles do país.",
-      "O clima é temperado, mas a região tem estações bem marcadas.",
-      "É o local de origem de muitos movimentos culturais.",
-      "A arquitetura é um misto de história e modernidade.",
-      "A música local é reconhecida mundialmente por seus ritmos e letras.",
-      "Suas praias são destino tanto de turismo quanto de negócios.",
-      "É um dos principais polos de indústria e comércio.",
-      "Em suas cidades, há festivais que celebram a mistura de culturas.",
-    ],
-  },
-  {
-    answer: "Sul do Brasil",
-    suport: ["Região"],
-    tips: [
-      "O clima é mais ameno, e as estações são bem definidas.",
-      "Em algumas épocas do ano, a paisagem é coberta por geada.",
-      "A tradição de colonizadores europeus é marcante aqui.",
-      "Suas cidades remetem a vilarejos antigos, com casas de estilo europeu.",
-      "A gastronomia é famosa por pratos que aquecem em dias frios.",
-      "Montanhas e vales compõem cenários cinematográficos.",
-      "A produção de vinhos e queijos é tradição entre suas colinas.",
-      "Suas festas celebram a herança cultural de imigrantes.",
-      "Em épocas de frio extremo, chega a nevar em alguns lugares.",
-      "A vida campestre convive com centros urbanos acolhedores.",
-      "Campos, araucárias e rios são paisagens típicas da região.",
-      "É conhecida pelos festivais de inverno e por suas vilas encantadoras.",
-      "É uma região procurada para ecoturismo e descanso.",
-      "A música e dança típicas refletem raízes estrangeiras.",
-      "Suas serras e planaltos são cobertos por vegetação nativa.",
-    ],
-  },
-  {
     answer: "País das Maravilhas",
     suport: ["Lugar Fictício", "Alice no País das Maravilhas"],
     tips: [
@@ -4191,26 +4270,6 @@ const dataPlace = [
       "Nos dias de tempestade, ele é um espetáculo de forças incontroláveis.",
       "Dizem que quem chega lá nunca retorna o mesmo.",
       "A atmosfera é tão rarefeita quanto carregada de mistérios.",
-    ],
-  },
-  {
-    answer: "McDonald's",
-    tips: [
-      "É uma cadeia de restaurantes mundialmente famosa.",
-      "Foi fundada na década de 1940.",
-      "Sua sede fica nos Estados Unidos.",
-      "É conhecida pelo seu logotipo amarelo.",
-      "Introduziu um personagem palhaço em suas campanhas publicitárias.",
-      "Oferece refeições rápidas e acessíveis.",
-      "Tem um famoso sanduíche de dois andares.",
-      "Possui mais de 36.000 locais em todo o mundo.",
-      "Introduziu um menu de café da manhã popular.",
-      "Está presente em mais de 100 países.",
-      "Tem um programa de brinquedos com refeições infantis.",
-      "É conhecida por seus arcos dourados.",
-      "O frango empanado é um item popular do menu.",
-      "Oferece café e sobremesas.",
-      "Iniciou o conceito de 'drive-thru'.",
     ],
   },
   {
@@ -4677,7 +4736,7 @@ const dataPlace = [
   },
   {
     answer: "Ilha de Páscoa",
-    suport: ["Chile"],
+    suport: ["Ilha", "Chile"],
     tips: [
       "É uma ilha remota no Oceano Pacífico.",
       "Pertence a um país sul-americano.",
@@ -4866,7 +4925,7 @@ const dataPlace = [
   },
   {
     answer: "Ilhas Galápagos",
-    suport: ["Equador"],
+    suport: ["Arquipélago", "Equador"],
     tips: [
       "São um arquipélago famoso no Oceano Pacífico.",
       "Pertencem a um país sul-americano.",
@@ -5076,7 +5135,7 @@ const dataPlace = [
   },
   {
     answer: "Floresta Amazônica",
-    suport: ["Brasil"],
+    suport: ["América do Sul"],
     tips: [
       "É uma das regiões mais biodiversas do planeta.",
       "A bruma e o canto dos pássaros dominam suas manhãs.",
@@ -5097,7 +5156,7 @@ const dataPlace = [
   },
   {
     answer: "Guadalajara",
-    suport: ["México"],
+    suport: ["Cidade", "México"],
     tips: [
       "Esta cidade é famosa por suas raízes culturais e históricas.",
       "É uma metrópole vibrante, com festas e tradições populares.",
@@ -5118,6 +5177,7 @@ const dataPlace = [
   },
   {
     answer: "Madagascar",
+    suport: ["País", "África"],
     tips: [
       "É uma ilha cercada por mistérios e biodiversidade única.",
       "Seus habitantes vivem em contato próximo com a natureza.",
@@ -5306,7 +5366,7 @@ const dataPlace = [
   },
   {
     answer: "Ilha de Alcatraz",
-    suport: ["São Francisco", "Estados Unidos"],
+    suport: ["Estados Unidos"],
     tips: [
       "É uma pequena ilha localizada na baía de uma cidade dos EUA.",
       "Foi usada como fortificação militar antes de se tornar uma prisão.",

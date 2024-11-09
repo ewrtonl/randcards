@@ -6,8 +6,8 @@ import {
   Television,
   Shuffle,
   HouseLine,
-  Island,
-  Person,
+  GlobeHemisphereWest,
+  PersonArmsSpread,
 } from "@phosphor-icons/react";
 
 export default function GameMode() {
@@ -35,7 +35,7 @@ export default function GameMode() {
       <div className="gameMode">
         <Link to={"/personcard"} className="link">
           <button className="btnOne">
-            pessoa <Person size={28} />
+            pessoa <PersonArmsSpread size={28} />
           </button>
         </Link>
 
@@ -47,7 +47,7 @@ export default function GameMode() {
 
         <Link to={"/placecard"} className="link">
           <button className="btnThree">
-            lugar <Island size={30} />
+            lugar <GlobeHemisphereWest size={30} />
           </button>
         </Link>
 
