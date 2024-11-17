@@ -18,20 +18,33 @@
 
 h4 {
   text-align: center;
+  color: rgba(37, 37, 37, 0.5);
+  font-size: 15px;
 }
 
 .cardPersonContainer h2 {
-  background-color: #5dd477;
   font-size: 20px;
-  border-radius: 10px;
-  padding: 15px;
-  width: 100%;
-  text-align: center;
+  letter-spacing: -0.5px;
+  color: rgba(0, 0, 0, 0.7);
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.cardPersonAnswer {
+  background-color: #5dd477;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 4px,
-    rgba(0, 0, 0, 0.1) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+  rgba(0, 0, 0, 0.1) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+  border-radius: 10px;
+  padding: 25px 15px;
+  text-align: center;
+  width: 100%;
+  min-height: 70px;
+  height: auto;
 
   display: flex;
   flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
 .backButton {
@@ -77,6 +90,8 @@ h4 {
   font-weight: 500;
 
   cursor: pointer;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.35);
 }
 
 .odd-tip {
@@ -87,11 +102,14 @@ h4 {
   font-weight: 500;
 
   cursor: pointer;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.35);
 }
 
 .clicked-tip {
-  color: rgba(153, 153, 153, 0.25);
-
+  /*color: rgba(153, 153, 153, 0.25);*/
+  text-align: left;
+  color: #2c2c2c;
 }
 
 .tipsBox::-webkit-scrollbar {

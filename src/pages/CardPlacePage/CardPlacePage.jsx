@@ -45,7 +45,8 @@ export default function CardPlacePage() {
             } ${clickedTipIndices.includes(index) ? "clicked-tip" : ""}`}
             onClick={() => handleTipClick(index)}
           >
-            <span className="tip-index">{index + 1} </span> {tip}
+            <span className="tip-index">{index + 1}</span>
+            {clickedTipIndices.includes(index) && ` ${tip}`}
           </li>
         ))}
       </ul>
@@ -64,12 +65,13 @@ export default function CardPlacePage() {
         {dataPlace[randomNumber].answer && (
           <>
             <h4>LUGAR</h4>
-            <h2>
-              {dataPlace[randomNumber].answer}{" "}
+
+            <div className="cardPlaceAnswer">
+              <h2>{dataPlace[randomNumber].answer}</h2>
 
               {dataPlace[randomNumber].suport && <Suport suport={dataPlace[randomNumber].suport} />}
-            </h2>
-
+            </div>
+            
             <div className="tipsBox">
               <TipsList tips={dataPlace[randomNumber].tips} />
             </div>
@@ -80,7 +82,6 @@ export default function CardPlacePage() {
           <div className="cardPower">
             <div>
               <CrownSimple size={32} />
-              <h4>CARD ESPECIAL</h4>
             </div>
 
             <h3>{dataPlace[randomNumber].power}</h3>

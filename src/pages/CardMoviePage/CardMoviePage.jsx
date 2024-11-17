@@ -45,13 +45,14 @@ export default function CardMoviePage() {
             } ${clickedTipIndices.includes(index) ? "clicked-tip" : ""}`}
             onClick={() => handleTipClick(index)}
           >
-            <span className="tip-index">{index + 1} </span> {tip}
+            <span className="tip-index">{index + 1}</span>
+            {clickedTipIndices.includes(index) && ` ${tip}`}
           </li>
         ))}
       </ul>
     );
   };
-
+  
   return (
     <div>
       <Link to={"/gamemode"}>
@@ -64,11 +65,12 @@ export default function CardMoviePage() {
         {dataMovie[randomNumber].answer && (
           <>
             <h4>FILME & TV</h4>
-            <h2>
-              {dataMovie[randomNumber].answer}{" "}
+
+            <div className="cardMovieAnswer">
+              <h2>{dataMovie[randomNumber].answer}</h2>
 
               {dataMovie[randomNumber].suport && <Suport suport={dataMovie[randomNumber].suport} />}
-            </h2>
+            </div>
 
             <div className="tipsBox">
               <TipsList tips={dataMovie[randomNumber].tips} />
@@ -80,7 +82,6 @@ export default function CardMoviePage() {
           <div className="cardPower">
             <div>
               <CrownSimple size={32} />
-              <h4>CARD ESPECIAL</h4>
             </div>
 
             <h3>{dataMovie[randomNumber].power}</h3>

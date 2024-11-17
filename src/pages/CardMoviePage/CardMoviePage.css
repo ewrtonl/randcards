@@ -1,49 +1,71 @@
 .cardMovieContainer {
-    width: 90vw;
-    max-width: 450px;
-    background-color: rgba(255, 255, 255, .75);
-    padding: 20px;
-    border-radius: 15px;
-    color: #252525;
-    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
-    
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 20px;
+  width: 90vw;
+  max-width: 450px;
+  background-color: rgba(255, 255, 255, 0.75);
+  padding: 20px;
+  border-radius: 15px;
+  color: #252525;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px,
+    rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
 
-    max-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+
+  max-height: 80vh;
 }
 
 .cardMovieContainer h2 {
-    background-color: #ff6767;
-    font-size: 20px;
-    border-radius: 10px;
-    padding: 15px;
-    width: 100%;
-    text-align: center;
-    box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 4px, rgba(0, 0, 0, 0.1) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+  font-size: 20px;
+  letter-spacing: -0.5px;
+  color: rgba(0, 0, 0, 0.7);
+  font-weight: 900;
+  text-transform: uppercase;
+}
 
-    display: flex;
-    flex-direction: column;
+.cardMovieAnswer {
+  background-color: #ff6767;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 4px,
+    rgba(0, 0, 0, 0.1) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+  border-radius: 10px;
+  padding: 25px 15px;
+  text-align: center;
+  width: 100%;
+  min-height: 70px;
+  height: auto;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
 .even-tip-movie {
-    background-color: rgba(255, 80, 80, .13);            
-    padding: 10px;
-    border-radius: 10px;
-    margin: 7px 0;
-    font-weight: 500;
+  background-color: rgba(255, 80, 80, 0.13);
+  padding: 10px;
+  border-radius: 10px;
+  margin: 7px 0;
+  font-weight: 500;
 
-    cursor: pointer;
+  cursor: pointer;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.35);
 }
-  
-.odd-tip-movie {
-    background-color: rgba(255, 58, 58, 0.24);
-    padding: 10px;
-    border-radius: 10px;
-    margin: 7px 0;
-    font-weight: 500;
 
-    cursor: pointer;
+.odd-tip-movie {
+  background-color: rgba(255, 58, 58, 0.24);
+  padding: 10px;
+  border-radius: 10px;
+  margin: 7px 0;
+  font-weight: 500;
+
+  cursor: pointer;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.35);
+}
+
+.clicked-tip {
+  text-align: left;
+  color: #2c2c2c;
 }

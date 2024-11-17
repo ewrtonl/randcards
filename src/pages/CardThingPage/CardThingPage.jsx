@@ -31,8 +31,26 @@ export default function CardThingPage() {
           <span key={index}>{suport}</span>
         ))}
       </div>
-    )
-  }
+    );
+  };
+
+  /*const TipsLista = ({ tips }) => {
+    return (
+      <ul>
+        {tips.map((tip, index) => (
+          <li
+            key={index}
+            className={`${
+              index % 2 === 0 ? "even-tip-thing" : "odd-tip-thing"
+            } ${clickedTipIndices.includes(index) ? "clicked-tip" : ""}`}
+            onClick={() => handleTipClick(index)}
+          >
+            <span className="tip-index">{index + 1} </span> {tip}
+          </li>
+        ))}
+      </ul>
+    );
+  }; */
 
   const TipsList = ({ tips }) => {
     return (
@@ -45,7 +63,8 @@ export default function CardThingPage() {
             } ${clickedTipIndices.includes(index) ? "clicked-tip" : ""}`}
             onClick={() => handleTipClick(index)}
           >
-            <span className="tip-index">{index + 1} </span> {tip}
+            <span className="tip-index">{index + 1}</span>
+            {clickedTipIndices.includes(index) && ` ${tip}`}
           </li>
         ))}
       </ul>
@@ -64,11 +83,14 @@ export default function CardThingPage() {
         {dataThing[randomNumber].answer && (
           <>
             <h4>COISA</h4>
-            <h2>
-              {dataThing[randomNumber].answer}{" "}
 
-              {dataThing[randomNumber].suport && <Suport suport={dataThing[randomNumber].suport} />}
-            </h2>
+            <div className="cardThingAnswer">
+              <h2>{dataThing[randomNumber].answer}{" "} </h2>
+
+              {dataThing[randomNumber].suport && (
+                  <Suport suport={dataThing[randomNumber].suport} />
+                )}
+            </div>
 
             <div className="tipsBox">
               <TipsList tips={dataThing[randomNumber].tips} />
@@ -80,7 +102,6 @@ export default function CardThingPage() {
           <div className="cardPower">
             <div>
               <CrownSimple size={32} />
-              <h4>CARD ESPECIAL</h4>
             </div>
 
             <h3>{dataThing[randomNumber].power}</h3>
