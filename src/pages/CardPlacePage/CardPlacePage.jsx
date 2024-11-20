@@ -9,11 +9,17 @@ export default function CardPlacePage() {
   const [randomNumber, setRandomNumber] = useState(null);
 
   useEffect(() => {
-    setRandomNumber(Math.floor(Math.random() * dataPlace.length));
-  }, []);
+    const num1 = Math.floor(Math.random() * dataPlace.length);
+    const num2 = Math.floor(Math.random() * dataPlace.length);
+    const num3 = Math.floor(Math.random() * 4) + 1;
+  
+    const finalResult = num3 === 1 || num3 === 3 ? Math.min(num1, num2) : Math.max(num1, num2);
+  
+    setRandomNumber(finalResult);
+  }, []);  
 
   if (randomNumber === null) {
-    return null;
+    return null; 
   }
 
   const handleTipClick = (index) => {

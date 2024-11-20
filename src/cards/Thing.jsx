@@ -2271,6 +2271,146 @@ const dataThing = [
     ],
   },
   {
+    answer: "Teleférico",
+    tips: [
+      "É um meio de transporte.",
+      "Frequentemente, oferece vistas panorâmicas impressionantes.",
+      "Muitos o utilizam para chegar a locais elevados ou remotos.",
+      "É conhecido por ser tanto funcional quanto turístico.",
+      "Suas cabines deslizam suavemente entre cabos suspensos.",
+      "É um espaço onde altura e tranquilidade se encontram.",
+      "Alguns o veem como uma aventura; outros, como um desafio ao medo.",
+      "É um lugar onde a perspectiva muda completamente.",
+      "Muitos o associam a montanhas, parques ou cidades históricas.",
+      "É comum que esteja em funcionamento durante todas as estações do ano.",
+      "Seu ambiente combina tecnologia com natureza.",
+      "Está frequentemente associado a passeios memoráveis e momentos fotográficos.",
+      "Para alguns, é uma necessidade; para outros, um lazer.",
+      "É um espaço onde o tempo no ar parece mais longo do que no solo.",
+      "Sua missão é conectar lugares e proporcionar experiências únicas."
+    ]
+  },
+  {
+    answer: "Inocência",
+    tips: [
+      "É algo que muitos associam à infância.",
+      "É frequentemente retratada em histórias ou contos de fadas.",
+      "Pode ser perdida ou protegida ao longo da vida.",
+      "Na lei, está relacionada ao conceito de não culpabilidade.",
+      "Tem uma ligação simbólica com o branco.",
+      "Em várias culturas, é vista como uma virtude.",
+      "Às vezes, é confundida com ingenuidade.",
+      "Pode ser usada como argumento em debates morais.",
+      "Está presente em expressões como 'pureza de coração'.",
+      "Muitos artistas a associam a flores ou crianças em pinturas.",
+      "Pode ser um estado mental ou emocional.",
+      "Pode ser questionada em tribunais.",
+      "Está associada a uma visão otimista do mundo.",
+      "Pode ser um tema central em rituais de passagem.",
+      "Representa o estado antes de qualquer experiência negativa."
+    ]
+  },
+  {
+    answer: "Montanha-russa",
+    tips: [
+      "Pode ser um símbolo de altos e baixos emocionais.",
+      "Está associada a parques de diversões.",
+      "É usada como metáfora para mudanças repentinas.",
+      "Existem versões de madeira e de aço.",
+      "Algumas podem atingir velocidades superiores a 100 km/h.",
+      "Seu percurso frequentemente inclui inversões e quedas abruptas.",
+      "A engenharia por trás dela envolve física avançada.",
+      "Algumas são projetadas para bater recordes de altura ou velocidade.",
+      "É um tipo de entretenimento com origem na Rússia.",
+      "Emociona e apavora ao mesmo tempo.",
+      "Seus trilhos muitas vezes seguem trajetórias impossíveis na vida real.",
+      "Pode causar sensações de gravidade zero em determinados pontos.",
+      "É um dos principais atrativos de feiras temáticas.",
+      "Muitos têm medo, mas ainda assim se arriscam.",
+      "Pode durar menos de dois minutos, mas deixa lembranças por horas."
+    ]
+  },
+  {
+    answer: "Meme",
+    tips: [
+      "É uma unidade de cultura compartilhada.",
+      "Espalha-se rapidamente, principalmente na era digital.",
+      "Pode ser visual, textual ou até auditivo.",
+      "Muitas vezes envolve humor ou ironia.",
+      "Foi estudado pela primeira vez em um contexto não digital.",
+      "Evolui conforme o tempo e as interpretações.",
+      "Costuma acompanhar tendências sociais.",
+      "Pode carregar críticas ou mensagens políticas.",
+      "É criado por usuários e muitas vezes sem intenções comerciais.",
+      "Sua carga viral depende da identificação coletiva.",
+      "Pode se referir a imagens ou frases marcantes.",
+      "Muitas vezes é reutilizado e modificado para novos significados.",
+      "Alguns se tornam símbolos de movimentos sociais.",
+      "Foi originalmente descrito como um 'gene cultural'.",
+      "Representa o comportamento ou ideias de um grupo."
+    ]
+  },
+  {
+    answer: "Vida",
+    tips: [
+      "É um fenômeno estudado por diversas áreas da ciência.",
+      "Surgiu na Terra há bilhões de anos.",
+      "Pode ser microscópica ou macroscópica.",
+      "Depende de água e energia para existir.",
+      "É adaptável e resistente a condições extremas.",
+      "Está presente em todos os continentes, até nos mais inóspitos.",
+      "Evolui continuamente ao longo de eras geológicas.",
+      "É um dos maiores mistérios filosóficos.",
+      "Existe uma busca por ela em outros planetas.",
+      "Está repleta de ciclos, como o nascimento e a morte.",
+      "É simbolizada por árvores em diversas culturas.",
+      "É medida por pulsos, respiração ou crescimento.",
+      "Pode se manifestar em múltiplas formas e estruturas.",
+      "A ciência busca replicá-la em laboratório.",
+      "Representa a coexistência de caos e ordem."
+    ]
+  },
+  {
+    answer: "Black Friday",
+    tips: [
+      "É conhecida como uma data frenética.",
+      "Originou-se nos Estados Unidos, mas se espalhou pelo mundo.",
+      "Marca o início da temporada de compras de fim de ano.",
+      "Frequentemente, causa filas longas e multidões.",
+      "Muitas vezes, envolve descontos extremamente altos.",
+      "É famosa por gerar caos e, às vezes, disputas físicas.",
+      "Sua origem tem conexão com balanços financeiros positivos.",
+      "Algumas promoções podem ser enganosas.",
+      "Acontece na última sexta-feira de novembro.",
+      "Algumas lojas estendem as ofertas ao longo da semana.",
+      "No comércio eletrônico, é um dos dias mais movimentados.",
+      "É precedida por estratégias de marketing massivas.",
+      "O termo surgiu na década de 1960.",
+      "Em algumas regiões, inclui ofertas no setor de serviços.",
+      "É esperada com entusiasmo."
+    ]
+  },
+  {
+    answer: "Monarquia",
+    tips: [
+      "É uma das formas de governo mais antigas do mundo.",
+      "Geralmente, envolve sucessão hereditária.",
+      "Pode ser absoluta ou constitucional.",
+      "Muitos países modernos mantêm esse sistema.",
+      "O chefe de Estado costuma ter um título específico.",
+      "Em algumas culturas, está associada ao direito divino.",
+      "Castelos e coroas são frequentemente símbolos relacionados.",
+      "Algumas figuras históricas desse sistema são muito famosas.",
+      "Pode coexistir com parlamentos ou conselhos.",
+      "O papel do líder pode variar de cerimonial a governamental.",
+      "É comum em obras de fantasia e literatura épica.",
+      "Já foi abolida em diversos países.",
+      "Algumas famílias nesse sistema possuem legados milenares.",
+      "Está ligada à ideia de tradição e estabilidade.",
+      "O casamento de seus membros costuma ser um evento mundial."
+    ]
+  },
+  {
     answer: "Quindim",
     tips: [
       "Sua cor é um amarelo vibrante.",
@@ -16042,6 +16182,146 @@ const dataThing = [
       "Frequentemente é uma experiência compartilhada entre amigos.",
       "Pode deixar alguém temporariamente sem palavras.",
     ],
+  },
+  {
+    answer: "Teleférico",
+    tips: [
+      "É um meio de transporte.",
+      "Frequentemente, oferece vistas panorâmicas impressionantes.",
+      "Muitos o utilizam para chegar a locais elevados ou remotos.",
+      "É conhecido por ser tanto funcional quanto turístico.",
+      "Suas cabines deslizam suavemente entre cabos suspensos.",
+      "É um espaço onde altura e tranquilidade se encontram.",
+      "Alguns o veem como uma aventura; outros, como um desafio ao medo.",
+      "É um lugar onde a perspectiva muda completamente.",
+      "Muitos o associam a montanhas, parques ou cidades históricas.",
+      "É comum que esteja em funcionamento durante todas as estações do ano.",
+      "Seu ambiente combina tecnologia com natureza.",
+      "Está frequentemente associado a passeios memoráveis e momentos fotográficos.",
+      "Para alguns, é uma necessidade; para outros, um lazer.",
+      "É um espaço onde o tempo no ar parece mais longo do que no solo.",
+      "Sua missão é conectar lugares e proporcionar experiências únicas."
+    ]
+  },
+  {
+    answer: "Inocência",
+    tips: [
+      "É algo que muitos associam à infância.",
+      "É frequentemente retratada em histórias ou contos de fadas.",
+      "Pode ser perdida ou protegida ao longo da vida.",
+      "Na lei, está relacionada ao conceito de não culpabilidade.",
+      "Tem uma ligação simbólica com o branco.",
+      "Em várias culturas, é vista como uma virtude.",
+      "Às vezes, é confundida com ingenuidade.",
+      "Pode ser usada como argumento em debates morais.",
+      "Está presente em expressões como 'pureza de coração'.",
+      "Muitos artistas a associam a flores ou crianças em pinturas.",
+      "Pode ser um estado mental ou emocional.",
+      "Pode ser questionada em tribunais.",
+      "Está associada a uma visão otimista do mundo.",
+      "Pode ser um tema central em rituais de passagem.",
+      "Representa o estado antes de qualquer experiência negativa."
+    ]
+  },
+  {
+    answer: "Montanha-russa",
+    tips: [
+      "Pode ser um símbolo de altos e baixos emocionais.",
+      "Está associada a parques de diversões.",
+      "É usada como metáfora para mudanças repentinas.",
+      "Existem versões de madeira e de aço.",
+      "Algumas podem atingir velocidades superiores a 100 km/h.",
+      "Seu percurso frequentemente inclui inversões e quedas abruptas.",
+      "A engenharia por trás dela envolve física avançada.",
+      "Algumas são projetadas para bater recordes de altura ou velocidade.",
+      "É um tipo de entretenimento com origem na Rússia.",
+      "Emociona e apavora ao mesmo tempo.",
+      "Seus trilhos muitas vezes seguem trajetórias impossíveis na vida real.",
+      "Pode causar sensações de gravidade zero em determinados pontos.",
+      "É um dos principais atrativos de feiras temáticas.",
+      "Muitos têm medo, mas ainda assim se arriscam.",
+      "Pode durar menos de dois minutos, mas deixa lembranças por horas."
+    ]
+  },
+  {
+    answer: "Meme",
+    tips: [
+      "É uma unidade de cultura compartilhada.",
+      "Espalha-se rapidamente, principalmente na era digital.",
+      "Pode ser visual, textual ou até auditivo.",
+      "Muitas vezes envolve humor ou ironia.",
+      "Foi estudado pela primeira vez em um contexto não digital.",
+      "Evolui conforme o tempo e as interpretações.",
+      "Costuma acompanhar tendências sociais.",
+      "Pode carregar críticas ou mensagens políticas.",
+      "É criado por usuários e muitas vezes sem intenções comerciais.",
+      "Sua carga viral depende da identificação coletiva.",
+      "Pode se referir a imagens ou frases marcantes.",
+      "Muitas vezes é reutilizado e modificado para novos significados.",
+      "Alguns se tornam símbolos de movimentos sociais.",
+      "Foi originalmente descrito como um 'gene cultural'.",
+      "Representa o comportamento ou ideias de um grupo."
+    ]
+  },
+  {
+    answer: "Vida",
+    tips: [
+      "É um fenômeno estudado por diversas áreas da ciência.",
+      "Surgiu na Terra há bilhões de anos.",
+      "Pode ser microscópica ou macroscópica.",
+      "Depende de água e energia para existir.",
+      "É adaptável e resistente a condições extremas.",
+      "Está presente em todos os continentes, até nos mais inóspitos.",
+      "Evolui continuamente ao longo de eras geológicas.",
+      "É um dos maiores mistérios filosóficos.",
+      "Existe uma busca por ela em outros planetas.",
+      "Está repleta de ciclos, como o nascimento e a morte.",
+      "É simbolizada por árvores em diversas culturas.",
+      "É medida por pulsos, respiração ou crescimento.",
+      "Pode se manifestar em múltiplas formas e estruturas.",
+      "A ciência busca replicá-la em laboratório.",
+      "Representa a coexistência de caos e ordem."
+    ]
+  },
+  {
+    answer: "Black Friday",
+    tips: [
+      "É conhecida como uma data frenética.",
+      "Originou-se nos Estados Unidos, mas se espalhou pelo mundo.",
+      "Marca o início da temporada de compras de fim de ano.",
+      "Frequentemente, causa filas longas e multidões.",
+      "Muitas vezes, envolve descontos extremamente altos.",
+      "É famosa por gerar caos e, às vezes, disputas físicas.",
+      "Sua origem tem conexão com balanços financeiros positivos.",
+      "Algumas promoções podem ser enganosas.",
+      "Acontece na última sexta-feira de novembro.",
+      "Algumas lojas estendem as ofertas ao longo da semana.",
+      "No comércio eletrônico, é um dos dias mais movimentados.",
+      "É precedida por estratégias de marketing massivas.",
+      "O termo surgiu na década de 1960.",
+      "Em algumas regiões, inclui ofertas no setor de serviços.",
+      "É esperada com entusiasmo."
+    ]
+  },
+  {
+    answer: "Monarquia",
+    tips: [
+      "É uma das formas de governo mais antigas do mundo.",
+      "Geralmente, envolve sucessão hereditária.",
+      "Pode ser absoluta ou constitucional.",
+      "Muitos países modernos mantêm esse sistema.",
+      "O chefe de Estado costuma ter um título específico.",
+      "Em algumas culturas, está associada ao direito divino.",
+      "Castelos e coroas são frequentemente símbolos relacionados.",
+      "Algumas figuras históricas desse sistema são muito famosas.",
+      "Pode coexistir com parlamentos ou conselhos.",
+      "O papel do líder pode variar de cerimonial a governamental.",
+      "É comum em obras de fantasia e literatura épica.",
+      "Já foi abolida em diversos países.",
+      "Algumas famílias nesse sistema possuem legados milenares.",
+      "Está ligada à ideia de tradição e estabilidade.",
+      "O casamento de seus membros costuma ser um evento mundial."
+    ]
   },
   {
     answer: "Multiverso",

@@ -6014,6 +6014,186 @@ const dataMovie = [
     ],
   },
   {
+    answer: "Five Nights at Freddy's",
+    tips: [
+      "A trama se passa em um local que já foi sinônimo de diversão.",
+      "O protagonista é contratado para um trabalho noturno, aparentemente simples.",
+      "A tecnologia desempenha um papel assustador e imprevisível.",
+      "O ambiente principal é escuro e cheio de câmeras de vigilância.",
+      "A tensão aumenta conforme os dias da semana passam.",
+      "O perigo vem de figuras que deveriam ser inofensivas.",
+      "Um mistério do passado conecta os personagens à trama atual.",
+      "O silêncio do ambiente é frequentemente interrompido por ruídos repentinos.",
+      "A energia disponível é um recurso limitado e essencial.",
+      "Crianças desaparecidas são parte central da narrativa.",
+      "A história envolve vingança, remorso e segredos familiares.",
+      "Certas portas são tanto proteção quanto armadilhas.",
+      "A ideia de segurança é constantemente colocada em dúvida.",
+      "A tensão psicológica é tão intensa quanto os sustos.",
+      "O final revela o peso das escolhas passadas."
+    ]
+  },
+  {
+    answer: "Pobres Criaturas",
+    tips: [
+      "A narrativa mistura elementos de ficção científica e romance.",
+      "O protagonismo feminino traz uma visão única sobre a vida e as emoções.",
+      "Um cientista excêntrico realiza um experimento incomum e revolucionário.",
+      "A história desafia conceitos tradicionais sobre humanidade e consciência.",
+      "A estética visual mistura o gótico com o moderno.",
+      "Explora o tema da liberdade e da descoberta do próprio propósito.",
+      "A ideia de 'recriação' ganha um significado profundo.",
+      "Há uma crítica velada à opressão de valores sociais.",
+      "O tom é ao mesmo tempo humorístico e filosófico.",
+      "A protagonista faz uma jornada literal e figurativa de autodescoberta.",
+      "A ciência é vista como um instrumento tanto de criação quanto de destruição.",
+      "Uma cidade europeia é o ponto de partida da história.",
+      "Relações humanas complexas e desafiadoras estão no centro da narrativa.",
+      "O final sugere que a verdadeira liberdade vem do conhecimento.",
+      "É uma reinterpretação criativa de mitos clássicos e literários."
+    ]
+  },
+  {
+    answer: "M3GAN",
+    tips: [
+      "A trama gira em de uma boneca robótica.",
+      "Uma criança solitária é o centro de um experimento inovador.",
+      "O produto tecnológico foi projetado para ajudar, mas acaba ultrapassando limites.",
+      "O tema de inteligência artificial e responsabilidade humana é central.",
+      "A relação entre a protagonista e a máquina começa de forma inocente.",
+      "Inspirado em um filme de terror clássico de um boneco ruivo.",
+      "Questões sobre maternidade e apego emocional são exploradas.",
+      "A história faz um alerta sobre a dependência excessiva de tecnologias.",
+      "Uma amizade improvável se torna perigosa com o tempo.",
+      "Os limites entre proteção e possessividade se tornam borrados.",
+      "A tecnologia se adapta de maneiras que surpreendem seus criadores.",
+      "O tom é uma mistura de comédia, terror e suspense.",
+      "Há cenas que exploram a conexão emocional entre humanos e máquinas.",
+      "A máquina exibe habilidades inesperadas e assustadoras.",
+      "O final questiona o controle que temos sobre nossas criações."
+    ]
+  },
+  {
+    answer: "Mãe!",
+    tips: [
+      "Uma história de terror psicológico que acontece inteiramente em um único local.",
+      "Um casal vive em uma casa isolada, cercada por mistérios.",
+      "O cotidiano tranquilo é interrompido por visitantes inesperados.",
+      "A narrativa mistura simbolismos religiosos e existenciais.",
+      "O enredo é uma metáfora sobre a bíblia.",
+      "Cada personagem representa um conceito abstrato ou arquétipo.",
+      "O protagonista masculino tem uma obsessão que guia suas ações.",
+      "O clima do filme passa de desconfortável para caótico rapidamente.",
+      "Há uma crítica clara ao egoísmo e à exploração humana.",
+      "A casa é um reflexo da condição emocional da protagonista.",
+      "Tem momentos de puro surrealismo e simbolismo visual.",
+      "O ritmo crescente cria uma sensação de pânico e desespero.",
+      "Certos eventos podem ser interpretados como ciclos da vida e morte.",
+      "O título é uma referência direta à protagonista e ao tema central.",
+      "O final é circular, sugerindo repetição e inevitabilidade."
+    ]
+  },
+  {
+    answer: "A Substância",
+    tips: [
+      "É uma obra que mistura ficção científica e horror.",
+      "Aborda a relação entre consumo e comportamento humano.",
+      "Inclui um produto que se torna irresistível.",
+      "Tem críticas ao consumismo e à manipulação de massas.",
+      "Seus elementos centrais envolvem algo que é injetado.",
+      "Duas mulheres 'dividem' o mesmo corpo.",
+      "Elementos visuais remetem a filmes clássicos dos anos 1980.",
+      "Algumas cenas destacam mudanças físicas grotescas.",
+      "A narrativa contém reviravoltas que desvendam segredos ocultos.",
+      "É impactante e visceral.",
+      "Certos personagens são vítimas de obsessão incontrolável pela perfeição.",
+      "A direção foca em criar tensão e desconforto.",
+      "O produto no centro da história é tanto uma solução quanto um problema.",
+      "A trilha sonora aumenta a sensação de mistério e desconforto.",
+      "Os eventos levam a questionamentos sobre até onde a busca pela juventude pode ir."
+    ]
+  },
+  {
+    answer: "A Culpa é das Estrelas",
+    tips: [
+      "É inspirado em uma obra literária que foi sucesso mundial.",
+      "O tema central envolve duas pessoas conectadas por uma luta semelhante.",
+      "O enredo explora a relação entre amor, perda e mortalidade.",
+      "Uma cidade europeia conhecida por seus canais serve como cenário marcante.",
+      "A respiração é uma metáfora recorrente na história.",
+      "Um símbolo cotidiano, usado de forma inusitada, representa o controle sobre o destino.",
+      "A literatura tem um papel importante na conexão dos protagonistas.",
+      "Há uma cena memorável envolvendo um banco público.",
+      "A trama questiona a ideia de legado e como ser lembrado.",
+      "Um evento transformador ocorre por meio de uma fundação de desejos.",
+      "A história cita 'infinitos' e explora o que eles significam no tempo limitado.",
+      "Um certo livro fictício causa decepção, mas também aprendizado.",
+      "O título faz alusão à tragédia e à influência do destino.",
+      "Um discurso emocionante ocorre em um local sagrado e cercado por vitrais.",
+      "O final deixa uma mensagem agridoce sobre o impacto das vidas que tocamos."
+    ]
+  },
+  {
+    answer: "High School Musical",
+    tips: [
+      "A história começa durante uma festa de Ano Novo.",
+      "Um encontro inesperado muda o curso da vida escolar de duas pessoas.",
+      "Certas cenas são icônicas por suas coreografias sincronizadas.",
+      "É ambientado em uma escola com equipes esportivas competitivas.",
+      "Um teatro se torna o centro das atenções em vários momentos.",
+      "Um grupo de personagens luta contra o 'status quo' para buscar seus sonhos.",
+      "A música desempenha um papel importante no desenvolvimento da trama.",
+      "Há uma mensagem clara sobre se permitir explorar novas possibilidades.",
+      "Uma cafeteria é palco de uma revelação inesperada.",
+      "Gêmeos 'vilanescos' tentam mudar o rumo das coisas.",
+      "A pressão de um campeonato esportivo é um dos grandes conflitos.",
+      "Certas datas na história parecem sempre coincidir com grandes eventos.",
+      "Um calendário escolar tem um papel simbólico no enredo.",
+      "A música tema se tornou um hino para uma geração.",
+      "A frase 'Estamos juntos nisso' encapsula a mensagem principal."
+    ]
+  },
+  {
+    answer: "Descendentes",
+    tips: [
+      "O enredo envolve filhos de figuras famosas.",
+      "Une personagens de diferentes universos ficcionais.",
+      "A história mistura fantasia e aventura.",
+      "Explora temas como escolha entre o bem e o mal.",
+      "A trama é ambientada em uma ilha isolada.",
+      "As músicas são parte essencial da narrativa.",
+      "Alguns personagens carregam objetos mágicos.",
+      "O contraste entre duas sociedades opostas é central.",
+      "A amizade muda o destino de muitos protagonistas.",
+      "Inclui desafios envolvendo herança e identidade.",
+      "Os figurinos destacam estilos inspirados em contos de fadas.",
+      "A rivalidade entre personagens reflete as escolhas dos pais.",
+      "É uma história sobre redenção e novas chances.",
+      "A mensagem central é que não somos definidos pelo nosso passado.",
+      "Cada personagem traz referências às histórias clássicas de suas origens."
+    ]
+  },
+  {
+    answer: "A Noiva Cadáver",
+    tips: [
+      "O enredo acontece em dois mundos com contrastes visuais marcantes.",
+      "Um casamento inesperado serve como ponto de partida para a história.",
+      "O mundo dos vivos é sombrio, enquanto o dos mortos é vibrante e cheio de humor.",
+      "Um piano é central para expressar emoções de um dos protagonistas.",
+      "Uma floresta é o local onde um evento mágico e inesperado acontece.",
+      "Há uma forte presença de temas como lealdade, amor e sacrifício.",
+      "A trama explora o conceito de liberdade no amor.",
+      "Um animal com características humanas age como conselheiro.",
+      "A história inclui uma tradição cultural sobre o além-vida.",
+      "O toque final envolve borboletas que representam transformação e libertação.",
+      "Um triângulo amoroso é uma peça central da narrativa.",
+      "A justiça é feita de maneira inesperada e até cômica.",
+      "Há uma música que conta a história de um dos personagens centrais.",
+      "Uma cerimônia dá errado de uma forma muito peculiar.",
+      "O final mostra que o verdadeiro amor vai além das aparências."
+    ]
+  },
+  {
     answer: "Extraterrestre",
     suport: ["Personagem", "Literatura"],
     tips: [
@@ -6577,27 +6757,6 @@ const dataMovie = [
       "Suas aventuras são cheias de desafios e recompensas.",
       "Tem um código próprio de conduta e honra.",
       "Sua vida é uma constante busca por ouro e glória.",
-    ],
-  },
-  {
-    answer: "O Abominável Homem das Neves",
-    suport: ["Personagem", "Literatura"],
-    tips: [
-      "Habita regiões geladas e montanhosas.",
-      "Sua existência é debatida entre mito e realidade.",
-      "Deixa pegadas misteriosas na neve.",
-      "É uma criatura que causa medo e fascínio.",
-      "Suas aparições são raras e envoltas em mistério.",
-      "Está associado a lendas de povos montanheses.",
-      "É frequentemente descrito como uma grande figura peluda.",
-      "Representa o mistério das regiões inexploradas.",
-      "Suas pegadas são tema de investigação e especulação.",
-      "Várias expedições foram realizadas para encontrá-lo.",
-      "Sua imagem está ligada a contos de sobrevivência extrema.",
-      "Enfrenta o rigor das montanhas geladas.",
-      "Sua existência é um desafio para exploradores e cientistas.",
-      "Figura central em lendas e mitos alpinos.",
-      "É um símbolo do desconhecido nas alturas nevadas.",
     ],
   },
   {
@@ -14473,6 +14632,186 @@ const dataMovie = [
     ],
   },
   {
+    answer: "Five Nights at Freddy's",
+    tips: [
+      "A trama se passa em um local que já foi sinônimo de diversão.",
+      "O protagonista é contratado para um trabalho noturno, aparentemente simples.",
+      "A tecnologia desempenha um papel assustador e imprevisível.",
+      "O ambiente principal é escuro e cheio de câmeras de vigilância.",
+      "A tensão aumenta conforme os dias da semana passam.",
+      "O perigo vem de figuras que deveriam ser inofensivas.",
+      "Um mistério do passado conecta os personagens à trama atual.",
+      "O silêncio do ambiente é frequentemente interrompido por ruídos repentinos.",
+      "A energia disponível é um recurso limitado e essencial.",
+      "Crianças desaparecidas são parte central da narrativa.",
+      "A história envolve vingança, remorso e segredos familiares.",
+      "Certas portas são tanto proteção quanto armadilhas.",
+      "A ideia de segurança é constantemente colocada em dúvida.",
+      "A tensão psicológica é tão intensa quanto os sustos.",
+      "O final revela o peso das escolhas passadas."
+    ]
+  },
+  {
+    answer: "Pobres Criaturas",
+    tips: [
+      "A narrativa mistura elementos de ficção científica e romance.",
+      "O protagonismo feminino traz uma visão única sobre a vida e as emoções.",
+      "Um cientista excêntrico realiza um experimento incomum e revolucionário.",
+      "A história desafia conceitos tradicionais sobre humanidade e consciência.",
+      "A estética visual mistura o gótico com o moderno.",
+      "Explora o tema da liberdade e da descoberta do próprio propósito.",
+      "A ideia de 'recriação' ganha um significado profundo.",
+      "Há uma crítica velada à opressão de valores sociais.",
+      "O tom é ao mesmo tempo humorístico e filosófico.",
+      "A protagonista faz uma jornada literal e figurativa de autodescoberta.",
+      "A ciência é vista como um instrumento tanto de criação quanto de destruição.",
+      "Uma cidade europeia é o ponto de partida da história.",
+      "Relações humanas complexas e desafiadoras estão no centro da narrativa.",
+      "O final sugere que a verdadeira liberdade vem do conhecimento.",
+      "É uma reinterpretação criativa de mitos clássicos e literários."
+    ]
+  },
+  {
+    answer: "M3GAN",
+    tips: [
+      "A trama gira em de uma boneca robótica.",
+      "Uma criança solitária é o centro de um experimento inovador.",
+      "O produto tecnológico foi projetado para ajudar, mas acaba ultrapassando limites.",
+      "O tema de inteligência artificial e responsabilidade humana é central.",
+      "A relação entre a protagonista e a máquina começa de forma inocente.",
+      "Inspirado em um filme de terror clássico de um boneco ruivo.",
+      "Questões sobre maternidade e apego emocional são exploradas.",
+      "A história faz um alerta sobre a dependência excessiva de tecnologias.",
+      "Uma amizade improvável se torna perigosa com o tempo.",
+      "Os limites entre proteção e possessividade se tornam borrados.",
+      "A tecnologia se adapta de maneiras que surpreendem seus criadores.",
+      "O tom é uma mistura de comédia, terror e suspense.",
+      "Há cenas que exploram a conexão emocional entre humanos e máquinas.",
+      "A máquina exibe habilidades inesperadas e assustadoras.",
+      "O final questiona o controle que temos sobre nossas criações."
+    ]
+  },
+  {
+    answer: "Mãe!",
+    tips: [
+      "Uma história de terror psicológico que acontece inteiramente em um único local.",
+      "Um casal vive em uma casa isolada, cercada por mistérios.",
+      "O cotidiano tranquilo é interrompido por visitantes inesperados.",
+      "A narrativa mistura simbolismos religiosos e existenciais.",
+      "O enredo é uma metáfora sobre a bíblia.",
+      "Cada personagem representa um conceito abstrato ou arquétipo.",
+      "O protagonista masculino tem uma obsessão que guia suas ações.",
+      "O clima do filme passa de desconfortável para caótico rapidamente.",
+      "Há uma crítica clara ao egoísmo e à exploração humana.",
+      "A casa é um reflexo da condição emocional da protagonista.",
+      "Tem momentos de puro surrealismo e simbolismo visual.",
+      "O ritmo crescente cria uma sensação de pânico e desespero.",
+      "Certos eventos podem ser interpretados como ciclos da vida e morte.",
+      "O título é uma referência direta à protagonista e ao tema central.",
+      "O final é circular, sugerindo repetição e inevitabilidade."
+    ]
+  },
+  {
+    answer: "A Substância",
+    tips: [
+      "É uma obra que mistura ficção científica e horror.",
+      "Aborda a relação entre consumo e comportamento humano.",
+      "Inclui um produto que se torna irresistível.",
+      "Tem críticas ao consumismo e à manipulação de massas.",
+      "Seus elementos centrais envolvem algo que é injetado.",
+      "Duas mulheres 'dividem' o mesmo corpo.",
+      "Elementos visuais remetem a filmes clássicos dos anos 1980.",
+      "Algumas cenas destacam mudanças físicas grotescas.",
+      "A narrativa contém reviravoltas que desvendam segredos ocultos.",
+      "É impactante e visceral.",
+      "Certos personagens são vítimas de obsessão incontrolável pela perfeição.",
+      "A direção foca em criar tensão e desconforto.",
+      "O produto no centro da história é tanto uma solução quanto um problema.",
+      "A trilha sonora aumenta a sensação de mistério e desconforto.",
+      "Os eventos levam a questionamentos sobre até onde a busca pela juventude pode ir."
+    ]
+  },
+  {
+    answer: "A Culpa é das Estrelas",
+    tips: [
+      "É inspirado em uma obra literária que foi sucesso mundial.",
+      "O tema central envolve duas pessoas conectadas por uma luta semelhante.",
+      "O enredo explora a relação entre amor, perda e mortalidade.",
+      "Uma cidade europeia conhecida por seus canais serve como cenário marcante.",
+      "A respiração é uma metáfora recorrente na história.",
+      "Um símbolo cotidiano, usado de forma inusitada, representa o controle sobre o destino.",
+      "A literatura tem um papel importante na conexão dos protagonistas.",
+      "Há uma cena memorável envolvendo um banco público.",
+      "A trama questiona a ideia de legado e como ser lembrado.",
+      "Um evento transformador ocorre por meio de uma fundação de desejos.",
+      "A história cita 'infinitos' e explora o que eles significam no tempo limitado.",
+      "Um certo livro fictício causa decepção, mas também aprendizado.",
+      "O título faz alusão à tragédia e à influência do destino.",
+      "Um discurso emocionante ocorre em um local sagrado e cercado por vitrais.",
+      "O final deixa uma mensagem agridoce sobre o impacto das vidas que tocamos."
+    ]
+  },
+  {
+    answer: "High School Musical",
+    tips: [
+      "A história começa durante uma festa de Ano Novo.",
+      "Um encontro inesperado muda o curso da vida escolar de duas pessoas.",
+      "Certas cenas são icônicas por suas coreografias sincronizadas.",
+      "É ambientado em uma escola com equipes esportivas competitivas.",
+      "Um teatro se torna o centro das atenções em vários momentos.",
+      "Um grupo de personagens luta contra o 'status quo' para buscar seus sonhos.",
+      "A música desempenha um papel importante no desenvolvimento da trama.",
+      "Há uma mensagem clara sobre se permitir explorar novas possibilidades.",
+      "Uma cafeteria é palco de uma revelação inesperada.",
+      "Gêmeos 'vilanescos' tentam mudar o rumo das coisas.",
+      "A pressão de um campeonato esportivo é um dos grandes conflitos.",
+      "Certas datas na história parecem sempre coincidir com grandes eventos.",
+      "Um calendário escolar tem um papel simbólico no enredo.",
+      "A música tema se tornou um hino para uma geração.",
+      "A frase 'Estamos juntos nisso' encapsula a mensagem principal."
+    ]
+  },
+  {
+    answer: "Descendentes",
+    tips: [
+      "O enredo envolve filhos de figuras famosas.",
+      "Une personagens de diferentes universos ficcionais.",
+      "A história mistura fantasia e aventura.",
+      "Explora temas como escolha entre o bem e o mal.",
+      "A trama é ambientada em uma ilha isolada.",
+      "As músicas são parte essencial da narrativa.",
+      "Alguns personagens carregam objetos mágicos.",
+      "O contraste entre duas sociedades opostas é central.",
+      "A amizade muda o destino de muitos protagonistas.",
+      "Inclui desafios envolvendo herança e identidade.",
+      "Os figurinos destacam estilos inspirados em contos de fadas.",
+      "A rivalidade entre personagens reflete as escolhas dos pais.",
+      "É uma história sobre redenção e novas chances.",
+      "A mensagem central é que não somos definidos pelo nosso passado.",
+      "Cada personagem traz referências às histórias clássicas de suas origens."
+    ]
+  },
+  {
+    answer: "A Noiva Cadáver",
+    tips: [
+      "O enredo acontece em dois mundos com contrastes visuais marcantes.",
+      "Um casamento inesperado serve como ponto de partida para a história.",
+      "O mundo dos vivos é sombrio, enquanto o dos mortos é vibrante e cheio de humor.",
+      "Um piano é central para expressar emoções de um dos protagonistas.",
+      "Uma floresta é o local onde um evento mágico e inesperado acontece.",
+      "Há uma forte presença de temas como lealdade, amor e sacrifício.",
+      "A trama explora o conceito de liberdade no amor.",
+      "Um animal com características humanas age como conselheiro.",
+      "A história inclui uma tradição cultural sobre o além-vida.",
+      "O toque final envolve borboletas que representam transformação e libertação.",
+      "Um triângulo amoroso é uma peça central da narrativa.",
+      "A justiça é feita de maneira inesperada e até cômica.",
+      "Há uma música que conta a história de um dos personagens centrais.",
+      "Uma cerimônia dá errado de uma forma muito peculiar.",
+      "O final mostra que o verdadeiro amor vai além das aparências."
+    ]
+  },
+  {
     answer: "Coragem",
     suport: ["Personagem", "Coragem, o Cão Covarde"],
     tips: [
@@ -15497,27 +15836,6 @@ const dataMovie = [
       "Suas aventuras são cheias de desafios e recompensas.",
       "Tem um código próprio de conduta e honra.",
       "Sua vida é uma constante busca por ouro e glória.",
-    ],
-  },
-  {
-    answer: "O Abominável Homem das Neves",
-    suport: ["Personagem", "Literatura"],
-    tips: [
-      "Habita regiões geladas e montanhosas.",
-      "Sua existência é debatida entre mito e realidade.",
-      "Deixa pegadas misteriosas na neve.",
-      "É uma criatura que causa medo e fascínio.",
-      "Suas aparições são raras e envoltas em mistério.",
-      "Está associado a lendas de povos montanheses.",
-      "É frequentemente descrito como uma grande figura peluda.",
-      "Representa o mistério das regiões inexploradas.",
-      "Suas pegadas são tema de investigação e especulação.",
-      "Várias expedições foram realizadas para encontrá-lo.",
-      "Sua imagem está ligada a contos de sobrevivência extrema.",
-      "Enfrenta o rigor das montanhas geladas.",
-      "Sua existência é um desafio para exploradores e cientistas.",
-      "Figura central em lendas e mitos alpinos.",
-      "É um símbolo do desconhecido nas alturas nevadas.",
     ],
   },
   {

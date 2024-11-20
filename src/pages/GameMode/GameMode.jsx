@@ -59,7 +59,6 @@ export default function GameMode() {
 
         <button className="btnFive" onClick={handleShuffle}>
           aleatório ​<Shuffle size={30} />
-          ​​​️​
         </button>
       </div>
     </div>
