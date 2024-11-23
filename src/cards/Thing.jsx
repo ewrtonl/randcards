@@ -2611,6 +2611,46 @@ const dataThing = [
     ],
   },
   {
+    answer: "Heterocromia",
+    tips: [
+      "É uma característica física que atrai bastante atenção.",
+      "Pode ocorrer em humanos e outros animais, como gatos e cães.",
+      "Pode ser presente ao nascimento ou adquirida ao longo da vida.",
+      "É causada por variações na quantidade de pigmento em uma região específica.",
+      "Pode ser parcial, envolvendo apenas uma parte, ou completa, envolvendo áreas distintas.",
+      "Costuma ser resultado de genética, lesões ou condições médicas.",
+      "Personagens de ficção que possuem essa característica são muitas vezes vistos como misteriosos.",
+      "É considerada rara, mas não impossível de encontrar.",
+      "Em algumas culturas, é vista como um sinal de boa sorte ou singularidade.",
+      "Pode estar associada a condições médicas como síndrome de Waardenburg ou traumas.",
+      "Na biologia, está relacionada à distribuição desigual de melanina.",
+      "Fotógrafos adoram destacar essa característica em retratos artísticos.",
+      "É mais comum em algumas raças de cães, como os huskies.",
+      "Geralmente não afeta funções principais, mas pode estar ligada a outras condições.",
+      "Pode simbolizar dualidade, diversidade ou singularidade em obras de arte e literatura."
+    ]
+  },
+  {
+    answer: "Vitiligo",
+    tips: [
+      "É uma condição que pode aparecer em qualquer parte do corpo.",
+      "Afeta a pigmentação, criando áreas de coloração distinta.",
+      "Não é contagiosa, mas muitas vezes é mal compreendida.",
+      "Pode se manifestar em pessoas de todas as idades, etnias e gêneros.",
+      "Tem ligações com o sistema imunológico, que age de forma inesperada.",
+      "A ciência ainda investiga as razões exatas para sua ocorrência.",
+      "Algumas pessoas famosas fizeram dela um símbolo de aceitação e beleza.",
+      "Pode se espalhar com o tempo ou permanecer estável em algumas áreas.",
+      "Exposição ao sol pode destacar suas características de forma ainda mais evidente.",
+      "Frequentemente aparece primeiro em áreas como rosto, mãos ou cotovelos.",
+      "Embora não afete diretamente a saúde física, pode impactar emocionalmente.",
+      "Está associada à perda de melanócitos em áreas específicas da pele.",
+      "É retratada em campanhas de conscientização sobre diversidade e inclusão.",
+      "Pode ser tratada com terapias que estimulam a pigmentação ou promovem uniformidade.",
+      "Apesar das diferenças visuais, não altera as funções normais da pele."
+    ]
+  },
+  {
     answer: "Ombreiras",
     tips: [
       "Podem ser vistas em trajes cerimoniais ou militares.",
@@ -3630,6 +3670,46 @@ const dataThing = [
       "Pode ser uma atração turística por sua cultura e paisagem.",
       "Muitas vezes, governada por um líder local ou conselho.",
     ],
+  },
+  {
+    answer: "Varinha de Condão",
+    tips: [
+      "É frequentemente associada a mudanças instantâneas.",
+      "Está presente em histórias de fantasia e contos infantis.",
+      "Muitas vezes, é descrita como um objeto fino e alongado.",
+      "Pode transformar abóboras em carruagens.",
+      "Seus efeitos são temporários em muitas histórias.",
+      "Tem uma relação direta com palavras como 'abracadabra'.",
+      "É usada por personagens que possuem poderes extraordinários.",
+      "Alguns acreditam que precisa de um movimento específico para funcionar.",
+      "Costuma ser retratada como brilhante ou com partículas mágicas ao redor.",
+      "É comum ser um símbolo de esperança e resolução.",
+      "Pode transformar realidades e alterar aparências.",
+      "Muitas vezes é usada para conceder desejos.",
+      "É um instrumento de poder nas mãos de figuras de autoridade mágicas.",
+      "Não funciona sem quem saiba como utilizá-la.",
+      "Seu efeito depende muito da imaginação ou intenção de quem a empunha."
+    ]
+  },
+  {
+    answer: "Alcachofra",
+    tips: [
+      "É frequentemente vista como um prato sofisticado.",
+      "Já foi considerada um alimento reservado à nobreza.",
+      "Tem uma estrutura composta por camadas.",
+      "É cultivada em regiões de clima ameno.",
+      "Suas pétalas podem ser removidas uma a uma para consumo.",
+      "É uma flor antes de ser um alimento.",
+      "É rica em antioxidantes e fibras.",
+      "Sua preparação pode ser demorada, mas recompensadora.",
+      "É um símbolo de paciência no mundo culinário.",
+      "Alguns dizem que o prazer está em descobrir seu coração.",
+      "Pode ser servida recheada, grelhada ou em conserva.",
+      "É relacionada a uma deusa na mitologia romana.",
+      "Possui um sabor único que mistura notas terrosas e vegetais.",
+      "É apreciada em várias cozinhas ao redor do mundo, especialmente na mediterrânea.",
+      "Seus benefícios vão além do sabor, contribuindo para a saúde do fígado."
+    ]
   },
   {
     answer: "Tango",
@@ -17049,6 +17129,66 @@ const dataThing = [
     ]
   },
   {
+    answer: "Heterocromia",
+    tips: [
+      "É uma característica física que atrai bastante atenção.",
+      "Pode ocorrer em humanos e outros animais, como gatos e cães.",
+      "Pode ser presente ao nascimento ou adquirida ao longo da vida.",
+      "É causada por variações na quantidade de pigmento em uma região específica.",
+      "Pode ser parcial, envolvendo apenas uma parte, ou completa, envolvendo áreas distintas.",
+      "Costuma ser resultado de genética, lesões ou condições médicas.",
+      "Personagens de ficção que possuem essa característica são muitas vezes vistos como misteriosos.",
+      "É considerada rara, mas não impossível de encontrar.",
+      "Em algumas culturas, é vista como um sinal de boa sorte ou singularidade.",
+      "Pode estar associada a condições médicas como síndrome de Waardenburg ou traumas.",
+      "Na biologia, está relacionada à distribuição desigual de melanina.",
+      "Fotógrafos adoram destacar essa característica em retratos artísticos.",
+      "É mais comum em algumas raças de cães, como os huskies.",
+      "Geralmente não afeta funções principais, mas pode estar ligada a outras condições.",
+      "Pode simbolizar dualidade, diversidade ou singularidade em obras de arte e literatura."
+    ]
+  },
+  {
+    answer: "Varinha de Condão",
+    tips: [
+      "É frequentemente associada a mudanças instantâneas.",
+      "Está presente em histórias de fantasia e contos infantis.",
+      "Muitas vezes, é descrita como um objeto fino e alongado.",
+      "Pode transformar abóboras em carruagens.",
+      "Seus efeitos são temporários em muitas histórias.",
+      "Tem uma relação direta com palavras como 'abracadabra'.",
+      "É usada por personagens que possuem poderes extraordinários.",
+      "Alguns acreditam que precisa de um movimento específico para funcionar.",
+      "Costuma ser retratada como brilhante ou com partículas mágicas ao redor.",
+      "É comum ser um símbolo de esperança e resolução.",
+      "Pode transformar realidades e alterar aparências.",
+      "Muitas vezes é usada para conceder desejos.",
+      "É um instrumento de poder nas mãos de figuras de autoridade mágicas.",
+      "Não funciona sem quem saiba como utilizá-la.",
+      "Seu efeito depende muito da imaginação ou intenção de quem a empunha."
+    ]
+  },
+  {
+    answer: "Alcachofra",
+    tips: [
+      "É frequentemente vista como um prato sofisticado.",
+      "Já foi considerada um alimento reservado à nobreza.",
+      "Tem uma estrutura composta por camadas.",
+      "É cultivada em regiões de clima ameno.",
+      "Suas pétalas podem ser removidas uma a uma para consumo.",
+      "É uma flor antes de ser um alimento.",
+      "É rica em antioxidantes e fibras.",
+      "Sua preparação pode ser demorada, mas recompensadora.",
+      "É um símbolo de paciência no mundo culinário.",
+      "Alguns dizem que o prazer está em descobrir seu coração.",
+      "Pode ser servida recheada, grelhada ou em conserva.",
+      "É relacionada a uma deusa na mitologia romana.",
+      "Possui um sabor único que mistura notas terrosas e vegetais.",
+      "É apreciada em várias cozinhas ao redor do mundo, especialmente na mediterrânea.",
+      "Seus benefícios vão além do sabor, contribuindo para a saúde do fígado."
+    ]
+  },
+  {
     answer: "Útero",
     tips: [
       "É o centro de desenvolvimento em uma etapa importante da vida.",
@@ -17407,6 +17547,26 @@ const dataThing = [
       "Pode afetar a qualidade do sono e a saúde mental.",
       "Interpretações simbólicas podem revelar medos profundos.",
     ],
+  },
+  {
+    answer: "Vitiligo",
+    tips: [
+      "É uma condição que pode aparecer em qualquer parte do corpo.",
+      "Afeta a pigmentação, criando áreas de coloração distinta.",
+      "Não é contagiosa, mas muitas vezes é mal compreendida.",
+      "Pode se manifestar em pessoas de todas as idades, etnias e gêneros.",
+      "Tem ligações com o sistema imunológico, que age de forma inesperada.",
+      "A ciência ainda investiga as razões exatas para sua ocorrência.",
+      "Algumas pessoas famosas fizeram dela um símbolo de aceitação e beleza.",
+      "Pode se espalhar com o tempo ou permanecer estável em algumas áreas.",
+      "Exposição ao sol pode destacar suas características de forma ainda mais evidente.",
+      "Frequentemente aparece primeiro em áreas como rosto, mãos ou cotovelos.",
+      "Embora não afete diretamente a saúde física, pode impactar emocionalmente.",
+      "Está associada à perda de melanócitos em áreas específicas da pele.",
+      "É retratada em campanhas de conscientização sobre diversidade e inclusão.",
+      "Pode ser tratada com terapias que estimulam a pigmentação ou promovem uniformidade.",
+      "Apesar das diferenças visuais, não altera as funções normais da pele."
+    ]
   },
   {
     answer: "Palavrão",

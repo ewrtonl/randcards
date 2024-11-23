@@ -963,7 +963,7 @@ const dataMovie = [
   },
   {
     answer: "Matilda",
-    suport: ["Personagem", "Matilda"],
+    suport: ["Personagem"],
     tips: [
       "É uma jovem com inteligência fora do comum.",
       "Vive com uma família que não valoriza sua habilidade.",
@@ -1717,7 +1717,7 @@ const dataMovie = [
   },
   {
     answer: "Fleabag",
-    suport: ["Personagem", "Fleabag"],
+    suport: ["Personagem"],
     tips: [
       "É uma personagem complexa e multifacetada.",
       "Rompe frequentemente a quarta parede, falando diretamente ao público.",
@@ -2065,7 +2065,7 @@ const dataMovie = [
   },
   {
     answer: "John Wick",
-    suport: ["Personagem", "John Wick"],
+    suport: ["Personagem"],
     tips: [
       "É um ex-assassino de renome.",
       "Sua vida pacífica é interrompida por uma tragédia pessoal.",
@@ -3089,7 +3089,7 @@ const dataMovie = [
   },
   {
     answer: "Barbie",
-    suport: ["Personagem", "Barbie"],
+    suport: ["Personagem"],
     tips: [
       "É conhecida por ter muitas profissões diferentes.",
       "Vive em uma casa dos sonhos.",
@@ -4547,7 +4547,7 @@ const dataMovie = [
   },
   {
     answer: "Polly Pocket",
-    suport: ["Personagem", "Polly"],
+    suport: ["Personagem"],
     tips: [
       "É uma figura pequena que cabe na palma da mão.",
       "Vive em um mundo de miniaturas encantadoras.",
@@ -4841,7 +4841,7 @@ const dataMovie = [
   },
   {
     answer: "Nosferatu",
-    suport: ["Personagem", "Nosferatu"],
+    suport: ["Personagem"],
     tips: [
       "Prefere a escuridão.",
       "Tem um medo irracional do sol.",
@@ -4924,8 +4924,8 @@ const dataMovie = [
     ],
   },
   {
-    answer: "Conde Drácula",
-    suport: ["Personagem", "Drácula"],
+    answer: "Drácula",
+    suport: ["Personagem"],
     tips: [
       "Vive em um castelo nos Cárpatos.",
       "É um nobre antigo.",
@@ -5407,7 +5407,7 @@ const dataMovie = [
   },
   {
     answer: "Naruto",
-    suport: ["Personagem", "Naruto"],
+    suport: ["Personagem"],
     tips: [
       "Tem um espírito indomável e nunca desiste.",
       "Seu sonho é se tornar o líder de sua vila.",
@@ -5470,7 +5470,7 @@ const dataMovie = [
   },
   {
     answer: "Pantera Cor-de-Rosa",
-    suport: ["Personagem", "A Pantera Cor-de-Rosa"],
+    suport: ["Personagem"],
     tips: [
       "É um personagem conhecido por sua cor única.",
       "A elegância e o mistério são suas marcas registradas.",
@@ -5533,7 +5533,7 @@ const dataMovie = [
   },
   {
     answer: "Ursinho Pooh",
-    suport: ["Personagem", "O Ursinho Pooh"],
+    suport: ["Personagem"],
     tips: [
       "Vive em um lugar tranquilo e encantador.",
       "Tem um grande amor por um alimento doce e pegajoso.",
@@ -5575,7 +5575,7 @@ const dataMovie = [
   },
   {
     answer: "Popeye",
-    suport: ["Personagem", "Popeye"],
+    suport: ["Personagem"],
     tips: [
       "Ganha força incrível ao consumir um vegetal específico.",
       "Tem um amor inabalável por uma mulher alta e magra.",
@@ -5596,7 +5596,7 @@ const dataMovie = [
   },
   {
     answer: "Moranguinho",
-    suport: ["Personagem", "Moranguinho"],
+    suport: ["Personagem"],
     tips: [
       "Vive em uma terra mágica cheia de frutas e flores.",
       "É conhecida por seu chapéu decorado com uma fruta específica.",
@@ -5680,7 +5680,7 @@ const dataMovie = [
   },
   {
     answer: "Betty Boop",
-    suport: ["Personagem", "Betty Boop"],
+    suport: ["Personagem"],
     tips: [
       "Surgiu durante a era de ouro da animação.",
       "Conhecida por sua voz infantil e cativante.",
@@ -5701,7 +5701,7 @@ const dataMovie = [
   },
   {
     answer: "Hannah Montana",
-    suport: ["Personagem", "Hannah Montana"],
+    suport: ["Personagem"],
     tips: [
       "Leva uma vida dupla que poucos conhecem.",
       "Canta em estádios lotados e também faz dever de casa.",
@@ -5721,8 +5721,8 @@ const dataMovie = [
     ],
   },
   {
-    answer: "Kong",
-    suport: ["Personagem", "King Kong"],
+    answer: "King Kong",
+    suport: ["Personagem"],
     tips: [
       "Originário de uma ilha misteriosa e perigosa.",
       "Tem um fascínio por arranha-céus.",
@@ -5743,7 +5743,7 @@ const dataMovie = [
   },
   {
     answer: "Godzilla",
-    suport: ["Personagem", "Godzilla"],
+    suport: ["Personagem"],
     tips: [
       "Surge do mar para causar destruição em massa.",
       "É uma metáfora para os perigos da radiação e da guerra nuclear.",
@@ -6446,7 +6446,7 @@ const dataMovie = [
   },
   {
     answer: "Mary Poppins",
-    suport: ["Personagem", "Mary Poppins"],
+    suport: ["Personagem"],
     tips: [
       "Chega com o vento do leste.",
       "Tem uma bolsa aparentemente sem fundo.",
@@ -6677,7 +6677,7 @@ const dataMovie = [
   },
   {
     answer: "Grinch",
-    suport: ["Personagem", "O Grinch"],
+    suport: ["Personagem"],
     tips: [
       "Vive isolado de uma comunidade alegre.",
       "Tem um coração que inicialmente é pequeno e frio.",
@@ -6803,7 +6803,7 @@ const dataMovie = [
   },
   {
     answer: "Peter Pan",
-    suport: ["Personagem", "Peter Pan"],
+    suport: ["Personagem"],
     tips: [
       "Vive em um lugar onde o tempo parece não passar.",
       "É conhecido por sua habilidade de voar.",
@@ -10042,7 +10042,7 @@ const dataMovie = [
   },
   {
     answer: "Matilda",
-    suport: ["Personagem", "Matilda"],
+    suport: ["Personagem"],
     tips: [
       "É uma jovem com inteligência fora do comum.",
       "Vive com uma família que não valoriza sua habilidade.",
@@ -10796,7 +10796,7 @@ const dataMovie = [
   },
   {
     answer: "Fleabag",
-    suport: ["Personagem", "Fleabag"],
+    suport: ["Personagem"],
     tips: [
       "É uma personagem complexa e multifacetada.",
       "Rompe frequentemente a quarta parede, falando diretamente ao público.",
@@ -11144,7 +11144,7 @@ const dataMovie = [
   },
   {
     answer: "John Wick",
-    suport: ["Personagem", "John Wick"],
+    suport: ["Personagem"],
     tips: [
       "É um ex-assassino de renome.",
       "Sua vida pacífica é interrompida por uma tragédia pessoal.",
@@ -12168,7 +12168,7 @@ const dataMovie = [
   },
   {
     answer: "Barbie",
-    suport: ["Personagem", "Barbie"],
+    suport: ["Personagem"],
     tips: [
       "É conhecida por ter muitas profissões diferentes.",
       "Vive em uma casa dos sonhos.",
@@ -13626,7 +13626,7 @@ const dataMovie = [
   },
   {
     answer: "Polly Pocket",
-    suport: ["Personagem", "Polly"],
+    suport: ["Personagem"],
     tips: [
       "É uma figura pequena que cabe na palma da mão.",
       "Vive em um mundo de miniaturas encantadoras.",
@@ -13920,7 +13920,7 @@ const dataMovie = [
   },
   {
     answer: "Nosferatu",
-    suport: ["Personagem", "Nosferatu"],
+    suport: ["Personagem"],
     tips: [
       "Prefere a escuridão.",
       "Tem um medo irracional do sol.",
@@ -14003,8 +14003,8 @@ const dataMovie = [
     ],
   },
   {
-    answer: "Conde Drácula",
-    suport: ["Personagem", "Drácula"],
+    answer: "Drácula",
+    suport: ["Personagem"],
     tips: [
       "Vive em um castelo nos Cárpatos.",
       "É um nobre antigo.",
@@ -14486,7 +14486,7 @@ const dataMovie = [
   },
   {
     answer: "Naruto",
-    suport: ["Personagem", "Naruto"],
+    suport: ["Personagem"],
     tips: [
       "Tem um espírito indomável e nunca desiste.",
       "Seu sonho é se tornar o líder de sua vila.",
@@ -14549,7 +14549,7 @@ const dataMovie = [
   },
   {
     answer: "Pantera Cor-de-Rosa",
-    suport: ["Personagem", "A Pantera Cor-de-Rosa"],
+    suport: ["Personagem"],
     tips: [
       "É um personagem conhecido por sua cor única.",
       "A elegância e o mistério são suas marcas registradas.",
@@ -14612,7 +14612,7 @@ const dataMovie = [
   },
   {
     answer: "Ursinho Pooh",
-    suport: ["Personagem", "O Ursinho Pooh"],
+    suport: ["Personagem"],
     tips: [
       "Vive em um lugar tranquilo e encantador.",
       "Tem um grande amor por um alimento doce e pegajoso.",
@@ -14834,7 +14834,7 @@ const dataMovie = [
   },
   {
     answer: "Popeye",
-    suport: ["Personagem", "Popeye"],
+    suport: ["Personagem"],
     tips: [
       "Ganha força incrível ao consumir um vegetal específico.",
       "Tem um amor inabalável por uma mulher alta e magra.",
@@ -14855,7 +14855,7 @@ const dataMovie = [
   },
   {
     answer: "Moranguinho",
-    suport: ["Personagem", "Moranguinho"],
+    suport: ["Personagem"],
     tips: [
       "Vive em uma terra mágica cheia de frutas e flores.",
       "É conhecida por seu chapéu decorado com uma fruta específica.",
@@ -14939,7 +14939,7 @@ const dataMovie = [
   },
   {
     answer: "Betty Boop",
-    suport: ["Personagem", "Betty Boop"],
+    suport: ["Personagem"],
     tips: [
       "Surgiu durante a era de ouro da animação.",
       "Conhecida por sua voz infantil e cativante.",
@@ -14960,7 +14960,7 @@ const dataMovie = [
   },
   {
     answer: "Hannah Montana",
-    suport: ["Personagem", "Hannah Montana"],
+    suport: ["Personagem"],
     tips: [
       "Leva uma vida dupla que poucos conhecem.",
       "Canta em estádios lotados e também faz dever de casa.",
@@ -14980,8 +14980,8 @@ const dataMovie = [
     ],
   },
   {
-    answer: "Kong",
-    suport: ["Personagem", "King Kong"],
+    answer: "King Kong",
+    suport: ["Personagem"],
     tips: [
       "Originário de uma ilha misteriosa e perigosa.",
       "Tem um fascínio por arranha-céus.",
@@ -15002,7 +15002,7 @@ const dataMovie = [
   },
   {
     answer: "Godzilla",
-    suport: ["Personagem", "Godzilla"],
+    suport: ["Personagem"],
     tips: [
       "Surge do mar para causar destruição em massa.",
       "É uma metáfora para os perigos da radiação e da guerra nuclear.",
@@ -15525,7 +15525,7 @@ const dataMovie = [
   },
   {
     answer: "Mary Poppins",
-    suport: ["Personagem", "Mary Poppins"],
+    suport: ["Personagem"],
     tips: [
       "Chega com o vento do leste.",
       "Tem uma bolsa aparentemente sem fundo.",
@@ -15756,7 +15756,7 @@ const dataMovie = [
   },
   {
     answer: "Grinch",
-    suport: ["Personagem", "O Grinch"],
+    suport: ["Personagem"],
     tips: [
       "Vive isolado de uma comunidade alegre.",
       "Tem um coração que inicialmente é pequeno e frio.",
@@ -15882,7 +15882,7 @@ const dataMovie = [
   },
   {
     answer: "Peter Pan",
-    suport: ["Personagem", "Peter Pan"],
+    suport: ["Personagem"],
     tips: [
       "Vive em um lugar onde o tempo parece não passar.",
       "É conhecido por sua habilidade de voar.",

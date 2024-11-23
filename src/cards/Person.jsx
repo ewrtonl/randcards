@@ -2903,6 +2903,27 @@ const dataPerson = [
     ],
   },
   {
+    answer: "Lindsay Lohan",
+    suport: ["Atriz", "Cantora"],
+    tips: [
+      "Estreou na infância, mas teve sua fama alavancada na adolescência.",
+      "Foi parte de uma das comédias mais icônicas sobre ensino médio.",
+      "Teve uma atuação marcante onde interpretou duas personagens idênticas.",
+      "Viveu momentos polêmicos envolvendo prisões e julgamentos amplamente divulgados.",
+      "Seu trabalho como atriz inclui papéis em comédia, drama e musicais.",
+      "É conhecida por sua versatilidade e talento desde muito jovem.",
+      "Já lançou música e tem uma voz que combina com estilos pop e dance.",
+      "Sua relação com os holofotes e a fama gerou tanto aplausos quanto críticas.",
+      "Protagonizou um filme onde se envolvia em situações incomuns com sua mãe.",
+      "Teve sua carreira impactada por períodos de reabilitação e questões judiciais.",
+      "Fez parte de uma geração de jovens estrelas de Hollywood que marcaram os anos 2000.",
+      "Seu visual mudou muito ao longo dos anos, mas continua facilmente reconhecível.",
+      "Já esteve associada a projetos relacionados a moda e negócios.",
+      "Fez uma pausa na carreira, mas retornou para trabalhar em novos projetos.",
+      "Seu talento ainda é lembrado por muitos fãs, apesar das controvérsias."
+    ]
+  },
+  {
     answer: "Kim Kardashian",
     suport: ["Personalidade da TV", "Empresária"],
     tips: [
@@ -9683,6 +9704,27 @@ const dataPerson = [
       "Seu foco é o sistema músculo-esquelético.",
       "Busca restabelecer o equilíbrio corporal.",
     ],
+  },
+  {
+    answer: "Lindsay Lohan",
+    suport: ["Atriz", "Cantora"],
+    tips: [
+      "Estreou na infância, mas teve sua fama alavancada na adolescência.",
+      "Foi parte de uma das comédias mais icônicas sobre ensino médio.",
+      "Teve uma atuação marcante onde interpretou duas personagens idênticas.",
+      "Viveu momentos polêmicos envolvendo prisões e julgamentos amplamente divulgados.",
+      "Seu trabalho como atriz inclui papéis em comédia, drama e musicais.",
+      "É conhecida por sua versatilidade e talento desde muito jovem.",
+      "Já lançou música e tem uma voz que combina com estilos pop e dance.",
+      "Sua relação com os holofotes e a fama gerou tanto aplausos quanto críticas.",
+      "Protagonizou um filme onde se envolvia em situações incomuns com sua mãe.",
+      "Teve sua carreira impactada por períodos de reabilitação e questões judiciais.",
+      "Fez parte de uma geração de jovens estrelas de Hollywood que marcaram os anos 2000.",
+      "Seu visual mudou muito ao longo dos anos, mas continua facilmente reconhecível.",
+      "Já esteve associada a projetos relacionados a moda e negócios.",
+      "Fez uma pausa na carreira, mas retornou para trabalhar em novos projetos.",
+      "Seu talento ainda é lembrado por muitos fãs, apesar das controvérsias."
+    ]
   },
   {
     answer: "Otorrinolaringologista",

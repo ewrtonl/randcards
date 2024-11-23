@@ -43,21 +43,14 @@ export default function Info() {
           </p>
 
           <p>
-            <span>6.</span> Após ler a dica, o mediador pode clicar sobre ela
-            para descartá-la. Isso ajuda a prevenir confusões na contagem de
-            pontos e assegura que todos os participantes saibam que a dica já
-            foi utilizada.
-          </p>
-
-          <p>
-            <span>7.</span> Se o jogador acertar, uma nova carta é sorteada e o
+            <span>6.</span> Se o jogador acertar, uma nova carta é sorteada e o
             jogador à esquerda se torna o novo mediador. Se o jogador errar, a
             vez passa para o próximo jogador à esquerda, que seguirá o mesmo
             processo.
           </p>
 
           <p>
-            <span>8.</span> Cada card vale 15 pontos. Esses pontos são divididos
+            <span>7.</span> Cada card vale 15 pontos. Esses pontos são divididos
             entre o mediador e o jogador que acertar o palpite. O mediador
             recebe um ponto para cada dica revelada. O jogador que acertar
             recebe pontos equivalentes ao número de dicas não reveladas.
@@ -73,15 +66,15 @@ export default function Info() {
           </p>
 
           <p className="infoThemeTwo">
-            <span>Lugar</span>
-            abrange cidades, estados, países, qualquer formação natural, construção humana ou lugares
-            fictícios.
+            <span>Coisa</span>é bastante ampla e pode incluir animais, objetos
+            inanimados, substantivos, conceitos abstratos, acontecimentos históricos e qualquer outro
+            perfil que não se encaixe nas categorias anteriores.
           </p>
 
           <p className="infoThemeThree">
-            <span>Coisa</span>é bastante ampla e pode incluir animais, objetos
-            inanimados, substantivos, conceitos abstratos e qualquer outro
-            perfil que não se encaixe nas categorias anteriores.
+            <span>Lugar</span>
+            abrange cidades, estados, países, qualquer formação natural, construção humana ou lugares
+            fictícios.
           </p>
 
           <p className="infoThemeFour">
