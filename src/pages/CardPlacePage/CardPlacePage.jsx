@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import "./CardPlacePage.css";
 import dataPlace from "../../cards/Place";
-import { CaretLeft, CrownSimple, ArrowUpLeft } from "@phosphor-icons/react";
+import { CrownSimple, X } from "@phosphor-icons/react";
 import { Link } from "react-router-dom";
 
 export default function CardPlacePage() {
@@ -63,7 +63,7 @@ export default function CardPlacePage() {
     <div>
       <Link to={"/gamemode"}>
         <button className="backButton">
-          <ArrowUpLeft size={26} />
+          <X size={26} />
         </button>
       </Link>
 

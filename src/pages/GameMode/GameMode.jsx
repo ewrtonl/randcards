@@ -15,14 +15,11 @@ export default function GameMode() {
 
   function handleShuffle() {
     const random = Math.floor(Math.random() * 4) + 1;
-    if (random === 1) {
-      navigate("/personcard");
-    } else if (random === 2) {
-      navigate("/thingcard");
-    } else if (random === 3) {
-      navigate("/placecard");
-    } else if (random === 4) {
-      navigate("/moviecard");
+    switch (random) {
+      case 1: return navigate("/personcard");
+      case 2: return navigate("/thingcard");
+      case 3: return navigate("/placecard");
+      case 4: return navigate("/moviecard");
     }
   }
 
@@ -35,30 +32,30 @@ export default function GameMode() {
       <div className="gameMode">
         <Link to={"/personcard"} className="link">
           <button className="btnOne">
-            pessoa <PersonArmsSpread size={28} />
+          <PersonArmsSpread size={28} /> pessoa
           </button>
         </Link>
 
         <Link to={"/thingcard"} className="link">
           <button className="btnTwo">
-            coisa <FlyingSaucer size={30} />
+          <FlyingSaucer size={30} /> coisa
           </button>
         </Link>
 
         <Link to={"/placecard"} className="link">
           <button className="btnThree">
-            lugar <GlobeHemisphereWest size={30} />
+          <GlobeHemisphereWest size={30} /> lugar
           </button>
         </Link>
 
         <Link to={"/moviecard"} className="link">
           <button className="btnFour">
-            filme & tv <Television size={30} />
+          <Television size={30} /> filme & tv
           </button>
         </Link>
 
         <button className="btnFive" onClick={handleShuffle}>
-          aleatório ​<Shuffle size={30} />
+        ​<Shuffle size={30} /> aleatório
         </button>
       </div>
     </div>
